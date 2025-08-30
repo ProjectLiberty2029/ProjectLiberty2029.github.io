@@ -1,0 +1,28 @@
+/* Body styles for background and default text color */
+body {
+  background-color: #0F356D; /* Dark Blue Background */
+  color: #EBEAD9; /* Cream White Text Color */
+  font-family: Platypi, serif; /* Basic font choice */
+}
+
+/* Hyperlink styles */
+a {
+  color: #C4151D; /* lighter red for unvisited links */
+  text-decoration: none; /* Remove underline from links */
+}
+
+/* Styles for visited hyperlinks */
+a:visited {
+  color: #940F15; /* Darker red for visited links */
+}
+
+/* Styles for hyperlinks on hover (when mouse is over them) */
+a:hover {
+  color: #A4B6C1; /* Grey on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
+
+/* Styles for active hyperlinks (when clicked) */
+a:active {
+  color: #76838B; /* Darker grey when active */
+}
