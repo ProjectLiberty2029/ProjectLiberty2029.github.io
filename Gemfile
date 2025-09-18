@@ -15,7 +15,6 @@ source "https://rubygems.org"
 #gem "jekyll-theme-leap-day", "~> 0.2.0"
 gem "jekyll-theme-pl2029", git: "https://github.com/ProjectLiberty2029/PL2029.git"
 
-#gem "fiddle"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 232", group: :jekyll_plugins
