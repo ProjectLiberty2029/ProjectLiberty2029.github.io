@@ -13,6 +13,7 @@ source "https://rubygems.org"
 
 # attempting to convert leap-day to a custom theme that does not depend on anything outside of PL2029
 #gem "jekyll-theme-leap-day", "~> 0.2.0"
+gem "jekyll-theme-pl2029_theme", git: "https://github.com/ProjectLiberty2029/PL2029_theme.git"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
