@@ -29,7 +29,7 @@ github:
 # Build settings
 #theme: minima
 #remote_theme: pages-themes/leap-day@v0.2.0
-remote_theme: https://github.com/ProjectLiberty2029/PL2029
+remote_theme: https://github.com/ProjectLiberty2029/PL2029_theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # this may not be necessary

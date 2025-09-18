@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-pl2029"
+  s.name          = "jekyll-theme-pl2029_theme"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Matt Graham, original, modified by Vector Hasting", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-leap-day@github.com"]
-  s.homepage      = "https://github.com/ProjectLiberty2029/PL2029"
-  s.summary       = "PL2029 is a Jekyll theme for GitHub Pages based on Leap Day"
+  s.homepage      = "https://github.com/ProjectLiberty2029/PL2029_theme"
+  s.summary       = "PL2029_theme is a Jekyll theme for GitHub Pages based on Leap Day"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
