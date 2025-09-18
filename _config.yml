@@ -14,23 +14,27 @@
 #
 
 title: Project Liberty 2029
-
 description: >- # this means to ignore newlines until "baseurl:"
-  Here you will find a blueprint for restoring and securing a 
-  Nation founded in personal Liberty and Justice for All and dedicated
-  to the proposition that a Nation so founded shall not perish from this earth. 
+  Here you will find a blueprint for restoring and securing our Nation, which is dedicated to personal <br />
+  Freedom and Justice, and to the proposition that a Nation so founded shall not perish from this earth. 
+# show_downloads: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ProjectLiberty2029.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ProjectLiberty2029
 
+github:
+  repository_url: "https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io"
+
 # Build settings
 #theme: minima
-remote_theme: pages-themes/leap-day@v0.2.0
-#remote_theme: pages-themes/leap-day
+#remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: https://github.com/ProjectLiberty2029/PL2029
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-remote-theme # this may not be necessary
+
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
