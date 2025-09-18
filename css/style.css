@@ -7,13 +7,13 @@ body {
 
 /* Hyperlink styles */
 a {
-  color: #C4151D; /* lighter red for unvisited links */
+  color: #ed8f93; /* lighter red for unvisited links */
   text-decoration: none; /* Remove underline from links */
 }
 
 /* Styles for visited hyperlinks */
 a:visited {
-  color: #940F15; /* Darker red for visited links */
+  color: #ebb1b4; /* Darker red for visited links */
 }
 
 /* Styles for hyperlinks on hover (when mouse is over them) */

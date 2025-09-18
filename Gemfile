@@ -10,7 +10,11 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
-gem "jekyll-theme-leap-day", "~> 0.2.0"
+
+# attempting to convert leap-day to a custom theme that does not depend on anything outside of PL2029
+#gem "jekyll-theme-leap-day", "~> 0.2.0"
+gem "jekyll-theme-pl2029", git: "https://github.com/ProjectLiberty2029/PL2029.git"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 232", group: :jekyll_plugins
