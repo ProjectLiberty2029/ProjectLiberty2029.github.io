@@ -1,0 +1,76 @@
+= Presidential Primaries
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-liquid:
+:page-stage: 05
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Research the republican coalition composition. Flesh out the perils. Footnote and document assertions.
+:showtitle:
+
+= Defending against Regime influence of Presidential Primaries
+
+During the primaries, from January 2028 and June 2028, there will be unique concerns. 
+
+== Interference
+
+The MAGA regime is likely to interfere in both the Republican and Democratic primaries. 
+
+=== Republican primary abnormality
+
+It is likely (not certain) that DJT will run for the Republican Presidential Nomination in 2028. 
+
+Here is the logic which supports that conclusion: 
+
+The MAGA regime is composed of several factions, presented here in a general approximation of their probable numbers of voters: (this list is not yet well researched)
+
+. Populists (like Steve Bannon), 
+. Christian fundamentalists, (like Mike Johnson) 
+. White nationalists, (like Proud Boy Members)
+. Conspiracists, (like Marjorie Taylor Greene) 
+. Oligarchs (like Elon Musk and Peter Thiel).
+
+These have primarily different but also overlapping goals. 
+
+DJT is unique in his ability to unite these factions. 
+
+There is no one who appears to have enough broad support among all those factions to unite them in the same voting coalition that DJT commands. 
+
+Also, DJT is loathe to give away any power and relevance. 
+He never left the political stage even after losing in 2020. 
+He hardly bothered to campaign and still won the Republican Primaries in 2024.
+
+Once other candidates begin receiving votes, DJT becomes less important. 
+Votes equal power. 
+
+For these reasons, it makes sense for DJT to pull the unprecedented stunt of running for a major party's nomination during the January - June period, even though he is constitutionally ineligible to run in the general election. 
+
+He would explain this to his voters thusly: 
+
+. DJT will run in the primaries to reaffirm that Republicans want him to be President. 
+. At the Republican Convention, he will "King-make" a caretaker presidential candidate, and appoint himself as the Vice Presidential Candidate. 
+. They will run and if they win the Presidency, the plan will be for DJT to take the oath of office for Vice President at Noon on January 20th, 2029, then the caretaker would take the oath of office for President, at which moment the caretaker becomes the 48th President.
+. The caretaker would then resign, which would make DJT the 49th President. 
+. DJT would then nominate the caretaker to be the Vice President, subject to a majority vote by both houses of Congress. link:https://constitution.congress.gov/constitution/amendment-25/["as specified in the US Constitution, 25th Amendment, Section 2", window=read-later,opts="noopener,nofollow"]
+
+This would "get around" the requirement that link:https://constitution.congress.gov/constitution/amendment-22/["no person shall be _elected_ to the office of the President more than twice.", window=read-later,opts="noopener,nofollow"]
+
+This appears a likely move because it preserves his power for the maximum amount of time.
+
+The party itself -- controlled by DJT -- may go along with this as a way to preserve the appearance of party unity. 
+
+A counter-argument against the Republican Party supporting this is also persuasive: party leaders should know that DJT's historic unpopularity 
+
+=== Interference against Democratic Candidates
+
+In the same manner that DJT attempted to manufacture scandal against Joe Biden by asking Ukrainian President Zelinsky to say there was an investigation into Biden, we should expect a fully weaponized US Department of Justice (DOJ) to prepare indictments and innuendo against all Democratic candidates. 
+
+The process will be similar to the one Nixon engaged in using "the Plumbers" to get dirt on his Democratic opponents in order to weaken the field against him. 
+
+== Security
+
+Once a presumptive winner has been determined in the Democratic primaries, there will be a fork in the road as to whether to accept Secret Service protection. 
+
+There is substantial doubt as to whether accepting such protection would be wise. 
+All branches of the US government that are responsible for the use of force are being corrupted, and it is likely that they would be in a position to harm, or to allow harm to befall, a Democratic candidate for President between the period of having received the nomination at a party convention, and the general election date on November 7, 2028. 
