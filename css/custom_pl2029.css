@@ -430,6 +430,9 @@ small {
   font-size:12px;
   color: #f5f3f3;
 }
+smallfilename {
+  font-size:10px;
+}
 
 nav {
   width: 230px;

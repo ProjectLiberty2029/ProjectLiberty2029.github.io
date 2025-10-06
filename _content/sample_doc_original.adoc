@@ -1,7 +1,7 @@
 = Sample Document Original
 :doctype: book
 :table-caption: Data Set
-:imagesdir: /Media/Images/
+:imagesdir: /media/images/
 :page-liquid:
 :page-stage: NoShow
 :page-draft_complete: 50%
@@ -113,10 +113,10 @@ Here are the special Fair and Share Tax Glyphs:       
 
 Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
 
-This is a link to <</Executive_actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
+This is a link to <</Executive_actions/doge_to_rola.adoc#,DOGE to ROLA,>> which is in a different folder.
 This link opens in the same tab.
 
-This is a link to <<Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
+This is a link to <<page_draft_status.adoc#,Page Draft Status,>> which is in the same folder. 
 This link opens in the same tab. 
 
 This is a link to link:https://constitution.congress.gov/constitution/amendment-12/["the 12th Amendment to the US Constitution.", window=read-later,opts="noopener,nofollow"]
@@ -279,7 +279,7 @@ image::by-sa.png["CC BY-SA, the Deed Icon", 200, 100]
 
 === An image not from Root
 
-image::Icons/ShareOnBlur150.png[Liberty Torch on Blurred Flag]
+image::Icons/shareonblur150.png[Liberty Torch on Blurred Flag]
 
 
 === Definition lists

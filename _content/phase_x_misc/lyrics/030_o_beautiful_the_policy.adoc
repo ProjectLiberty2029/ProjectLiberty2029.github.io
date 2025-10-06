@@ -16,8 +16,8 @@
 
 ++++
 
-_Lyrics by Vector Hasting to the tune of "America The Beautiful" composed by link:https://en.wikipedia.org/wiki/Samuel_A._Ward[Samuel A. Ward]_ +
-_link:https://en.wikipedia.org/wiki/America_the_Beautiful#Lyrics[Beginning lines] from link:https://en.wikipedia.org/wiki/Katharine_Lee_Bates[Kathleen Lee Bate's] first stanza in 1893, and the last lines from her 1904 version._
+_Lyrics by Vector Hasting to the tune of "America The Beautiful" composed by link:https://en.wikipedia.org/wiki/Samuel_A._Ward["Samuel A. Ward",window=read-later,opts="noopener,nofollow"]_ +
+_link:https://en.wikipedia.org/wiki/America_the_Beautiful#Lyrics["Beginning lines",window=read-later,opts="noopener,nofollow"] from link:https://en.wikipedia.org/wiki/Katharine_Lee_Bates["Kathleen Lee Bate's",window=read-later,opts="noopener,nofollow"] first stanza in 1893, and the last lines from her 1904 version._
 
 O beautiful, for spacious skies, +
 For amber waves of grain. +
@@ -58,7 +58,7 @@ From sea to shining sea.
 
 These lyrics are written and copyrighted 2025 by Vector Hasting. 
 
-I, Vector Hasting, deed use of them under Creative Commons link:http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution 4.0 International License]
+I, Vector Hasting, deed use of them under Creative Commons link:http://creativecommons.org/licenses/by-sa/4.0/["Creative Commons Attribution 4.0 International License",window=read-later,opts="noopener,nofollow"]
 
 "I hope they will be used in all means possible to promote the goals of restoring and securing Liberty and Justice for All." - Vector Hasting 
 

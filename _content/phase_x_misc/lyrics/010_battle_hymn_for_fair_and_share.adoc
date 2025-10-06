@@ -18,8 +18,8 @@
 
 ++++
 
-_Lyrics by Vector Hasting, written to the tune of "Glory Hallelujah" composed by link:https://en.wikipedia.org/wiki/William_Steffe[William Steffe]_ +
-_The Lyrical structure matches that of link:https://en.wikipedia.org/wiki/Julia_Ward_Howe[Julia Ward Howe's] poem "The Battle Hymn of the Republic"_
+_Lyrics by Vector Hasting, written to the tune of "Glory Hallelujah" composed by link:https://en.wikipedia.org/wiki/William_Steffe["William Steffe,",window=read-later,opts="noopener,nofollow"]_ +
+_The Lyrical structure matches that of link:https://en.wikipedia.org/wiki/Julia_Ward_Howe["Julia Ward Howe's",window=read-later,opts="noopener,nofollow"] poem "The Battle Hymn of the Republic"_
 
 Mine eyes have seen the glory of a hope for fair reward +
 To millions who now die to feed the wealth of overlords. +
@@ -68,13 +68,13 @@ For Justice marches on._
 
 These lyrics are written and copyrighted 2025 by Vector Hasting. 
 
-I, Vector Hasting, deed use of them under Creative Commons link:http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution 4.0 International License]
+I, Vector Hasting, deed use of them under Creative Commons link:http://creativecommons.org/licenses/by-sa/4.0/["Creative Commons Attribution 4.0 International License",window=read-later,opts="noopener,nofollow"]
 
 "I hope they will be used in all means possible to promote the goals of restoring and securing Liberty and Justice for All." - Vector Hasting 
 
 The Attribution should be as close as possible to: +
 "Lyrics written and copyrighted 2025 by Vector Hasting to promote ProjectLiberty2029.com"
 
-Specifically, these lyrics refer to <</content/The_Share/The_Share_ReadMe.adoc#,The Share legislation in this project.>>
+Specifically, these lyrics refer to <</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share legislation in this project.>>
 
 image::by-sa.png[CC 4.0 BY-SA, alt="CC 4.0 BY-SA", width=200]

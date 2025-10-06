@@ -25,9 +25,11 @@ The first three correspond to those two stages: winning back control of the gove
 There is also an "uncategorized" page of material that may help in the cause: lyrics, for example. 
 
 The last three are means to see on this index all the documents contained here on the ProjectLiberty2029 Wiki:
-One is by folder structure.
 One is by the internal title of each document (this is what displays when you visit that page). 
 One is by the filename of each document. 
+One is by folder structure.
+
+***
 
 == Main Phases: 
 
@@ -109,6 +111,8 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 
 ++++
 
+***
+
 === Phase 2: Reforming 
 
 ++++
@@ -176,6 +180,8 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 
 ++++
 
+***
+
 === Phase X: Miscellaneous 
 
 ++++
@@ -242,7 +248,51 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 </ul>
 ++++
 
+***
+
 == All Pages 
+
+***
+
+=== Pages by Doc Title
+
+// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
+// then modified by me, but not yet working
+
+++++
+
+{% comment %}The list is sorted already by url, this resorts it by title, which is name.{% endcomment %}
+{% assign sorted_docs = site.content | sort: "title" %}
+<ul class="no-bullet">
+{% for documents in sorted_docs %}
+    <li class="index-list"><a href="{{ documents.url }}">{{ documents.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+++++
+
+***
+
+=== Pages by FileName
+
+// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
+// then modified by me, but not yet working
+
+++++
+
+{% comment %}The list is sorted already by url, this resorts it by name.{% endcomment %}
+{% assign sorted_docs = site.content | sort: "name" %}
+<ul class="no-bullet">
+{% for documents in sorted_docs %}
+    <li class="index-list"><a href="{{ documents.url }}"> {{ documents.name }}</a></li>
+{% endfor %}
+</ul>
+
+
+++++
+
+***
 
 === Pages by Folders
 
@@ -258,6 +308,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
         {%- assign url_filename = url_simple | split: "/" | last -%}
         {%- assign url_path_only = url_simple | remove: url_filename -%}
         {{- url_path_only -}}{%- unless forloop.last -%},{%- endunless -%}
+        {%- assign title = document.title -%}
     {%- endfor -%}
 {%- endcapture -%}
 
@@ -266,7 +317,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 {% comment %}
   Step 2: Loop through the sorted paths and then loop through the documents
   to find and display files in the correct directory order.
-  Use a break comparison and some padding variables to format the indentation
+  Use a the number of slashes in each path to set the indentation
 {% endcomment %}
 
 {%- assign last_path = "" -%}
@@ -306,65 +357,29 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
     {%- assign url_simple = document.url | remove: "/content/" -%}
     {%- assign url_filename = url_simple | split: "/" | last -%}
     {%- assign url_path_only = url_simple | remove: url_filename -%}
+    {%- assign doc_title = document.title -%}
 
     {% comment %} Only display if the path matches the current sorted path {% endcomment %}
     {%- if url_path_only == path -%}
       {%- assign url = document.url -%}
       {%- assign filename_only = url_filename | remove: ".html" -%}
       {%- assign file_padding = directory_padding | plus: 30 -%}
-      <a style="margin-left: {{file_padding}}px;" href="{{ url }}">{{ filename_only }}</a><br>
+      <a style="margin-left: {{file_padding}}px;" href="{{ url }}">{{doc_title}}</a> <span style="smallfilename">(filename: {{ filename_only }} )</span><br>
     {%- endif -%}
   {%- endfor -%}
 {%- endfor -%}
 
 {% comment %} Initialize the variable outside the loop {% endcomment %}
 {%- assign directory_padding = 0 -%}
-
+{% comment %}
+  This loop appears to do nothing at all
+{% endcomment %}
 {% for item in site.my_collection %}
   <div style="padding-top: {{ directory_padding }}px;">
-    {{ item.title }}
+    {{ item.title }} 
   </div>
 
 {% endfor %}
 
 
 ++++
-
-=== Pages by Doc Title
-
-// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
-// then modified by me, but not yet working
-
-++++
-
-{% comment %}The list is sorted already by url, this resorts it by title, which is name.{% endcomment %}
-{% assign sorted_docs = site.content | sort: "title" %}
-<ul class="no-bullet">
-{% for documents in sorted_docs %}
-    <li class="index-list"><a href="{{ documents.url }}">{{ documents.title }}</a></li>
-{% endfor %}
-</ul>
-
-
-++++
-
-
-=== Pages by FileName
-
-// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
-// then modified by me, but not yet working
-
-++++
-
-{% comment %}The list is sorted already by url, this resorts it by name.{% endcomment %}
-{% assign sorted_docs = site.content | sort: "name" %}
-<ul class="no-bullet">
-{% for documents in sorted_docs %}
-    <li class="index-list"><a href="{{ documents.url }}"> {{ documents.name }}</a></li>
-{% endfor %}
-</ul>
-
-
-++++
-
-
