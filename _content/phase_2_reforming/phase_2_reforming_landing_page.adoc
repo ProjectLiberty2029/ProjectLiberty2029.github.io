@@ -1,0 +1,16 @@
+= Post Jan 30th Landing Page.
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Complete this. It is mostly a stub copied from other documents.
+:showtitle:
+
+== Overview
+
+If we have succeeded in removing MAGA from power, then the Executive Actions and Legislative Initiatives (including both laws and Constitutional Amendments) begins. 
+
+

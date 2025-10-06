@@ -1,0 +1,17 @@
+= Miscellaneous Pages
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 12
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Complete this. It is mostly a stub copied from other documents.
+:showtitle:
+
+== Overview
+
+Some items in this ProjectLiberty2029 repository will have general application.
+Like Lyrics: they're a emotional and cognitive focusing agent, and so they work in all frames: Phase 1, Phase 2, success, failure, and regroup. 
+
+

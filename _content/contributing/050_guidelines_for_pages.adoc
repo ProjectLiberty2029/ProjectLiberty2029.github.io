@@ -1,0 +1,74 @@
+= Guidelines and Standards for Pages.
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: Basically this one needs us to keep coming back as we add stuff to give guidance. KISS
+:showtitle:
+
+== Overview
+
+This page is for those who are considering helping us improve the
+proposals here in the Project Liberty 2029 Wiki.
+
+=== General Conventions for documents on this site: 
+
+. Titles verses document names. The document name can be used to make is sort in a logical order. Notice how this is document 060_sample_document.adoc, because under the "Docs by Folders" part of the main index page, we wanted these to sort in a particular way. But in the final section of the main landing page, documents are sorted by the Title which is what appears after the first = at the top of every document. 
+. Document names use lower case letters with underscores and no blank spaces. This is important to make this website behave the same on different platforms (windows, mac, linux) while it is being tested and deployed. 
+. Documents should end in .adoc, unless they're something else you are uploading, in which case leave the extension whatever it was (ie, .pdf, or .png, etc.).
+. Files that are not .adoc files should go in either the /content/media folder, or the /content/source_docs folder.
+.. The Images folder should be further subdivided by type and, if appropriate, subject matter. For example, if there are a dozen images needed for a single doc, then they should be put together in a subdirectory of /content/media/images.
+.. The Source_Docs folder must only contain clearly public domain or Creative Commons materials such as: 
+... Legislation, 
+... Historical documents published before 1929
+... Statistics published by a government and marked for general release, 
+... Research published by a government and marked for general release with Public Domain status,
+... Item to which you are the author, and a clear indication of your copyright ownership and your deeding it either to the Public Domain, or to a CC is included,
+... Other works clearly marked as Creative Commons where your posting of them complies with the material's Creative Commons license. 
+
+== Asciidoc Best Practices. 
+
+. Type one line per sentence.
+.. Use "Soft Wrap" inside your text editor to make this easier.
+. See link:/page_draft_status.html[Page Draft Status Guidelines] for how
+to fill in the front-matter attribute for :page-draft++_++complete:
+. See link:/content/contributing/060_sample_document.html[the Sample
+Document for explanations of the Asciidoctor Front Matter.]
+. See link:/content/stages_defined.html[the Stages Defined] for an
+explanation of which Stage of Struggle your document may relate to.
+.. If you do not need your document to show in Stages of Struggle — for
+example, it may be a subdocument, like this one — then put "NoShow" for
+the :page-stage: front matter attribute.
+.. To control what order your page appears in any given stage, name the
+filename with the appropriate number: those sections sort by the name of
+the file.
+. If including images or figures, wherever possible include an image
+title.
+
+
+=== Next Step Resources:
+
+Here is the collection of Contributing docs. 
+Feel free to contribute to Contributing!
+
+<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+
+<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+
+<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+
+<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+(This document.)
+
+<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
+
+We also have a link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["discussions area on GitHub itself.", window=read-later,opts="noopener,nofollow"]

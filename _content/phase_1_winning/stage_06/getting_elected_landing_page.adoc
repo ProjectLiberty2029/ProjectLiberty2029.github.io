@@ -1,0 +1,19 @@
+= Getting Elected Landing Page
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 06
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Complete this. It is mostly a stub copied from other documents.
+:showtitle:
+
+== Overview
+
+Getting Elected is the first concern. 
+
+But having a mandate to execute on parts of ProjectLiberty2029 is essential. 
+
+This ProjectLiberty2029 is a grass-roots version of what shall become the actual actions of a winning Democratic Party Project 2029.
+

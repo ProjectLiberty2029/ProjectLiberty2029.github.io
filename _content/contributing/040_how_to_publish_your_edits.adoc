@@ -1,0 +1,61 @@
+= How to Publish Your Contributions.
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Basically this needs work. Add the basic content indicated below in the text. We'll want screenshots of the interfaces. Organize, organize, organize, KISS
+:showtitle:
+
+== How to Publish Your Contributions
+
+There are two ways you may be working: +
+1) using only GitHub Web Interface, or + 
+2) Using GitHub Desktop (or command lines and local repositories).
+
+=== Using Only GitHub Web
+
+The process involves:
+
+. Give the steps to committing the changes
+. Give steps to creating the pull request
+. Explain how to monitor the conversation.
+. Explain what to do if changes are needed.
+
+=== Using GitHub Desktop
+
+The process involves:
+
+. Give the steps to committing the changes
+. Give steps to creating the pull request
+. Be careful to explain how the push to origin works from GitHub Desktop
+. Give the extra steps (if any) on the web interface to make the pull
+request.
+. Explain how to monitor the conversation.
+. Explain what to do if changes are needed.
+
+=== Next Step Resources:
+
+Here is the collection of Contributing docs. 
+Feel free to contribute to Contributing!
+
+<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+
+<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+
+<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+
+<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+(This document.)
+
+<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
+
+We also have a link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["discussions area on GitHub itself.", window=read-later,opts="noopener,nofollow"]

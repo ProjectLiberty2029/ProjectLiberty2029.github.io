@@ -1,0 +1,83 @@
+= Getting Started Contributing
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 00
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: Add some images near the beginning of people working together to make legislation, and of the workflow so this is more inviting. Create companion pages to help people setup a local environment for previewing their changes. Create some video tutorials to walk people through it. 
+:showtitle:
+
+= Overview
+
+This page is for those who are considering helping us improve the
+proposals here in the Project Liberty 2029 Wiki.
+
+Thank you!
+
+== Basic technical skills you will need.
+
+If you know how to use GitHub and Asciidoc, then you’re pretty much
+ready to go! You can go straight to our Guidelines Page, and make use of
+our Sample Document for pre-made snippets of asciidoc formatting for
+links, footnotes, admonitions, etc.
+
+However, most of us don’t know GitHub or Asciidoc. For you we have some
+extra links to help you get started.
+
+
+== It’s not that bad, really.
+
+In advance, let us ask you not to be discouraged by any learning curve!
+
+It’s not that bad, really! 
+
+If you want to help by contributing your expertise to this project then you’re a patriot for Liberty and Justice for All.
+
+Our struggles are not yet as bad as the ones our ancestors fought against oppression by slavery, Nazis, Mad Kings and  Emperors. 
+Hopefully learning a few new skills will be a price you are willing to pay. 
+And you can reach out to us for help as we’ll explain a few lines down.
+
+== The Basic Envrionment
+
+The first thing is to understand how you are viewing this page. 
+There are two different ways you might be seeing it: 1) the Wiki, where we want the public to see and discuss and understand this material; and 2) GitHub, which is where people like yourself can edit and add.
+
+If you are viewing this page from link:https://projectliberty2029.github.io/["our Wiki, ", window=read-later,opts="noopener,nofollow"] then there’s a pretty red bar with three buttons at the top of your screen, and the first of those buttons invites you to link:https://github.com/projectliberty2029/projectliberty2029.github.io/["Help Improve This On GitHub.", window=read-later,opts="noopener,nofollow"]
+
+You may have arrived at this page through GitHub itself, in which case you’re already viewing the
+link:https://github.com/projectliberty2029/projectliberty2029.github.io/["very technical looking GitHub interface.", window=read-later,opts="noopener,nofollow"]
+
+To make edits and changes, you’ll be working in the GitHub interface.
+
+
+== Why GitHub?
+
+We chose GitHub because it is designed for large-scale development with very granular changed tracking and robust security tools. 
+These have been road-tested for years in at-scale industries which are under state-level attack.
+
+This security hardening and detailed tracking advantages bring with them some disadvantages of complexity, which these documents hope to help you overcome.
+
+== How to get started?
+
+Easing that complexity is the goal of this set of documents:
+
+<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+(This document.)
+
+<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+
+<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+
+<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
+
+We also have a link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["discussions area on GitHub itself.", window=read-later,opts="noopener,nofollow"]

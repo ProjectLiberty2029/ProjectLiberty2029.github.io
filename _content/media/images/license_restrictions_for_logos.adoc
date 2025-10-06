@@ -1,0 +1,29 @@
+= License Restriction for Logos
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 100%
+:page-authors: Vector Hasting
+:page-todos: 
+:showtitle:
+
+== In General
+
+Vector Hasting and ProjectLiberty2029 reserve all copyright restrictions on the "Flag-on-Blur" logo. 
+
+This includes but is not limited to the following files:
+
+shareonblur150.png; +
+shareonblur200.png; +
+shareonblur300.png; +
+torchandcircle.png;
+shareonblur_for_tee_*.png +
+favicon_pl2029.ico .
+
+However, we do so only to be able to restrict its use in ways that work against the goals of ProjectLiberty2029. 
+
+We grant you the right to use these materials to promote the goals of Project Liberty 2029, including making products which are sold commercially to help fund your work. 
+
+We reserve the right to revoke permission if any particular use-case violates the intentions and goals of Project Liberty 2029.

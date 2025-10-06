@@ -1,0 +1,44 @@
+= FAQ for Making Contributions
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 0%
+:page-authors: Vector Hasting
+:page-todos: Basically this one needs us to keep coming back as we add stuff to give guidance. KISS
+:showtitle:
+
+= Overview
+
+This document will be updated as we actually get Frequently Asked Questions. 
+
+We may add things as we anticipate questions. 
+
+== The Questions
+
+We don't have any atm. 
+
+=== Next Step Resources:
+
+Here is the collection of Contributing docs. 
+Feel free to contribute to Contributing!
+
+<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+
+<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+
+<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+
+<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+(This document.)
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
+
+We also have a link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["discussions area on GitHub itself.", window=read-later,opts="noopener,nofollow"]

@@ -1,0 +1,12 @@
+= Legislative Branch Budget Priorities
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 0%
+:page-authors: Vector Hasting
+:page-todos: Everything is needed. 
+:showtitle:
+
+This is a stub. 

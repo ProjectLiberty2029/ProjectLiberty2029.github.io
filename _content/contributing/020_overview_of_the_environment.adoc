@@ -1,0 +1,170 @@
+= Overview of the Environment
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: Add some images near the beginning of people working together to make legislation, and of the workflow so this is more inviting. Create companion pages to help people setup a local environment for previewing their changes. Create some video tutorials to walk people through it. 
+:showtitle:
+
+= Overview
+
+This page explains in a non-technical way the overall software environment within which this project works. 
+This is meant to help inform those helping out as to why things are happening the way the are happening.
+
+Reading this document isn’t necessary to your contributing, but it might help ease any learning curve.
+
+== GitHub vs. Other Wiki sites.
+
+We chose GitHub because it is designed for large-scale development with very granular changed tracking and robust security tools. 
+These have been road-tested for years in at-scale industries which are under continual attack by not only individuals but state-level actors.
+
+Security is the main reason for using GitHub over other platforms. 
+For example, MediaWiki is the software that drives Wikipedia, but it must be set up on a server, which means having the strength to resist attacks by all manner of opponents to ProjectLiberty2029 becomes an issue. 
+
+GitHub provides a workflow that lets us copy-over or copy-down existing documents, modify, push-up (if we copied down, or if we created a new document locally), and finally request pull-back into the master version.
+
+The all-important pull-back/into stage allows for robust discussion by a group before making the changes. 
+All changes are automagically documented line-by-line with what was changed and added. 
+At the end, that permanent line-by-line record of the changes that were made.
+
+In many ways it is an ideal crowd-sourced legislative amendment environment.
+
+== Hosting Overview
+
+Project Liberty 2029 Wiki is hosted on GitHub.
+
+GitHub the name comes from "Git" the software protocol, which is a suite of tools developed by and for computer programmers to help them manage large and distributed software development projects.
+
+GitHub provides hosting under the name GitHub Pages. 
+These are "static" website pages, meaning they do not allow programs to run on the website to provide things like product lookups, or pricing calculators, etc..
+They do this to keep their system secure and scalable.
+
+Website pages are sent to people’s internet browsers using what is called HTML, which stands for "Hyper-Text Markup Language." 
+HTML is so cumbersome for humans to write, that we have a whole separate set of programs to write it for us. 
+But that means we need to write in a format that the converters can read.
+
+The most widely used input format is Asciidoc.
+
+One would think that converters would be set up to take Word, Google Docs, LibreOffice, etc, file formats, but they do not for reasons beyond this text. 
+One would also think that Word, Google Docs, LibreOffice, etc, could write Asciidoc files (since they can write html).
+Sadly, this is not the case.
+
+We have set up ProjectLiberty2029’s GitHub Actions to create the necessary HTML files from asciidoc input files. 
+The program that does this conversion is called Jekyll. 
+Jekyll not only reads and processes the instructions on our pages that are written in Asciidoc, but it also reads a programming language called Liquid.
+
+Fortunately, the only thing you will need to know as a contributor is how to write in Asciidoc. 
+We'll discuss that more in a moment. 
+
+== Workflow Requirements
+
+We have two main requirements: 1) clarity, and 2) credibility.
+
+=== Clarity requirement
+
+For Clarity, we will want to present to the world straightforward legislation and proposals which are a simple as possible for the task at hand of restoring Liberty and Justice in America.
+
+In order to do that, we are choosing the simplest project history format: "linear commit history."
+
+The only word in that phrase that may be unfamiliar is the word 'commit.'
+
+A commit has two meanings here: 1) it is a single save point of a document, and 2) it is a collection of save points.
+
+=== Credibility requirement
+
+For Credibility, we need to be sure our processes are secure from bad-actors making unauthorized changes.
+
+Therefore, we require all maintainers to make digitally signed commits to the main branch of the ProjectLiberty2029 project in a "fork-and-fast-forward" or "fork-and-squash" modes. 
+(One of these two modes is required to keep the history "linear.")
+
+Because digitally signing linear commits requires onerous technical steps, we will let Contributors make contributions to a non-digitally signed copy, from which Maintainers will pull it into the main copy with a digital signature. 
+This is done in order to impose the least possible technical burden on Contributors. 
+
+(The digital signing requires several command line steps to setup the necessary encryption keys, and then ongoing command line processes to make linear commits to the main branch.)
+
+
+=== Workflow overview
+
+In order to maintain
+
+Because the 'work' of making changes & additions is meant to be done
+separate from the master version of the project, most people do this
+work 'locally,' meaning on their computer.
+
+GitHub offers a "GitHub Desktop" program that allows us to avoid using
+command-line work, and do our processes with button-pushing instead.
+This program is tightly integrated with VS Code. These things mean that
+the context for this and other how-to documents will be working inside
+VS Code.
+
+If you very much do not want to learn VS Code (it is, indeed, a mouthful
+of learning) you can work inside any text editor. Be careful if using a
+program like Word or Open Office or on-line editors like Google-docs,
+et. al, because they will add formatting information to their output
+that will mess-up this workflow. When using those programs, look for an
+asciidoc output or a plain text output.
+
+We have been using and encourage you to use .adoc as the extension on
+your filenames. This signals the programs to read it with asciidoc
+syntax. There are many other extensions that will also work including
+.ad, .asc, and .asciidoc.
+
+[[processing_overview]]
+=== Processing Overview
+
+Once any change or set of changes are pulled over to the main branch of
+ProjectLiberty2029, any asciidoc files included will be used by a GitHub
+Actions stack of programs to write the final html files that the rest of
+the world can see.
+
+Most of what we will be modifying will be these asciidocs, because they
+contain the words we are communicating to the world on how to restore
+and re-secure Freedom and Justice to America.
+
+[[why_asciidoc]]
+==== Why asciidoc?
+
+This may have been your first question, but it needed this much
+explanation to understand the answer.
+
+Because we are passing documents with changes back and forth, we need a
+very standardized format so that computers can readily figure out for us
+what exactly has changed.
+
+Ever gotten a rental agreement or employment contract back after a
+discussion and you’re wondering where in there it might have been
+changed?! This standard document form and GitHub insure that we’re all
+informed as to what is changing.
+
+The industry standard tool for this is Asciidoc. There are a ton of
+videos and courses on it. Librarians use it. So if you need help, there
+are plenty of resources for learning it.
+
+If you know markdown, you can use it, because asciidoc includes it.
+
+=== Next Step Resources:
+
+Here is the collection of Contributing docs. 
+Feel free to contribute to Contributing!
+
+<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+
+<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+(This document.)
+
+<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+
+<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
+
+We also have a link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["discussions area on GitHub itself.", window=read-later,opts="noopener,nofollow"]

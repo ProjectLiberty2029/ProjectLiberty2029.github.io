@@ -1,0 +1,392 @@
+
+
+/* We have included the font forge .sfd files for all these fonts under the content/media/fonts/Source directory */
+/*   Many of those files have errors when they generate. The fonts still generate and we haven't encountered
+     any problems yet. */
+/* The "Fair and Share" tax glyphs are in unie021 - unie027 : this is part of what is called the "Private Use Area." */
+/*   In whatever software you are using, there should be several ways to insert unicode characters based on their 
+        hex code, and those codes are explained in the page on glyphs. */
+
+/* Main Body Font: Roboto Slab Font: that's what Substack actually uses for the body text. */ 
+/*  The .sfd file included under Fonts generates using Font Forgewith errors, ignore the errors and the font is workable. */
+
+@font-face {
+    font-family: 'Roboto-Slab-Share';
+    src: url('/content/media/fonts/RobotoSlab-Share-Regular.eot');
+    src: url('/content/media/fonts/RobotoSlab-Share-Regular.woff') format('woff'),
+         url('/content/media/fonts/RobotoSlab-Share-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/RobotoSlab-Share-Regular.svg#RobotoSlab-Share-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Slab-Share';
+    src: url('/content/media/fonts/RobotoSlab-Share-Italic.eot');
+    src: url('/content/media/fonts/RobotoSlab-Share-Italic.woff') format('woff'),
+         url('/content/media/fonts/RobotoSlab-Share-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/RobotoSlab-Share-Italic.svg#RobotoSlab-Share-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+} 
+
+@font-face {
+    font-family: 'Roboto-Slab-Share';
+    src: url('/content/media/fonts/RobotoSlab-Share-Bold.eot');
+    src: url('/content/media/fonts/RobotoSlab-Share-Bold.woff') format('woff'),
+         url('/content/media/fonts/RobotoSlab-Share-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/RobotoSlab-Share-Bold.svg#RobotoSlab-Share-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'Roboto-Slab-Share';
+    src: url('/content/media/fonts/RobotoSlab-Share-BoldItalic.eot');
+    src: url('/content/media/fonts/RobotoSlab-Share-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/RobotoSlab-Share-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/RobotoSlab-Share-BoldItalic.svg#RobotoSlab-Share-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+} 
+
+/* Main Header Font: PassionOne: what Substack uses is private, but this looks like a decent match. */ 
+
+@font-face {
+    font-family: 'PassionOne-Share';
+    src: url('/content/media/fonts/PassionOne-Share-Regular.eot');
+    src: url('/content/media/fonts/PassionOne-Share-Regular.woff') format('woff'),
+         url('/content/media/fonts/PassionOne-Share-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/PassionOne-Share-Regular.svg#PassionOne-Share-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PassionOne-Share';
+    src: url('/content/media/fonts/PassionOne-Share-Italic.eot');
+    src: url('/content/media/fonts/PassionOne-Share-Italic.woff') format('woff'),
+         url('/content/media/fonts/PassionOne-Share-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/PassionOne-Share-Italic.svg#PassionOne-Share-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+} 
+
+@font-face {
+    font-family: 'PassionOne-Share';
+    src: url('/content/media/fonts/PassionOne-Share-Bold.eot');
+    src: url('/content/media/fonts/PassionOne-Share-Bold.woff') format('woff'),
+         url('/content/media/fonts/PassionOne-Share-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/PassionOne-Share-Bold.svg#PassionOne-Share-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'PassionOne-Share';
+    src: url('/content/media/fonts/PassionOne-Share-BoldItalic.eot');
+    src: url('/content/media/fonts/PassionOne-Share-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/PassionOne-Share-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/PassionOne-Share-BoldItalic.svg#PassionOne-Share-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+} 
+
+/* Lato Font: we're using this for the side-bar headers: the main PassionOne font is too dense. */
+/*  When we created this font, we 'increased' the weight by using the 700 (Bold) weight for the 
+        400 (Regular) weight, and the 900 (Black) weight for the 700 (Bold) weight. 
+        Then we added the Fair and Share Tax glyphs. */
+@font-face {
+    font-family: 'Lato-Share';
+    src: url('/content/media/fonts/Lato-Share-Regular.eot');
+    src: url('/content/media/fonts/Lato-Share-Regular.woff') format('woff'),
+         url('/content/media/fonts/Lato-Share-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/Lato-Share-Regular.svg#Lato-Share-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Share';
+    src: url('/content/media/fonts/Lato-Share-Italic.eot');
+    src: url('/content/media/fonts/Lato-Share-Italic.woff') format('woff'),
+         url('/content/media/fonts/Lato-Share-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/Lato-Share-Italic.svg#Lato-Share-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato-Share';
+    src: url('/content/media/fonts/Lato-Share-Bold.eot');
+    src: url('/content/media/fonts/Lato-Share-Bold.woff') format('woff'),
+         url('/content/media/fonts/Lato-Share-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/Lato-Share-Bold.svg#Lato-Share-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Share';
+    src: url('/content/media/fonts/Lato-Share-BoldItalic.eot');
+    src: url('/content/media/fonts/Lato-Share-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/Lato-Share-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/Lato-Share-BoldItalic.svg#Lato-Share-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Spectral Font: emulating the body text font from Substack */
+/*  When we created this font, we 'increased' the weight by using the 500 (Strong) weight for the 
+        400 (Regular) weight, and the 800 (Extra Bold) weight for the 700 (Bold) weight. 
+        Then we added the Fair and Share Tax glyphs. */
+@font-face {
+    font-family: 'Spectral-Share';
+    src: url('/content/media/fonts/Spectral-Share-Regular.eot');
+    src: url('/content/media/fonts/Spectral-Share-Regular.woff') format('woff'),
+         url('/content/media/fonts/Spectral-Share-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/Spectral-Share-Regular.svg#Spectral-Share-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral-Share';
+    src: url('/content/media/fonts/Spectral-Share-Regular-Italic.eot');
+    src: url('/content/media/fonts/Spectral-Share-Regular-Italic.woff') format('woff'),
+         url('/content/media/fonts/Spectral-Share-Regular-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/Spectral-Share-Regular-Italic.svg#Spectral-Share-Regular-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Spectral-Share';
+    src: url('/content/media/fonts/Spectral-Share-Bold.eot');
+    src: url('/content/media/fonts/Spectral-Share-Bold.woff') format('woff'),
+         url('/content/media/fonts/Spectral-Share-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/Spectral-Share-Bold.svg#Spectral-Share-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral-Share';
+    src: url('/content/media/fonts/Spectral-Share-BoldItalic.eot');
+    src: url('/content/media/fonts/Spectral-Share-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/Spectral-Share-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/Spectral-Share-BoldItalic.svg#Spectral-Share-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+/* SourceCodeProShr Font: */
+/*  This is a coding font that includes the Fair and Share tax glyps */
+
+/* !!!***  We recommend using this as your VS Code font. To use: 
+        1) download the 4 font weights from /content/media/fonts/Spectral-Share* ;
+        2) install the font on your system ; 
+        3) In VS Code: go to File > Preferences > Settings > Text Editor > Font: and add 'Source Code Pro Share' (in quotes or single quotes)
+        4) Restart VS Code. 
+
+        The special Fair and Share Tax glyphs can be added by adding unicode 021 to 027. 
+        There is a page that explains these.  */
+@font-face {
+    font-family: 'SourceCodeProShr';
+    src: url('/content/media/fonts/SourceCodeProShr-Regular.eot');
+    src: url('/content/media/fonts/SourceCodeProShr-Regular.woff') format('woff'),
+         url('/content/media/fonts/SourceCodeProShr-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/SourceCodeProShr-Regular.svg#SourceCodeProShr-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceCodeProShr';
+    src: url('/content/media/fonts/SourceCodeProShr-Italic.eot');
+    src: url('/content/media/fonts/SourceCodeProShr-Italic.woff') format('woff'),
+         url('/content/media/fonts/SourceCodeProShr-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/SourceCodeProShr-Italic.svg#Spectral-Share-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SourceCodeProShr';
+    src: url('/content/media/fonts/SourceCodeProShr-Bold.eot');
+    src: url('/content/media/fonts/SourceCodeProShr-Bold.woff') format('woff'),
+         url('/content/media/fonts/SourceCodeProShr-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/SourceCodeProShr-Bold.svg#SourceCodeProShr-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceCodeProShr';
+    src: url('/content/media/fonts/SourceCodeProShr-BoldItalic.eot');
+    src: url('/content/media/fonts/SourceCodeProShr-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/SourceCodeProShr-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/SourceCodeProShr-BoldItalic.svg#SourceCodeProShr-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Libertinus Font : Used for the top site heading */
+/* This does not yet have the share glyphs */
+
+@font-face {
+    font-family: 'Libertinus';
+    src: url('/content/media/fonts/LibertinusSerif-Regular.eot');
+    src: url('/content/media/fonts/LibertinusSerif-Regular.woff') format('woff'),
+         url('/content/media/fonts/LibertinusSerif-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/LibertinusSerif-Regular.svg#LibertinusSerif-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libertinus';
+    src: url('/content/media/fonts/LibertinusSerif-Italic.eot');
+    src: url('/content/media/fonts/LibertinusSerif-Italic.woff') format('woff'),
+         url('/content/media/fonts/LibertinusSerif-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/LibertinusSerif-Italic.svg#LibertinusSerif-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libertinus';
+    src: url('/content/media/fonts/LibertinusSerif-Bold.eot');
+    src: url('/content/media/fonts/LibertinusSerif-Bold.woff') format('woff'),
+         url('/content/media/fonts/LibertinusSerif-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/LibertinusSerif-Bold.svg#LibertinusSerif-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libertinus';
+    src: url('/content/media/fonts/LibertinusSerif-BoldItalic.eot');
+    src: url('/content/media/fonts/LibertinusSerif-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/LibertinusSerif-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/LibertinusSerif-BoldItalic.svg#LibertinusSerif-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Liberation Sans w/ Share glyphs */
+@font-face {
+    font-family: 'LiberationSans-Share';
+    src: url('/content/media/fonts/LiberationSans-Share-Regular.eot');
+    src: url('/content/media/fonts/LiberationSans-Share-Regular.woff') format('woff'),
+         url('/content/media/fonts/LiberationSans-Share-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSans-Share-Regular.svg#LiberationSans-Share-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LiberationSans-Share';
+    src: url('/content/media/fonts/LiberationSans-Share-Italic.eot');
+    src: url('/content/media/fonts/LiberationSans-Share-Italic.woff') format('woff'),
+         url('/content/media/fonts/LiberationSans-Share-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSans-Share-Italic.svg#LiberationSans-Share-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LiberationSans-Share';
+    src: url('/content/media/fonts/LiberationSans-Share-Bold.eot');
+    src: url('/content/media/fonts/LiberationSans-Share-Bold.woff') format('woff'),
+         url('/content/media/fonts/LiberationSans-Share-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSans-Share-Bold.svg#LiberationSans-Share-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LiberationSans-Share';
+    src: url('/content/media/fonts/LiberationSans-Share-BoldItalic.eot');
+    src: url('/content/media/fonts/LiberationSans-Share-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/LiberationSans-Share-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSans-Share-BoldItalic.svg#LiberationSans-Share-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Liberation Serif w/ Share glyphs */
+@font-face {
+    font-family: 'LiberationSerif-Share';
+    src: url('/content/media/fonts/LiberationSerif-Share-Regular.eot');
+    src: url('/content/media/fonts/LiberationSerif-Share-Regular.woff') format('woff'),
+         url('/content/media/fonts/LiberationSerif-Share-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSerif-Share-Regular.svg#LiberationSerif-Share-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LiberationSerif-Share';
+    src: url('/content/media/fonts/LiberationSerif-Share-Italic.eot');
+    src: url('/content/media/fonts/LiberationSerif-Share-Italic.woff') format('woff'),
+         url('/content/media/fonts/LiberationSerif-Share-Italic.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSerif-Share-Italic.svg#LiberationSerif-Share-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LiberationSerif-Share';
+    src: url('/content/media/fonts/LiberationSerif-Share-Bold.eot');
+    src: url('/content/media/fonts/LiberationSerif-Share-Bold.woff') format('woff'),
+         url('/content/media/fonts/LiberationSerif-Share-Bold.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSerif-Share-Bold.svg#LiberationSerif-Share-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LiberationSerif-Share';
+    src: url('/content/media/fonts/LiberationSerif-Share-BoldItalic.eot');
+    src: url('/content/media/fonts/LiberationSerif-Share-BoldItalic.woff') format('woff'),
+         url('/content/media/fonts/LiberationSerif-Share-BoldItalic.ttf') format('truetype'),
+         url('/content/media/fonts/LiberationSerif-Share-BoldItalic.svg#LiberationSerif-Share-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Copse font: this was a default font on the asciidoc family and it s good looking slab font, so we kept it as a backup. */
+@font-face {
+    font-family: 'Copse';
+    src: url('/content/media/fonts/Copse-Regular.eot');
+    src: url('/content/media/fonts/Copse-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/content/media/fonts/Copse-Regular.woff') format('woff'),
+         url('/content/media/fonts/Copse-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/Copse-Regular.svg#Copse-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* IM Fell with Share Glyphs: a font from the beginning of The Share which has a wonderful Colonial feel. */
+@font-face {
+    font-family: 'IMFELLEnglishVHShare';
+    src: url('/content/media/fonts/IMFELLEnglishVHShare.eot');
+    src: url('/content/media/fonts/IMFELLEnglishVHShare.eot?#iefix') format('embedded-opentype'),
+         url('/content/media/fonts/IMFELLEnglishVHShare.woff') format('woff'),
+         url('/content/media/fonts/IMFELLEnglishVHShare.ttf') format('truetype'),
+         url('/content/media/fonts/IMFELLEnglishVHShare.svg#Copse-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* This font gives better results with Argdown. */
+@font-face {
+    font-family: 'ArgVuSansMonoShare';
+    src: url('/content/media/fonts/ArgVuSansMonoShare-Regular.eot');
+    src: url('/content/media/fonts/ArgVuSansMonoShare-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/content/media/fonts/ArgVuSansMonoShare-Regular.woff') format('woff'),
+         url('/content/media/fonts/ArgVuSansMonoShare-Regular.ttf') format('truetype'),
+         url('/content/media/fonts/ArgVuSansMonoShare-Regular.svg#Copse-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

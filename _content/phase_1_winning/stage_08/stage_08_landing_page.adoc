@@ -1,0 +1,21 @@
+= January 3rd Concerns
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 08
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Complete this. It is mostly a stub copied from other documents.
+:showtitle:
+
+== Overview
+
+Congress convenes on Jan 3rd. 
+
+Any stage in the transfer of power must be defended to stop the MAGA regime from refusing to cede power. 
+
+The seating of Congress is one of those pivotal moments. 
+This stage overlaps with the next stage and documents will need to choose a stage based on which kind of concerns the document addresses. 
+If it addresses both, it should be in this stage.
+

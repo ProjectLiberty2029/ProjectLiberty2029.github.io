@@ -1,0 +1,37 @@
+= January 6th Concerns
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 09
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Complete this. It is mostly a stub copied from other documents.
+:showtitle:
+
+== Overview
+
+There are four paths: 
+
+P1: The MAGA regime has lost control of both houses of Congress on Jan 3rd.
+P2: The MAGA regime has control of the House, but not of the Senate.
+P3: The MAGA regime has control of the Senate, but not of the House.
+P4: The MAGA regime has control of both houses of Congress. 
+
+There are three contingencies for the above paths:
+
+C1: The MAGA regime has violated the Will of the People to maintain control in paths P2, P3 or P4.
+C2: The MAGA regime has the legitimate support of the Will of the People in maintaining control in paths P2, P3 or P4. 
+C3: There has been sufficient confusion around the election's legitimacy to cloud what the Will of the People actually was. 
+
+== Assessment of actions. 
+
+If C3 is the case, then our nation is in deep trouble. 
+However, as of October 2025, this appears unlikely based on polling conditions and economic forecasts. 
+
+Similarly, if C2 is the case then our nation is in deep trouble. 
+This also, as of October 2025, appears unlikely. 
+
+If C1 is the case, then we are at a Plan B(2) inflection point. 
+(This needs a link to an as-yet-unwritten Substack essay. )
+

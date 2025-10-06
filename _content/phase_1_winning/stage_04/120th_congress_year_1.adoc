@@ -1,0 +1,29 @@
+= 120th Congress Year One
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-liquid:
+:page-stage: 04
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Flesh out the perils. 
+:showtitle:
+
+= Will the Congress Protect the Presidential Elector Ballots?
+
+Perhaps the most urgent need for the 120th Congress will be making plans for January 6th, 2029.
+
+See <</content/Election_2028/The_Coming_Constitutional_Hack.adoc#,The Coming Constitutional Hack >> for a complete treatment of the perils that will culminate on January 6th, 2029. 
+
+== How the 120th Congress must prepare for the 121st
+
+. Requires several robust actions by the 120th Congress (2027-2029), by the 121st Congress (2029-2031), and by the President and Vice-President Elect:
+.. Because Elector Certificates are sent to Congress during November and December of 2028 (during the 120th Congress), and are vulnerable to tampering by bad-actors, there must therefore be passed during the 120th Congress a Simple Senate resolution that: footnote:[Note that Simple Resolutions do not require the President's approval, but they may only affect matters confined to the Congress, and they expire at the end of every Congress]
+... Requires all incoming "transmissions, transfers, written communications, etc." to the Senate to be directed to the Secretary of the Senate, and 
+... Requires the Secretary of the Senate to retain and safeguard any and all Elector Certificates transmitted to the Senate and/or to the President of the Senate under the 12th Amendment, and
+... Requires the Sergeant of Arms of the Senate to safeguard the integrity of the handling by the Secretary of the Senate as necessary to safeguard the Elector Certificates, and 
+... Prevents the President of the Senate (aka the Vice-President of the US) from taking control in any way of the Elector Certificates until the moment of opening dictated in the link:https://constitution.congress.gov/constitution/amendment-12/["12th Amendment to the US Constitution,", window=read-later,opts="noopener,nofollow"] and
+... defends the constitutionality of this as a legitimate use of Congress' authority to determine its "Rules of its Proceeding" vested in the link:https://www.archives.gov/founding-docs/constitution-transcript["US Constitution Article I, Section 5, Clause 2.", window=read-later,opts="noopener,nofollow"]
++
+[5-b]
+.. The 121st Congress (2029-2031) must then Re-pass the Simple Resolution described under 5-a governing the handling of Elector Certificates in order to prevent the Vice-President from compromising the Elector Certificates, 

@@ -1,0 +1,27 @@
+# The Share ReadMe
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: This is the landing page for The Share. There is a lot of material to link to from here. Set those up. Fix the image links. Have a more concise argument and inspiring argument here in this document. 
+:showtitle:
+
+Simple legislation for a Universal Basic Income (UBI) tied to the GDP and paid for by a Flat Tax. 
+UBI = Security
+Flat Tax = Justice
+Together, this is a blueprint for more equitable power sharing in Capitalist America. 
+
+
+image::by-sa.png[CC BY-SA, alt = "The Deed Shield", float=left]
+CC BY-SA Shield:
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+
+link:http://creativecommons.org/licenses/by-sa/4.0/["Online copy of the CC 4.0 BY-SA deed.", window=read-later,opts="noopener,nofollow"]
+
+Attribution: "Written by {{ page.authors }} for ProjectLiberty2029 and The Share and for restoring Liberty and Justice to America."

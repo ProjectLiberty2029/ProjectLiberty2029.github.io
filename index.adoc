@@ -1,0 +1,370 @@
+= Homepage
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 00
+:page-draft_complete: NoShow
+:page-authors:
+:page-todos:
+:showtitle:
+
+= Overview
+
+There are two main phases of ProjectLiberty2029: not just for this version under this name, but for all of us who want to defeat fascism in America and restore Liberty and Justice for All. 
+
+Whatever name that has, it will have two phases: 
+
+First, we must win back control of the Federal Government by 2029. 
+
+Second, once fascists have been removed from power, we must make structural reforms to restore Liberty, to restore the Rule of Law, and to hold accountable those who aided and prosecuted the fascist agenda of misery and despair and moral shame that is now running rampant across our Nation. 
+
+This main index page has six sections. 
+
+The first three correspond to those two stages: winning back control of the government, and then the priorities and methods to use government to restore our Nation. 
+There is also an "uncategorized" page of material that may help in the cause: lyrics, for example. 
+
+The last three are means to see on this index all the documents contained here on the ProjectLiberty2029 Wiki:
+One is by folder structure.
+One is by the internal title of each document (this is what displays when you visit that page). 
+One is by the filename of each document. 
+
+== Main Phases: 
+
+=== Phase 1: Winning
+
+This is sorted by 10 stages between when this project began in Summer 2025 and January 20th, 2029. 
+
+++++
+
+{% comment %}
+  The list site.content is an array that is sorted by default by url, (see _config.yml)
+  this group by collects it into a two-level array of arrays:
+  The higher order 'array' is content_grouped_by_stage, where each 'sub-array' is 
+  an array of documents, and those documents in that sub-array will share the same 
+  "name" which in this case will be the value that was in each document's front-matter
+  for ":page-stage: .
+{% endcomment %}
+
+{% assign p1_content_grouped_by_stage = site.content |  group_by: "stage" %}
+
+{% comment %}
+  These two arrays are to be able to limit what documents appear and to give them more robust 
+  category titles than just "01," "02," etc. 
+  We are not including Stage 11: Post Jan 20th, or Stage 12: Uncategorized: they are included
+  in later sections of this index.
+  This 'group by' stage of this algorithm essentially just generates the array of stage numbers that actually exist.
+{% endcomment %}
+{% assign p1_stage_list = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 00, 01, 02, 03, 04, 05, 06, 07, 08, 09" | split: "," %}
+{% assign p1_stage_names = "Stage 0: Starting,
+                         Stage 1: Define the Fight,
+                         Stage 2: Before Midterms,
+                         Stage 3: First Lame Duck,
+                         Stage 4: 120th Congress Year 1,
+                         Stage 5: Presidential Primaries,
+                         Stage 6: General Election,
+                         Stage 7: Post Election Limbo,
+                         Stage 8: Pre Jan 3rd,
+                         Stage 9: Pre Jan 6th,
+                         Stage 10: Pre Jan 20th,
+                         Stage 11 = Phase 2: Post Jan 20th,
+                         Stage 12 = Phase X: Miscellaneous" 
+                         | split: "," %}
+
+{% comment %}
+  This statement further sorts the arrays within the array by the "name" field which 
+  is still the Stage number, which insures that the list we're going to drive down
+  is in numerical order. 
+{% endcomment %}
+{% assign p1_sorted_stages = p1_content_grouped_by_stage | sort: "name" %}
+
+{% assign p1_stage_list_stripped = p1_stage_list | strip %}
+<ul class="no-bullet">
+{% for p1_stages in p1_sorted_stages %}
+  {% assign p1_stage_name_str = p1_stages.name | toString %}
+  {% if p1_stage_list_stripped contains p1_stage_name_str and p1_stage_name_str != "" %}
+      {% assign index = p1_stages.name | plus: 0 %}
+        <strong>{{p1_stage_names[index]}}</strong><br>
+      {% assign p1_last_stage = p1_stages.name %}
+
+      {% comment %}
+        Now we use the "| where: " clause to select from all documents by the
+        :page-stage: attribute equal to the "name" which is coming from the 
+        for stages in sorted_stages loop that we're iterating. At that point, in
+        that collection, we have access to all the front-matter attributs, which
+        then includes "title." We can then sort by basename, which is filename.
+        This allows us to have documents appear in order as to their filenames,
+        like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
+      {% endcomment %}
+      {% assign p1_stage_docs = site.content | where: "stage", p1_stages.name %}
+      {% assign p1_sorted_stage_docs = p1_stage_docs | sort: "basename" %}
+
+      {% for document in p1_sorted_stage_docs %}
+        <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
+        </li>
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+++++
+
+=== Phase 2: Reforming 
+
+++++
+
+{% comment %}
+  The stage_list should only display the Stage 11 docs.
+  Therefore we are doing a | where: "page.stage", "11" before grouping
+{% endcomment %}
+
+{% assign p2_stage_list = "11" | split: "," %}
+{% assign p2_stage_names = "Stage 0: Starting,
+                         Stage 1: Define the Fight,
+                         Stage 2: Before Midterms,
+                         Stage 3: First Lame Duck,
+                         Stage 4: 120th Congress Year 1,
+                         Stage 5: Presidential Primaries,
+                         Stage 6: General Election,
+                         Stage 7: Post Election Limbo,
+                         Stage 8: Pre Jan 3rd,
+                         Stage 9: Pre Jan 6th,
+                         Stage 10: Pre Jan 20th,
+                         Stage 11 = Phase 2: Post Jan 20th,
+                         Stage 12 = Phase x: Miscellaneous" 
+                         | split: "," %}
+
+{% assign p2_specific_stages_content = site.content | where: "stage", "11" %} 
+
+{% assign p2_content_grouped_by_stage = p2_specific_stages_content |  group_by: "stage" %}
+
+{% comment %}
+  This statement further sorts the arrays within the array by the "name" field which 
+  is still the Stage number, which insures that the list we're going to drive down
+  is in numerical order. 
+{% endcomment %}
+{% assign p2_sorted_stages = p2_content_grouped_by_stage | sort: "name" %}
+
+{% assign p2_stage_list_stripped = p2_stage_list | strip %}
+<ul class="no-bullet">
+{% for p2_stages in p2_sorted_stages %}
+  {% assign p2_stage_name_str = p2_stages.name | toString %}
+  {% if p2_stage_list_stripped contains p2_stage_name_str and p2_stage_name_str != "" %}
+      {% assign index = p2_stages.name | plus: 0 %}
+        <strong>{{p2_stage_names[index]}}</strong><br>
+      {% assign p2_last_stage = p2_stages.name %}
+      
+      {% comment %}
+        Now we use the "| where: " clause to select from all documents by the
+        :page-stage: attribute equal to the "name" which is coming from the 
+        for stages in sorted_stages loop that we're iterating. At that point, in
+        that collection, we have access to all the front-matter attributs, which
+        then includes "title." We can then sort by basename, which is filename.
+        This allows us to have documents appear in order as to their filenames,
+        like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
+      {% endcomment %}
+      {% assign p2_stage_docs = site.content | where: "stage", p2_stages.name %}
+      {% assign p2_sorted_stage_docs = p2_stage_docs | sort: "basename" %}
+
+      {% for document in p2_sorted_stage_docs %}
+        <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
+        </li>
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+++++
+
+=== Phase X: Miscellaneous 
+
+++++
+
+{% comment %}
+  The stage_list should only display the Stage 11 docs.
+  Therefore we are doing a | where: "page.stage", "11" before grouping
+{% endcomment %}
+
+{% assign px_stage_list = "12" | split: "," %}
+{% assign px_stage_names = "Stage 0: Starting,
+                         Stage 1: Define the Fight,
+                         Stage 2: Before Midterms,
+                         Stage 3: First Lame Duck,
+                         Stage 4: 120th Congress Year 1,
+                         Stage 5: Presidential Primaries,
+                         Stage 6: General Election,
+                         Stage 7: Post Election Limbo,
+                         Stage 8: Pre Jan 3rd,
+                         Stage 9: Pre Jan 6th,
+                         Stage 10: Pre Jan 20th,
+                         Stage 11 = Phase 2: Post Jan 20th,
+                         Stage 12 = Phase x: Miscellaneous" 
+                         | split: "," %}
+
+{% assign px_specific_stages_content = site.content | where: "stage", "12" %} 
+
+{% assign px_content_grouped_by_stage = px_specific_stages_content |  group_by: "stage" %}
+
+{% comment %}
+  This statement further sorts the arrays within the array by the "name" field which 
+  is still the Stage number, which insures that the list we're going to drive down
+  is in numerical order. 
+{% endcomment %}
+{% assign px_sorted_stages = px_content_grouped_by_stage | sort: "name" %}
+
+{% assign px_stage_list_stripped = px_stage_list | strip %}
+<ul class="no-bullet">
+{% for px_stages in px_sorted_stages %}
+  {% assign px_stage_name_str = px_stages.name | toString %}
+  {% if px_stage_list_stripped contains px_stage_name_str and px_stage_name_str != "" %}
+      {% assign index = px_stages.name | plus: 0 %}
+        <strong>{{px_stage_names[index]}}</strong><br>
+      {% assign px_last_stage = px_stages.name %}
+      
+      {% comment %}
+        Now we use the "| where: " clause to select from all documents by the
+        :page-stage: attribute equal to the "name" which is coming from the 
+        for stages in sorted_stages loop that we're iterating. At that point, in
+        that collection, we have access to all the front-matter attributs, which
+        then includes "title." We can then sort by basename, which is filename.
+        This allows us to have documents appear in order as to their filenames,
+        like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
+      {% endcomment %}
+      {% assign px_stage_docs = site.content | where: "stage", px_stages.name %}
+      {% assign px_sorted_stage_docs = px_stage_docs | sort: "basename" %}
+
+      {% for document in px_sorted_stage_docs %}
+        <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
+        </li>
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+++++
+
+== All Pages 
+
+=== Pages by Folders
+
+++++
+
+{% comment %}
+    Step 1: Get unique and sorted directory paths.
+    This builds the primary sorting key.
+{% endcomment %}
+{%- capture unique_paths -%}
+    {%- for document in site.content -%}
+        {%- assign url_simple = document.url | remove: "/content/" -%}
+        {%- assign url_filename = url_simple | split: "/" | last -%}
+        {%- assign url_path_only = url_simple | remove: url_filename -%}
+        {{- url_path_only -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+
+{%- assign sorted_paths = unique_paths | split: ',' | sort | uniq -%}
+
+{% comment %}
+  Step 2: Loop through the sorted paths and then loop through the documents
+  to find and display files in the correct directory order.
+  Use a break comparison and some padding variables to format the indentation
+{% endcomment %}
+
+{%- assign last_path = "" -%}
+{%- assign directory_padding = 0 -%}
+{%- assign file_padding = 0 -%}
+{%- assign pad_add = 20 -%}
+
+{%- for path in sorted_paths -%}
+    {%- assign path_original_size = path.size -%}
+    {%- assign path_no_slashes = path | replace: "/", "" -%}
+    {%- assign path_no_slashes_size = path_no_slashes.size -%}
+    {%- assign path_num_slashes = path_original_size | minus: path_no_slashes_size -%}
+
+    {% comment %}
+      Initially set the directory padding to be the number of directories deep we 
+      are, which is path_num_slashes -1, times pad_add .
+      This has the oddness of a directory that is empty but has a filled 
+      subdirectory appearing indented. That looks odd, but is a rare occurrence and 
+      will probably go away altogether as landing pages are added. 
+      The only way around it would be to build the previous directory name slash by slash
+      as we go through the loop, but this is more work than it's worth. 
+    {% endcomment %}
+
+    {%- assign path_sum_slashes = path_num_slashes | minus: 1 -%}
+    {%- assign directory_padding = path_num_slashes | times: pad_add -%}
+
+    {%- if directory_padding < 0 -%} 
+        {% assign directory_padding = 0 %}
+    {%- endif -%}
+
+    {%- assign display_directory = "/" | append: path -%}
+
+        <strong style="margin-left: {{directory_padding}}px;">{{ display_directory }}</strong><br>
+
+
+  {%- for document in site.content -%}
+    {%- assign url_simple = document.url | remove: "/content/" -%}
+    {%- assign url_filename = url_simple | split: "/" | last -%}
+    {%- assign url_path_only = url_simple | remove: url_filename -%}
+
+    {% comment %} Only display if the path matches the current sorted path {% endcomment %}
+    {%- if url_path_only == path -%}
+      {%- assign url = document.url -%}
+      {%- assign filename_only = url_filename | remove: ".html" -%}
+      {%- assign file_padding = directory_padding | plus: 30 -%}
+      <a style="margin-left: {{file_padding}}px;" href="{{ url }}">{{ filename_only }}</a><br>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{% comment %} Initialize the variable outside the loop {% endcomment %}
+{%- assign directory_padding = 0 -%}
+
+{% for item in site.my_collection %}
+  <div style="padding-top: {{ directory_padding }}px;">
+    {{ item.title }}
+  </div>
+
+{% endfor %}
+
+
+++++
+
+=== Pages by Doc Title
+
+// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
+// then modified by me, but not yet working
+
+++++
+
+{% comment %}The list is sorted already by url, this resorts it by title, which is name.{% endcomment %}
+{% assign sorted_docs = site.content | sort: "title" %}
+<ul class="no-bullet">
+{% for documents in sorted_docs %}
+    <li class="index-list"><a href="{{ documents.url }}">{{ documents.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+++++
+
+
+=== Pages by FileName
+
+// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
+// then modified by me, but not yet working
+
+++++
+
+{% comment %}The list is sorted already by url, this resorts it by name.{% endcomment %}
+{% assign sorted_docs = site.content | sort: "name" %}
+<ul class="no-bullet">
+{% for documents in sorted_docs %}
+    <li class="index-list"><a href="{{ documents.url }}"> {{ documents.name }}</a></li>
+{% endfor %}
+</ul>
+
+
+++++
+
+

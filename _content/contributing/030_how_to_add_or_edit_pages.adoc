@@ -1,0 +1,103 @@
+= Adding and Editing Pages on GitHub
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: Add some images near the beginning of people working together to make legislation, and of the workflow so this is more inviting. Create companion pages to help people setup a local environment for previewing their changes. Create some video tutorials to walk people through it. 
+:showtitle:
+
+= Overview
+
+This document talks about how Contributors can work on authoring their material. 
+The next document in this series discusses how to publish those changes to the ProjectLiberty2029 repository. 
+
+There are two ways for Contributors to work with this project's files.
+
+== For simple changes: GitHub Website
+
+What you will notice working in GitHub on the Website interface, is that every time you want to "save" a document, you must "Commit Changes" and give a text explanation of what you were changing.
+
+This method is perfect for one-file changes: if you want to fix or extend a document that already exists, or you want to propose a new document. 
+Even if a document is "complicated," as long as it's a single document, this is a fine method. 
+If you believe you will be many sessions in writing the file, then it is probably best to write it in a text-editor such as link:https://phcode.io/#/home["Brackets. ", window=read-later,opts="noopener,nofollow"] 
+
+We do not have documentation for that at this time. 
+
+(Asciidoc has link:https://docs.asciidoctor.org/asciidoctor/latest/tooling/#ides-and-text-editors[a page dedicated to other editors and viewers for Asciidoc, ", window=read-later,opts="noopener,nofollow"] many much more powerful than Brackets, but most requiring some additional level of expertise to setup.)
+
+== For complicated changes: GitHub Desktop
+
+If you work in GitHub Desktop, you will be able to simultaneously change many files, and save them without making a commit. 
+On GitHub Desktop, when you're ready with all your changes, you make a single "commit" for all those changes together.
+
+This method is the best one for making a series of changes, or if you will be a frequent contributor, because it lets you save a local copy of your work and make as many iterations to as many files as you like before sending a coherent and complete package to be merged into the main repository. 
+
+This method works best in conjunction with an editor called VS Code (which stands for "Visual Studio" Code, which is a Microsoft project.)
+VS Code is the most widely used editing program for software in the world. 
+It has modular plugins for every computing language in the world as well. 
+For ProjectLiberty2029, I, Vector Hasting, am using the "Asciidoc by asciidoctor" extension.
+It allows VS Code to edit-check the asciidoc syntax as I write it. 
+It also gives me the option of previewing the webpage inside VS Code, though I generally use a jekyll environment to do that. 
+We will have more complete instructions on these tools later in this document, though as of this draft of this document, those tools are not explained. 
+
+= How to Write in Asciidoc?
+
+There is a <</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>> which is meant to give you something to cut-and-paste the asciidoc bits you will need, so that you can concentrate on writing. 
+
+If you have additional asciidoc questions, link:https://docs.asciidoctor.org/["the official documentation is here.", window=read-later,opts="noopener,nofollow"]
+However, it is often more helpful to online-search for the thing you want in the form of "give me an example of how to do xyz in asciidoc." 
+
+As we gather a community, there is also the link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] and the link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["GitHub discussions board.", window=read-later,opts="noopener,nofollow"]
+
+== Workaround for learning Asciidoc
+
+There is link:https://pandoc.org/try/?from=html&to=asciidoc["an online converter that attempts to convert Word documents to Asciidoc, ", window=read-later,opts="noopener,nofollow"] but results require fixing up.
+
+== Detailed Walkthrough of Making Changes
+
+=== GitHub Website
+
+Note: there are many possible work-flows on GitHub, or any other git-enabled repository.
+
+For basic changes, like adding a single page or fixing minor typos, it is perhaps easiest to work straight in the GitHub Website interface.
+
+. You will need to navigate to the https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/[GitHub
+Website for Project Liberty 2029.]
+. Find the button near the top right that says "Fork," click it and follow the instructions to create your own copy of
+ProjectLiberty2029.github.io.
+. Switch to that repository: this can be confusing at first: 
+.. the original is "https://github.com/*ProjectLiberty2029*/ProjectLiberty2029.github.io," 
+.. but yours will be https://github.com/*YourUserName*/ProjectLiberty2029.github.io.
+.. (The reason we need to use this "fork-and-merge" technique is to satisfy our Clarity and Security requirements which are explored in <</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+
+
+=== GitHub Desktop
+
+Note: there are many possible work-flows on GitHub, or any other git-enabled repository.
+
+=== Next Step Resources:
+
+Here is the collection of Contributing docs. 
+Feel free to contribute to Contributing!
+
+<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+
+<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+
+<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+(This document.)
+
+<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
+
+We also have a link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["discussions area on GitHub itself.", window=read-later,opts="noopener,nofollow"]
