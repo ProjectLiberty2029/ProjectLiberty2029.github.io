@@ -109,6 +109,26 @@ code {
   border-radius: 2px;
 }
 
+/* We are taking this pre block out in order to allow coderay.css to handle code formatting */
+/*
+pre {
+  padding:8px 15px;
+  background: #333333;
+  border-radius: 3px;
+  border:1px solid #c7c7c7;
+  overflow: auto;
+  overflow-y: hidden;
+
+  code {
+    margin: 0px;
+    padding: 0px;
+  }
+}
+*/
+
+/* And putting this in since we have this css as the overriding one in the stack.
+    another option would be to move this css higher in the stack in default.html,
+    but that's likely to break a lot of other things. */
 pre {
   background: #333333; 
   border-radius: 3px;
@@ -122,6 +142,10 @@ pre code {
   color: #efefef; 
 }
 
+/* Override/reset coderay colors that are getting twisted */
+/* This would be better done by tracking down how we're screwing it up,
+     But I lack the time */
+
 /* Overrides the background color of the code block container */
 .highlight pre, .highlight code {
   background-color: #333; /* Use the dark background color you want */
@@ -134,6 +158,8 @@ pre code {
 .highlight .keyword {
   color: #D28445;
 }
+
+
 
 kbd {
   font-family: "SourceCodeProShr", "Droid Sans Mono", "DejaVu Sans Mono", monospace; /* copied in from asciidoctor */
@@ -170,6 +196,10 @@ td {
   border-left: 3px solid #940F15;
   border-top: 3px solid #940F15;
 
+
+  &:first-child {
+    border-left: 3px solid #940F15;
+  }
 }
 
 hr {
@@ -202,11 +232,11 @@ header {
   text-align: center;
   background: url(/content/media/images/page_decorations/header_background.png) #4276b6;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
-  z-index: 100; 
+  /* z-index:99; */
   -webkit-font-smoothing:antialiased;
   /* min-height: 76px; supposedly now handled by content and padding. */
-  /* min-height: auto; /* added back by AI for disappearing buttons, we'll see */
-  height: auto; /* AI keeps adding and removing this for disappearing buttons, we'll see */
+  min-height: auto; /* added back by AI for disappearing buttons, we'll see */
+  height: auto; /* added AI for disappearing buttons, we'll see */
 
   h1 {
     font: 40px/48px "PassionOne-Share", "Lato-Share", "Helvetica", "Arial", sans-serif;
@@ -227,48 +257,48 @@ header {
     text-align: center;
   }
 
-}
-
-#site-name {
-  font: 40px/46px "Libertinus", "Spectral-Share", "LiberationSerif-Share", "Garamond", serif; 
-  font-size: clamp(24px, 5vw, 40px);
-  color: #f3f3f3;
-  text-shadow: 0px 2px 0px #235796;
-  margin: 0px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  text-overflow: ellipsis;
-}
-#site-name a {
-  color: #f3f3f3; 
-  
-  &:hover{
-    color: #bda02b;  
+  #site-name {
+    font: 40px/46px "Libertinus", "Spectral-Share", "LiberationSerif-Share", "Garamond", serif; 
+    font-size: clamp(24px, 5vw, 40px);
+    color: #f3f3f3;
+    text-shadow: 0px 2px 0px #235796;
+    margin: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-overflow: ellipsis;
+  }
+  #site-name a {
+    color: #f3f3f3; 
+    
+    &:hover{
+      color: #bda02b;  
+    }
   }
 }
 
 .header-content {
   display: flex;
-  flex-direction: column;
   align-items: center;    /* Center everything horizontally */
-  /* gap: 10px;              /* Adds space between header children */
+  gap: 10px;              /* Adds space between header children */
+  flex-direction: column;
   /* padding: 0 20px;        /* Add padding back to the content */
 }
 
 #site-description {
+  
   display: flex;
-  flex-wrap: wrap;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
   color: #f3f3f3;
-  gap: 2px; 
+  font-size: clamp(12px, 5vw, 18px);
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  align-items: center;
+  gap: 10px; /* Space between buttons */
   /* margin-top: 10px; */
-  margin: 0;
-  padding: 0 5px;
+  padding: 0 10px;
   /* z-index: 98; */
+    
   /*height: 50px; */
 }
 /* banner used to have top: 115px: this is causing trouble with the table of contents */
@@ -277,23 +307,24 @@ header {
 /* margin-right:-382px; 
 top: 91.2px; */
 #banner {
+  
   display: flex;
   flex-wrap: wrap; 
   justify-content: center; 
   align-items: center;
   gap: 10px; /* Space between buttons */
   margin-top: 10px; 
-    /* z-index: 200; */
-  /* height: 50px; */
+  padding: 0 20px;
+  /* z-index: 200; */
+    
+  height: 50px; 
   /* position: fixed; */
   background: #940F15;
   border: 1px solid #7d0d13;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
-  padding-left: 10px;
   padding-right: 10px;
-  padding-top: 0px;
-  padding-bottom: 0px;
+
   left:0;
   right: 0;
   width: 100%;
@@ -321,8 +352,7 @@ top: 91.2px; */
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
     background-color: #f93737;
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 5px;
     padding: 10px 10px;
     margin-top: 6px;
     margin-bottom: 6px;
@@ -350,6 +380,7 @@ top: 91.2px; */
   flex: 1;
   display: flex;
   flex-direction: column;
+  padding-top: 150px; /* Space for the fixed header */
 }
 
 /* Add a spacer to prevent content from hiding behind the fixed header and banner 
@@ -378,6 +409,16 @@ top: 91.2px; */
   font-weight: bold;
 }
 
+.font20_700 {
+  font-size: 20px; 
+  font-weight: 700;
+}
+.font20_700i {
+  font-size: 20px; 
+  font-weight: 700;
+  font-style: italic;
+}
+
 .font24_700 {
   font-size: 24px; 
   font-weight: 700;
@@ -386,6 +427,25 @@ top: 91.2px; */
   font-size: 24px; 
   font-weight: 700;
   font-style: italic;
+}
+
+#banner #logo-l {
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 7px;
+    top: 7px;
+    display: block;
+    background: url(/content/media/images/icons/torchandcircle.svg)
+}
+#banner #logo-r {
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    right: 7px;
+    top: 7px;
+    display: block;
+    background: url(/content/media/images/icons/torchandcircle.svg)
 }
 
 section {
@@ -671,10 +731,7 @@ aside.sticky-block a:hover {
   display: inline-block;
   width: 240px;
 }
-/***************************************************/
-/* This section modifies larger screen behavior VH */
-/***************************************************/
-
+/* Constrain header height on large screens VH */
 @media (min-width: 768px) {
   header {
     /* height: 180px; /* Adjust this value as needed */
@@ -685,7 +742,7 @@ aside.sticky-block a:hover {
   #banner {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row; /* arrange buttons horizontally on large screens VH */
+    flex-direction: column; /* arrange buttons horizontally on large screens VH */
     justify-content: center;
     align-items: center;
     gap: 10px;
@@ -714,60 +771,21 @@ aside.sticky-block a:hover {
 
   #author-list{
     flex-direction: column;
-    font-size: 16px;
-    line-height: 18px;
   }
 
   #todo{
     flex-direction: column;
-    font-size: 16px;
-    line-height: 18px;
   }
   #draft-status{
     flex-direction: column;
-    font-size: 16px;
   }
-
-  #draft-status img {
-      width: 48px;
-      height: 60px;
-    }
 
   .content-notsticky{
     flex-direction: column;
   }
 
-  .flex-columns-container {
-  padding-top: 150px; /* Space for the fixed header */
-  }
-
-  #site-description {
-    font-size: 16px; 
-    line-height: 18px;
-  }
-  .footer-rows-image {
-  width:150px;
-  }
-  .footer-rows-text {
-  width:650px;
-  font-size: 16px;
-  }
-
-  .font20_700 {
-  font-size: 20px; 
-  font-weight: 700;
-  }
-
-  .font20_700i {
-  font-size: 20px; 
-  font-weight: 700;
-  font-style: italic;
-  }
 }
-/***************************************************/
-/* This section modifies smaller screen behavior VH */
-/***************************************************/
-
+/* Responsive button layout for small screens VH */
 @media (max-width: 767px) {
   #banner {
     display: flex;
@@ -794,7 +812,7 @@ aside.sticky-block a:hover {
     flex-direction: row; /* arrange buttons horizontally on large screens VH */
   }
 
-  h-toc{
+    h-toc{
     /* flex-wrap: wrap;
     flex-direction: row; */
     width: 100%;
@@ -809,63 +827,23 @@ aside.sticky-block a:hover {
     /* flex-wrap: wrap;
     flex-direction: row; */
     width: 100%;
-    font-size: 12px;
-  }
-
-  #draft-status img {
-    width: 36px;
-    height: 44px;
   }
 
   #author-list{
     /* flex-wrap: wrap;
     flex-direction: row; */
     width: 100%;
-    font-size: 12px;
-    line-height: 14px;
   }
 
   #todo{
     /* flex-wrap: wrap;
     flex-direction: row; */
     width: 100%;
-    font-size: 12px;
-    line-height: 14px;
   }
 
   .content-notsticky{
     flex-wrap: wrap;
     flex-direction: row;
-  }
-
-  .flex-columns-container {
-  padding-top: 0px; /* Space for the fixed header */
-  } 
-
-  #site-description {
-    font-size: 12px; 
-    line-height: 14px;
-  }
-
-  .footer-rows-image {
-  width:100px;
-  }
-
-  .footer-rows-text {
-  width:220px;
-  font-size: 8px;
-  font-weight: normal;
-  }
-
-  .font20_700 {
-  font-size: 14px; 
-  font-weight: 600;
-  }
-
-  .font20_700i {
-  font-size: 14px; 
-  font-weight: 600;
-  font-style: italic;
   }
 
 }
@@ -875,10 +853,6 @@ aside.sticky-block a:hover {
    ========================================================================== */
 
 @media (min-width: 992px) { /* Use a larger breakpoint for two columns */
-  #banner {
-    flex-direction: row;
-  }
-  
   .flex-columns-container {
     flex-direction: row;
     align-items: flex-start;
@@ -897,44 +871,7 @@ aside.sticky-block a:hover {
   main.content-notsticky {
     flex: 1;
     padding-left: 20px;
-    position: static;
   }
-}
-
-.footer-rows {
-  /* display: flex; */
-  width: 100%;
-  margin-left: 20px;
-  /* margin-right: auto; */
-  margin-top: auto;
-}
-
-.footer-rows-image {
-  display: inline-block;
-  margin-top: 20px;
-  vertical-align: top;
-  border-color: transparent;
-}
-
-.footer-rows-image img {
-  display: inline-block;
-  vertical-align: top;
-  border-color: transparent;
-}
-
-.footer-rows-text {
-  display: inline-block;
-  color: white; 
-  margin-left: 20px;
-  text-align: left; 
-  border-color: transparent;
-}
-
-.footer-rows-text a {
-    color: rgb(213, 205, 188); 
-    font-style: italic;
-    text-decoration: underline;
-    &:hover { color: rgb(235, 171, 110); }
 }
 
 /* ==========================================================================
@@ -946,15 +883,6 @@ aside.sticky-block a:hover {
     width: 100%;
     position: static;
     padding: 0 20px;
-  }
-
-  /* Force banner to be visible and take up space */
-  #banner {
-    /* display: flex; */
-    flex-direction: column;
-  }
-  .button {
-    width: 100%;
   }
 }
 
@@ -980,13 +908,13 @@ aside.sticky-block a:hover {
     }
   }
 
-  /*#banner {
-    /* width: 100%; 
+  #banner {
+    /* width: 100%; */
 
   #banner #logo {
         margin-right: 15px
     }
-  } */
+  }
 
   section {
     border:1px solid #e5e5e5;
@@ -1028,6 +956,15 @@ aside.sticky-block a:hover {
 
   #banner {
     top: 80px;
+
+    .fork {
+
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
   }
 
   section {
@@ -1062,7 +999,7 @@ aside.sticky-block a:hover {
     margin-top: 5px;
   }
 
-  /*#banner { display: none;} */
+  #banner { display: none;}
   header ul {
     display:none;
   }
@@ -1102,6 +1039,41 @@ aside.sticky-block a:hover {
     width:auto;
   }
 }
+
+.footer-rows {
+  display: flex;
+  width: 100%;
+  margin-left: 20px;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.footer-rows-image {
+  display: inline-block;
+  margin-top: 20px;
+  vertical-align: top;
+}
+
+.footer-rows-image img {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.footer-rows-text {
+  display: inline-block;
+  color: white; 
+  margin-left: 20px;
+  font-weight: bold;
+  text-align: left; 
+}
+
+.footer-rows-text a {
+    color: rgb(184, 168, 136); 
+    font-weight: bold;
+    font-style: italic;
+
+    &:hover { color: rgb(235, 171, 110); }
+  }
 
 /*  Begin added css from foundation system: */
 

@@ -35,34 +35,43 @@
       </div>
 
       <div id="banner">
+        <!-- <span id="logo-l"></span>   -->
         <!-- Begin Buttons in Red Banner -->
+
+        <!-- Substack Button -->
         <a class="button" href="https://ProjectLiberty2029.com", 
             target="_blank" rel="noopener noreferrer">
           <strong>Videos & Essays on Substack &nbsp;</strong>
-          <div class="img-button"><img src="/content/media/images/icons/buttonimage_substack.png"></div>
-        </a>
-        <a class="button" href="https://www.patreon.com/cw/ProjectLiberty2029", 
+              <div class="img-button"><img src="/content/media/images/icons/buttonimage_substack.png"></div>
+            </a>
+        <!-- Patreon Support  Button -->    
+          <a class="button" href="https://www.patreon.com/cw/ProjectLiberty2029", 
             target="_blank" rel="noopener noreferrer">
           <strong>Support This on Patreon &nbsp;</strong>
-          <div class="img-button"><img src="/content/media/images/icons/buttonimage_patreon.png"></div>
-        </a>
-        <a class="button" href="https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io", 
+              <div class="img-button"><img src="/content/media/images/icons/buttonimage_patreon.png"></div>
+            </a>
+        <!-- Help Improve Button -->
+          <a class="button" href="https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io", 
             target="_blank" rel="noopener noreferrer">
-          <strong>Help Improve This On GitHub &nbsp;</strong>
-          <div class="img-button"><img src="/content/media/images/icons/buttonimage_github.png"></div>
-        </a>
+            <strong>Help Improve This On GitHub &nbsp;</strong>
+              <div class="img-button"><img src="/content/media/images/icons/buttonimage_github.png"></div>
+            </a>
         <!-- End Buttons in Red Banner -->
+        <!-- <span id="logo-r"></span>  -->
       </div><!-- end banner -->
+
     </div> <!-- End of header-content -->
   </header>
 
   <!-- This div is for spacing and can be removed or used for styling. -->
-  <div>
+  <!-- <div>
     <div id="content-spacer"></div>
-  </div> 
+  </div> -->
 
-  <!-- Main content and sidebar Flexbox container -->
-  <div class="flex-columns-container">
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="flex-box-container">
+
     <aside class="sticky-block">
       <div class="nav-block">
         {%- assign draft-status-list = "0, 00, 25, 50, 75, 100, 0%, 00%, 25%, 50%, 75%, 100%" | split: "," -%}
@@ -70,15 +79,22 @@
         {%- if draft-status-list-stripped contains page.draft_complete -%}
           <span id="draft-status">  
             <a href="/content/page_draft_status.html"><img src="{{ page.draft_complete | remove: '%' | prepend: '/content/media/images/icons/draft_complete_' | append: '.png' }}" 
-              alt="Draft Status Icon" > 
+              alt="Draft Status Icon" width="48" height="60"> 
               &nbsp;&nbsp;{{ page.draft_complete | remove: '%' | prepend: 'Draft Status: ' | append: '%'}}
             </a>
           </span>
         {%- endif -%}
         <br>
+        <!-- <img src="/content/media/images/icons/draft_complete_50.png" alt="Draft Complete Level"> -->
+
         <br>
         <h-toc>Table of Contents</h-toc>
+        <!-- Here is where the Liquid filter generates the TOC -->
+        <!-- Note the number after the colon x represents the highest sectlevelx 
+                the tocify_asciidoc should render. Since sectlevel0 is Header1, 
+                x = 3 would render up to Header 4. The maximum is 7 for header 6. -->
           {{ page.document | tocify_asciidoc : 7}}
+
         <!-- Author(s) Block: -->
         {% if page.authors.size >0 %}
           <span id="author-list">
@@ -106,22 +122,25 @@
 
     <!-- Main Blog Content -->
     <main class="content-notsticky" role="content">
-      {{ content }}
+          {{ content }}
+
     </main>
-  </div>
+
+  </div> <!-- End of flex-box-container -->
 
   <!-- End Main Content and Sidebar -->
   <!-- Footer --> 
+
   <div class="footer-rows">
-     <br>
+    <br>
     <hr>
     <br>
     <table style="border-color: transparent; background-color: transparent; ">
       <tr>
-        <td class="footer-rows-image">
+        <td class="footer-rows-image" style="border-color: transparent; width: 200px">
           <img src="/content/media/images/icons/shareonblur200.png" alt="TorchOfLiberty" width="200" height="200">
         </td>
-        <td class="footer-rows-text">
+        <td class="footer-rows-text" style="border-color: transparent; width: 900px">
           <p>All documents formatted and/or identified as Legislation are hereby donated to the public domain.<br>
             All authors of such material on this site are hereby notified that work on Legislation shall be in the public domain.<br>
             Thank you for your service! <br><br>
@@ -145,8 +164,10 @@
         </td>
       </tr>
     </table>
-  </div>
-</div>
+      
+  </div> <!-- </footer> -->
+
+</div> <!-- flex-page -->
 
 <!-- These scripts are probably necessary for Asciidoctor to render properly -->
 <script src="/js/vendor/jquery.js"></script>
