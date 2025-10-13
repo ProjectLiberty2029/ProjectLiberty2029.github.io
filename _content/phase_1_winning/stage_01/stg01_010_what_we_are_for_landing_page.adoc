@@ -1,0 +1,180 @@
+= Say What We Are For
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 01
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: As of 10/7/25, I'm launching Substack ProjectLiberty2029 without completely loading all the legislative proposals authored both here and curated from those authored by elected Democratic Lawmakers.  
+:showtitle:
+
+[#topofdoc]
+[.lead]
+<<#proposals, Jump to the Proposals.>>
+
+== Reform vs Restoration
+
+DJT was elected to the Presidency for a second term because a majority of Americans agree with some form of this  sentiment: 
+"The system is rigged and broken."
+
+Many politicians in the coming years will probably try to make a simple case that we must "Restore America."
+
+They will want this message because it sounds safe, and politicians do not like to take risks when campaigning for votes. 
+
+We believe that if this political strategy succeeds, it will be a disaster for Liberty and Justice in America. 
+
+Because Americans are right: 
+
+The system is rigged. The system is unfair. 
+
+Such an unfairly rigged system will almost certainly continue to create disaffection and dissolution in the US population until our self-governance experiment fails. 
+
+Therefore, we need more fundamental reform. 
+
+== How PL2029 Serves Reform
+
+We hope to target two things here at ProjectLiberty2029 which have not found a natural home elsewhere: 
+
+(1) Proposing and refining *solutions* to the *disasters* caused by the MAGA regime. 
+
+(2) Examining how historic *human psychological realities* have led us to this point, and how that understanding should change what is proposed in (1).
+
+By *solutions,* we mean concrete proposals which We the People can _understand_ and which We the People must _demand_ that our leaders pass in Congress to restore Liberty and Justice to America. 
+
+By *disasters,* we include the public's lack of faith in our self-government project as well as the numerous and dangerous abuses of power by this fascist regime. 
+
+== Our Reality
+
+By *human psychological realities,* we mean the deepest human truths such as: 
+
+. we are born without the choice of our parents, 
+. we generally favor our children over others, 
+. women know for sure who their children are, but fathers do not,
+. humans learn by the examples of others,
+. humanity is at least 250,000 years old and evolved in the Ice Age when wealth accumulation was impossible, 
+. humans do not know the future, however:
+.. we still believe we can predict what's coming, 
+.. our predictions are often wrong, and
+.. yet we continue to believe we can predict the future,
+. humans make most of our risk judgments based on individual examples, not on statistical analysis,
+. humans working memory only has room for four to five considerations, 
+. humans form societies because we are our own best defense to our worst enemies: which are 
+.. disease, 
+.. pests, and 
+.. other humans
+. there are three kinds of 'games' that can model all human interactions (especially those involving wealth): 
+.. negative-sum, 
+.. positive-sum, and 
+.. zero-sum
+. In the first two of those games, we are able to make natural allies out of other humans, but in the zero-sum case, we end up with winners and losers, and generally this leads to enemies, 
+. Our current economic and political systems came about through traditions building upon traditions that were attempting to answer these psychological realities over thousands of years, +
+. As such they are not ideal, and can be considered in many ways accidental.
+
+These psychological realities structure the proposals and thinking here at Project Liberty 2029.
+
+Too often our perspectives on our problems do not delve back far enough. 
+We are easily seduced by the belief that our written history is our true history. 
+But as Aslan says in _The Lion the Witch and the Wardrobe:_ "...if she could have looked a little further back, into the stillness and the darkness before Time dawned, she would have read there a different incantation. "
+
+== Legislative Landscape
+
+There are two ways to make reform without violent revolution: Laws and Constitutional Amendments. 
+
+We do not want violent revolution. 
+
+Therefore, we want to use Laws and Amendments to bring about needed reforms. 
+
+While both are necessary, there are also problems with both. 
+
+=== The Problems with Laws
+
+In many cases a law may be possible but may also be judged to be Unconstitutional. 
+
+In some cases a law is plainly not be unconstitutional, or would be so weak as to be ineffectual.
+Take, for example, any law that would attempt to constrain Political Parties: they would not have much teeth against the implied freedom of association derived from the 1st Amendment's rights to free speech and free assembly. 
+
+=== The Problem with Constitutional Amendments
+
+Constitutional amendments are governed by link:https://constitution.congress.gov/constitution/article-5/["Article 5 of the US Constitution", window=read-later,opts="noopener,nofollow"] and the languages is complex, but boils down to two pathways:
+
+==== Constitutional Convention
+
+Our original Constitution was formed with a Constitutional Convention. 
+
+Since that time, there has never been another Constitutional Convention. 
+
+If two-thirds of the States, through their Legislatures, call for a Convention to propose Amendments, then if passed by that Convention (whose parameters are not specified) can be ratified by three-fourths of the states and become Amendments to the Constitution. 
+
+==== Traditional Amendment
+
+The normal way of amending the constitution is by Congress passing the proposed amendment by two-thirds majority in both houses, and then ratified by three-fourths of the states. 
+
+This has been done 27 times, but most recently it was over 33 years ago.
+
+Therefore achieving a constitutional amendment is nearly impossible. 
+
+But it is not actually impossible. 
+
+If any series of events in modern history is to lead us to amending our constitution, this fascist MAGA regime in power is a good candidate. 
+
+[NOTE]
+====
+Two-thirds of the states is 33.3 states, which must be rounded up to 34 states since we cannot subdivide a state, and only 33 states has not yet reached two thirds. 
+
+Three-fourths of the states is 37.5, which must be rounded up to 38 states. 
+
+Currently 29 legislatures are controlled by the Republican Party, 18 are controlled by the Democratic Party, 3 are divided between the parties and one is considered non-partisan. footnote:[The numbers change but link:https://www.ncsl.org/about-state-legislatures/state-partisan-composition["are tracked at this site." , window=read-later,opts="noopener,nofollow"]] 
+====
+
+== PROPOSALS
+
+<<#topofdoc, Back to the Top.>>
+
+=== Laws
+
+. <</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share: A Universal Share of All Income, paid for by an Equal Tax on All Income.>>
+. <</content/legislation_and_amendments/fair_commerce/fair_commerce_landing_page.adoc#,The Fair Commerce Act Landing Page.>> 
+. <</content/legislation_and_amendments/voting_rights_for_america/voting_rights_for_america_landing_page.adoc#,Voting Rights For America, and Improving the Vote, aka: The Voting For America Act.>>
+. <</content/legislation_and_amendments/attorney_general_reform/attorney_general_reform_landing_page.adoc#,We have a discussion of means to reform the Attorney General.>> If we use laws, there are a few flavors:
+.. We can <</content/legislation_and_amendments/attorney_general_reform/attorney_general_as_justice_board.adoc#,convert the position of Attorney General to a Board, like the Fed.>>
+.. Or we can <</content/legislation_and_amendments/attorney_general_reform/attorney_general_court_appointed_reform.adoc#,have the Courts appoint the Attorney General.>>
+
+No First-Use of Nuclear Weapons
+
+No One is Above the Law
+
+Protection from Data
+
+No Self Enrichment by Government Office-holders
+
+Money is not speech, Corporations are not people. 
+
+Rights to Nature
+
+Protecting Separation of Powers
+
+=== Amendments
+
+<</content/legislation_and_amendments/attorney_general_reform/attorney_general_elected_constitutional_amendment.adoc#,Attorney General Elected>>
+
+Protecting Voting Rights
+
+Ranked Choice Voting
+
+Popular Vote
+
+No First-Use of Nuclear Weapons
+
+No One is Above the Law
+
+Protection from Data
+
+No Self Enrichment by Government Office-holders
+
+Money is not speech, Corporations are not people. 
+
+Rights to Nature
+
+Protecting Separation of Powers
+

@@ -1,0 +1,119 @@
+= Attorney General Reform: Elected
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 75%
+:page-authors: Vector Hasting
+:page-todos: Add Images of the states. Finish the argument. 
+:showtitle:
+
+[.lead]
+_"The way to have good and safe government +
+is not to trust it all to one, +
+but to divide it among the many…”" +
+ -- Thomas Jefferson._
+
+There is a <</content/legislation_and_amendments/attorney_general_reform/attorney_general_reform_landing_page.adoc#,general introduction landing page for the topic of Attorney General reform.>>
+
+== Justification 
+
+At the federal level, tradition has long kept the President from exercising influence over his Attorney General and the selection of United States Attorneys. 
+This practice had universal support. 
+
+However, that Tradition has now been broken. 
+
+To help safeguard our liberties, this Amendment makes the Attorney General directly accountable to the People. footnote:[See link:https://www.yalelawjournal.org/pdf/117_9ik5mt28.pdf["Break Up the Presidency? Governors, State Attorneys General, and Lessons from the Divided Executive, the Yale Law Journal", window=read-later,opts="noopener,nofollow"]]
+
+This represents a large shift for the Federal Government.
+It will forever divide the "unitary executive" imagined by Hamilton and others into a more complex organization. 
+
+But this is not a radical idea. 
+
+Forty three states elect their attorney generals by statewide ballot. 
+This offers ample demonstration that the concept is not only workable, but advisable.
+
+Note also: the "unitary executive" is the principle driving force toward a two-party system. 
+
+This drive toward fewer parties has now reached a stage that <</content/phase_1_winning/Stage_00/stg00_020_political_party_logic.adoc#,is near to achieving single-party-rule in America.>> 
+
+Aiding and abetting this push is the corrupt use of the Attorney General and the Department of Justice to target the opposing political party. 
+
+== Summary
+
+Section 1 provides for the election of the Attorney General and Deputy Attorney General to four year terms and sets their election in the "midterm" election years. 
+This will have the benefit of separating the "stakes" in each election and encouraging participation in "off year" elections. 
+
+Section 2 defines the role of the Attorney General, specifically reassigning the power to appoint and dismiss United States Attorneys from the President to the Attorney General. 
+
+Section 3 defines the role of the Deputy Attorney General, to be essentially a replacement to the Attorney General to who functions of the Attorney General may be delegated. 
+
+Section 4 addresses the gravity of this position with the device we use for the president: a public oath or affirmation. 
+
+Section 5 sets the date that their term begins. 
+
+Section 6 clarifies that the power of Congress to impeach officials of the Executive Branch includes the newly elected Attorney General and Deputy Attorney General. 
+
+Section 7 give Congress authority to certify the election of Attorney General and Deputy Attorney General. 
+
+Section 8 clarifies that this Amendment does not need additional legislation to come into effect: it is "self actualizing."
+
+== Amendment to the US Constitution: 
+
+=== Sec. 1: Election Of Attorney General and Deputy Attorney General
+
+The Attorney General shall be elected by national popular vote in accordance with this Constitution on a ballot option separate from any other option. 
+The Deputy Attorney General shall be elected by national popular vote in accordance with this Constitution on a ballot option separate from any other option. 
+Both shall hold their offices for a term of four years. 
+Attorney General and Deputy Attorney General shall be elected during the same election every four years where the year of their election shall not coincide with an election for President. 
+No person may be elected to the office of Attorney General more than twice. 
+No person may hold the office of Attorney General together with any other office of the US Government or of any State Government. 
+No person may hold the office of Deputy Attorney General together with any other office of the US Government or of any State Government. 
+
+=== Sec. 2: Responsibilities of Attorney General
+
+An Attorney General shall be the highest Law Enforcement Officer in the United States and shall have the following duties and responsibilities:
+
+[upperroman]
+. Exercising authority over the Justice Department of the United States Government, which slall remain a part of the Executive Branch of the Federal Government of the United States. 
+. Enforcing Law and Justice in the United States. 
+. Providing legal advice to the President. 
+. Answering to the Office of the President of the United States for actions performed by the Department of Justice.
+. Providing intelligence and information known by the Department of Justice to the Office of the President upon demand of the President or on the initiative of the Attorney General.
+. Answering to oversight and review by Congress.
+. Appointment of a United States Attorney for each judicial district subject to the following:
+.. Appointment must be with the advice and consent of the Senate;
+.. Each United States attorney shall be appointed for a term of four years. On the expiration of his term, a United States attorney shall continue to perform the duties of his office until his successor is appointed and qualifies;
+.. Each United States attorney is only subject to removal by the Attorney General.
+
+=== Sec. 3: Responsibilities of Deputy Attorney General
+
+A Deputy Attorney General will assume all duties and powers of the Attorney General in the case of incapacitation of the Attorney General, or in any specific matter from which the Attorney General is recused, or if the Attorney General is removed from office in accordance with this Constitution.  
+An Attorney General may delegate authority to the Deputy Attorney General in keeping with tradition and good governance. 
+An Attorney General may revoke delegated authority from the Deputy Attorney General in keeping with tradition and good governance.  
+
+=== Sec. 4 Oath of Office
+
+Before taking office, the Attorney General Elect and the Deputy Attorney General Elect will take the following Oath or Affirmation: 
+“I do solemnly swear (or affirm) that I will faithfully execute the Office of Attorney General of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.”
+
+=== Sec. 5 Office Termination and Start Date
+
+The terms of the Attorney General and Deputy Attorney General shall end at noon on the 5th day of February of the year after the first national election for Attorney General and Deputy Attorney General, by which time if their elected successors have taken their oath of office, the terms of their successors shall then begin. 
+
+=== Sec. 6 Removal by Impeachment
+
+An Attorney General or Deputy Attorney General may be removed from office by Congress on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
+
+=== Sec. 7 Administration of Election
+
+States shall have the authority to certify the number of votes for Attorney General and Deputy Attorney General. 
+Congress may pass legislation to institute a formal certification by Congress of the votes for Attorney General and Deputy Attorney General. 
+Such certification may not alter or reject the certified vote tallies by the states. 
+Such certification may be no less than fifteen days before the beginning of the terms of office for Attorney General and Deputy Attorney General. 
+An Attorney General Elect or Deputy Attorney General Elect may sue in the courts if Congress refuses certification. 
+
+=== Sec. 8 Self Executing
+
+Upon ratification, this Amendment shall be self-executing in any aspect not also enforced by legislation.  

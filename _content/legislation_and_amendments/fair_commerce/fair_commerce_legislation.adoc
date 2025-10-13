@@ -1,0 +1,184 @@
+= Fair Commerce Legislation
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: 
+:showtitle:
+:page-custom_nesting: law-nesting
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7m4jYMapoH0WbY8GB9RdY6?utm_source=generator&theme=0" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"America, America, true values rise away,  +
+for maximize means all will rise, +
+and birth a brand new day."_ 
+
+_From <</content/misc_docs/lyrics/030_o_beautiful_the_policy.adoc#,O Beautiful The Policy.>>_ +
+_Lyrics by Vector Hasting, link:https://creativecommons.org/licenses/by-sa/4.0/deed.en["CC 4.0-BY-SA,", window=read-later,opts="noopener,nofollow"] Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_
+
+== Links for Fair Commerce
+
+<</content/legislation_and_amendments/fair_commerce/fair_commerce_landing_page.adoc#,Fair Commerce Reform Landing Page.>> 
+
+<</content/legislation_and_amendments/fair_commerce/fair_commerce_legislation.adoc#,Fair Commerce Reform Legislation.>>  +
+(This Document)
+
+== Overview
+
+US Code is divided into "Titles."
+
+Title 15 is the Commerce and Trade. 
+
+== Notes on Bill language
+
+Bills have two kinds of language in them: 
+
+. The Operating Language
+. The Law that is left. 
+
+For example, consider if a bill said the following: 
+
+_Amend Section 23 to change the phrase "shall be null" to_ "shall be void."
+
+The part that is italicized is the "operational language" which is used to: 
+
+* Give helpful organizing information like a table of contents and a working title to the Bill. 
+* Direct lawyers and law writers and bureaucrats who will implement the Bill to what will be changed, (in the above example, "amend Section 23" where it says "shall be null"). 
+* Give context like: 'this change shall be effective a year after enactment.'
+* Give instruction where there will be nothing remaining, like: "Section 24 is repealed."
+
+The part that is not italicized is the "law language." 
+This is more intuitive: it is the language that will remain as Law.
+
+In the example above, "shall be void" remains as a part of the law. 
+
+Normally, those involved in the preparation and execution of Bills and Laws know how to distinguish one type of language from the other. 
+
+But because we are working in the public sphere, we will add the convention just described of _italicizing operational language_ and leaving the law language un-italicized. 
+
+== Fair Commerce Act
+
+*_A Bill_* +
+
+_to amend Title 15, Commerce and Trade, to require company fiduciary responsibility to include maintaining Stakeholder value before maximizing Shareholder value._ 
+
+_Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,_ 
+
+== _SECTION 1: SHORT TITLE; TABLE OF CONTENTS;_
+
+. _Short Title.--This Act may be cited as “Fair Capitalism Act.”_
+. _Table of Contents.--The table of contents for this Act is as follows:_
+
+_Section 1: Table of Contents._ +
+_Section 2: Empowering Fair Capitalism in America_ +
+_Section 3: Separability_ +
+_Section 4: Effective Dates_ +
+
+== _SECTION 2: EMPOWERING FAIR CAPITALISM IN AMERICA_
+
+. _In General. —  there shall be inserted into Title 15, after the end of Chapter 123, the following additional chapter 124 which shall read as follows:_
+
+=== Chapter 124 — Empowering Fair Capitalism in America
+
+Sec.
+10001. Congressional declaration of purpose +
+10002. Fiduciary Duty Defined  +
+10003. GrandContract Considerations +
+10004. Civil enforcement and Private Right of Action +
+10005. Severability +
+10006. Effective Date +
+
+==== Section 10001 — Congressional declaration of purpose
+
+. In General: By enacting the Fair Capitalism Act, Congress intends to cure an exploitation that has corrupted the heart of Capitalism in order that Free and Fair Capitalism may replace the old unfair and exploitative capitalism, and birth a new era of fair prosperity for all Americans. 
+. In Specific: 
+.. Congress understands the cause of unfair business practices in Capitalism has been that fiduciaries have had a duty only to their beneficiaries, and not also to the larger community of stakeholders. 
+.. The lack of a duty to do no harm has led to unfair profits that arise from shifting costs to America, to the People of America, to the Treasury of America, and to the Allies and trading partners of America. 
+.. That shifting of costs cannot be sustained over centuries by any human society. 
+.. Therefore the Congress of the United States enacts this Fair Capitalism Act to steer America and the World away from such ruin. 
+. Authority: Congress asserts its authority under the Constitution, Article I, Section 8, Clause 3, and its other authorities, to enumerate a legally binding definition of Fiduciary Duty.
+. Applicability: Wherever in law there is reference to Fiduciary Duty, or to a Fiduciary and their duties, that duty shall be understood to conform to the definition in section 10002 of this chapter in addition to any other definitions elsewhere in law or practice. 
+
+=== Section 10002 — Fiduciary Duty Defined:  
+
+. A Fiduciary is any person or entity entrusted with authority over the assets of value of another person or entity. 
+. A Beneficiary, or a Principal, or an Investor, is any person or entity that entrusts assets of value to a Fiduciary. 
+. A Fiduciary shall have three major duties: 
+.. Duty of Loyalty: A Fiduciary shall place the interests of the Beneficiary above their own interests.
+.. Duty of No Harm: A fiduciary shall not make decisions that harm stakeholder value and shall use all reasonable diligence and prudence to avoid such decisions. 
+.. Duty of Care: A fiduciary shall make decisions that pursue the interests of the Beneficiary and shall do so with all reasonable diligence and prudence so long as they do not violate the fiduciary’s Duty of No Harm, or duty of Loyalty. 
+. A Stakeholder is a person or entity impacted by the effects of decisions made by a Fiduciary where the Fiduciary’s decisions have a cause and effect relationship that could be foreseen by reasonable and prudent analysis at the time of the decision. 
+
+
+=== Section 10003 — Contracts
+
+. Any contract which existed before the enactment of the Fair Commerce Act which violates the new definition of Fiduciary Duty shall remain in effect, and shall not be subject to enforcement actions under section 10004, subject to the following: 
+.. The contract must have a termination date no later than ten years after the date of enactment of the Fair Commerce Act, 
+.. There shall be no alteration of the contract after the date of enactment of the Fair Commerce Act to extend any termination date of the contract. 
+.. Clauses for automatic extension or renewal of contracts which violate the Fiduciary Duty defined under section 10002 may not have the effect of extending such contracts beyond five years after the date of enactment of the Fair Commerce Act. 
+. Contracts which violate the definition of Fiduciary Duty in Section 10002 and which do not have a termination date within ten years after enactment of the Fair Commerce Act may be subject to enforcement actions under Section 10004 under the following rules: 
+.. In order to protect the integrity of business contracts:
+... No enforcement action under section 10004 may begin before the date ten years after enactment of the Fair Commerce Act, and
+... No enforcement action under section 10004 may begin if the contract is renegotiated to bring it into compliance with section 10002 within five years after enactment of the Fair Commerce Act.
+.. In order to protect the interests of stakeholders, the statue of limitations for such contracts is extended as described in section 10005.
+.. In order to encourage the rewinding of contracts in accordance with these new Fiduciary Duties, damages under section 10004 may be tolled beginning with the date one year after enactment of the Fair Commerce Act. 
+. After enactment of the Fair Commerce Act, no contract that violates section10002 may have any termination date extended through renegotiation or other changes in the contract. 
+. Contracts may extend the Statute of Limitation for Fiduciary liability specified in section 10005 subject to the following restrictions:
+.. Such a date may not exceed fifteen years from the decision date of the fiduciary,
+.. There shall not be separate dates for the protection of Stakeholders and Beneficiaries. 
+
+=== Section 10004 — Civil enforcement and private right of action
+
+. The Attorney General may bring a civil action in an appropriate district court for such declaratory or injunctive relief as is necessary to enforce Sections 10002 and 10003, subject to the limitations of section 10003 and 10005. 
+. Any interested Stakeholder or Beneficiary may commence a civil action for injunctive relief restraining violations of section 10002 and 10003, in accordance with limitations in section 10003 and 10005, in any United States District Court for a district in which the defendant resides, has an agent, transacts business, or wherever venue is proper under section 1391 of title 28. Such action may include damages.  In any such action, the court may award the costs of the suit, including attorney’s fees.
+. Relation to other laws 
+.. The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this chapter shall supersede, restrict, or limit the application of any other title of US law including this title 15. 
+.. Nothing in this chapter authorizes or requires conduct that is prohibited by title 15 or any other title of US law. 
+
+
+=== Section 10005 — Statute of Limitations
+
+. In the case of contracts satisfying 10003 (a), enforcement actions under section 10004 must begin no later than the later of these dates:
+.. A date one year after the effective termination of the contract, or
+.. The date seven years after enactment of the Fair Commerce Act. 
+. In the case of contracts satisfying 10003 (b), enforcement actions under section 10004 must begin no later than the date eleven years after enactment of the Fair Commerce Act 
+. In the case of all other contracts,  enforcement actions under section 10004 must begin no later than the later of these dates:
+.. A date three years after a Stakeholder or Beneficiary discovers, or reasonably should have discovered, a violation of section 10002.
+.. A date three years after the end of a decision by a Fiduciary,
+.. A date three years after the end of a contract created on the authority of a Fiduciary. 
+.. Any date in a contract that extends Fiduciary liability and satisfies the conditions of 10003 (d). 
+
+=== Section 10006 — Authorization of Appropriations
+
+. There are hereby authorized to be appropriated to Secretary of Commerce a one-time sum of $50,000,000,000 ($50 Million) to establish a fund to provide education and training to fiduciaries for transitioning to compliance with their new Fiduciary Duty, 
+. There are hereby authorized to be appropriated to Secretary of Commerce a one-time sum of $250,000,000,000 ($250 Million) to establish a fund to provide grants to entities with contractual exposure to enforcement under section 10004, where the Secretary must take actions to insure that grant recipients satisfy the following: 
+.. Grants recipients must provide detailed records to the Secretary of the contracts evaluated and the results of such evaluation including amounts of potential damages under section 10004,
+.. The new rules of Fiduciary Duty shall apply to the production potential damage assessments
+.. Such reports must be made public by the Secretary, 
+.. Such indications of potential damages shall not be admissible in any court of law as an admission by the Fiduciary or related beneficiaries of the actual damage amount under any enforcement action under section 10004, 
+.. Such indications of potential damages may be admissible in any court of law as evidence in assessing whether a Fiduciary has met their responsibility of Duty to No Harm as defined in section 10002 (c) (2). 
+
+=== Section 10007 — Separability
+
+. If any provision of this chapter of this title or the application of such a provision or amendment to any person, entity, or circumstance, is held to be unconstitutional or is otherwise enjoined or unenforceable, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person, entity, or circumstance, and any remaining provisions of Title 15 shall not be affected by the holding.
+
+=== Section 10008 — Effective Dates
+
+. To give fiduciaries time to understand their new duties, section 10002 shall be effective on the first of the month three months after the enactment of the Fair Commerce Act. 
+. Effective dates of section 10003 are as specified in that section.  
+. All references to date of enactment shall refer to midnight at the end of the day on which the Fair Commerce Act became law. 
+
+== SECTION 3: SEPARABILITY
+
+. If any provision of this Act or any amendment made by this Act, or the application of such a provision or amendment to any person, entity, or circumstance, is held to be unconstitutional or is otherwise enjoined or unenforceable, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person, entity, or circumstance, and any remaining provisions of Title 15 shall not be affected by the holding. 
+
+== SECTION 4: EFFECTIVE DATES
+
+. Effective dates are as specified in Section 10008

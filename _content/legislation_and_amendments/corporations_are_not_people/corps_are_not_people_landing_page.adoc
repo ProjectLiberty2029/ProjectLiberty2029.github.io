@@ -1,0 +1,47 @@
+= Corporations are Not People Landing Page
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: This is the landing page for Corporations are not People. We need the entire thing written. 
+:showtitle:
+
+== Links for Corporations Are Not People
+
+<</content/legislation_and_amendments/corporations_are_not_people/corps_are_not_people_landing_page.adoc#,Corporations Are Not People Landing Page.>> +
+(This Document)
+
+<</content/legislation_and_amendments/corporations_are_not_people/corps_are_not_people_legislation.adoc#,Corporations Are Not People  Legislation.>>  
+
+== Overview
+
+[.indent]
+====
+_"The Constitution guarantees protections to property,_ +
+_and we must make that promise good,_ +
+_But it does not give the right of suffrage to any corporation…_ +
+_(we must) prohibit the use of corporate funds directly or indirectly for political purposes_ +
+_-- Teddy Roosevelt_
+====
+
+Capitalism mixed with the powerful invention of Corporations have shaped the modern world. 
+
+Corporations are being treated by the Supreme Court more and more like Persons with First Amendment Rights. 
+
+Yet if Corporations were to be treated psychologically as persons, they would be categorized as pathological personalities. footnote:[I have this, its easy to find, needs to be here.]
+
+There are two pathways to taming the abuse of Rights for the advantage of pathological corporations. 
+
+. We must reconstitute the court, and then bring a challenge to the erroneous case-law (Hobby Lobby, Citizens United, et. al) 
+. We can amend the Constitution to 
+
+Reconstituting the court is dealt with separately because it addresses so may abusive decisions of the court. 
+
+This section lays out a Constitutional Amendment to establish that "Money is not Speech, and Corporations are Not People."
+
+== Argument
+
+What remains is a stub.

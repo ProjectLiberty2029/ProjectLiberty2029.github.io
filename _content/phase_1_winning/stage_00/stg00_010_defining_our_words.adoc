@@ -1,0 +1,107 @@
+= Defining our Words
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 00
+:page-draft_complete: 75%
+:page-authors: Vector Hasting
+:page-todos: As more vocabulary is needed, add to this.
+:showtitle:
+
+== Language Is Powerful
+
+We all know the words we use have power. 
+
+== The Abuse of the Power of Language
+
+Democrats have lost a lot of credibility with voters by pushing marginal improvements in definitional language in a shame-based manner. 
+For example: what is the difference between _"homeless,"_ and _"unhoused?"_ 
+Is any such difference worth the emotional baggage of disapproving one over the other? 
+
+This Democratic policing against 'politically incorrect' speech may be motivated by the intention to give power to less-empowered minority groups by insuring each group gets to define the vocabulary applied to them. 
+
+This is well intentioned. 
+
+However, the emotional zeal that has accompanied its enforcement has had the unintended consequence of making Democrats untrustworthy when it comes to choices of language.
+
+Simply put, Democratic vocabulary has become so mutable and jargon-filled that the general public views it as both funny and annoying. 
+And this dis-like of the jargon includes the very Democratic constituencies that were its genesis, because now each group is subjected to shame-based enforcement of vocabulary choices which are oftentimes seen as arbitrary. footnote:[This author, while writing this, has no idea what the correct words are supposed to be to refer to people of short stature, or is it people with dwarfism, or is it dwarfs, or is it short people... He could look it up, but this is unpleasant.]
+
+That creates a political weakness for Democrats which Republicans have exploited. 
+
+Republicans have gained a lot of power by wrapping themselves in certain words. 
+Consider the words: patriot, faithful, Christian, strong, powerful. 
+
+Now, the current regime has taken an Orwellian, 1984, turn toward directly abusing language. 
+They say the Justice Department was weaponized, but it is they who are weaponizing it. 
+They say we are at war with drug gangs from foreign countries, yet this is clearly a term of art (like "war on drugs") which they now pretend has the same meaning as a technical declaration of war. 
+The examples of abuse expand by the day. 
+
+=== How to Reclaim the High Ground:
+
+==== Stop digging the hole
+
+Project Liberty 2029 recommends that Democrats abandon their preoccupation with the use of language to define groups of people, with one exception. 
+Democrats and anyone should challenge any use of language that deliberately denigrates one group of people, or elevates one group of people, or otherwise abuses the basic humanity of people. 
+
+So for example, if someone says "black people are in need," this should not be corrected by Democrats with any statement like "you mean people of color are in need."
+Nor should it be challenged in any direct way such as "I prefer 'people of color.'"
+Democrats who prefer a different phrase should merely answer using their preferred language. 
+
+This advice is intended to correct for the major political problem that Democrats have in alienating large swaths of the American public. 
+This advice does not mean that Democrats should abandon the definitional language battle. 
+It means the battle must be fought by personal example instead of using Democrat's perceived superiority in education as a cudgel against plain speaking Americans. 
+
+==== Plant a flag
+
+Democrats should use words like Freedom, Justice, Patriotism, Personal Security, National Dignity, and Religious Freedom to describe their proposals and their actions. 
+
+All of these are appropriate to describe the policies recommended here in Project Liberty 2029, and the policies of the Democratic Party in general.
+
+Democrats must call themselves patriots, and must call all that opposes the MAGA regime patriotic. 
+
+This work is already beginning. 
+It must accelerate. 
+
+Democrats must speak to the financial powers that animate and seek to profit from this MAGA regime.
+
+Democrats should talk about fairness much more. 
+
+Democrats must make their policies simple.
+
+The days of 34 point plans are gone. 
+They relied on the public's trust that politicians and bureaucrats would juggle those 34 things in a smoke filled room against powerful interests and at least come out with some wins for regular folk. 
+Now the public has seen too many golden parachutes landing gently on a hill overlooking their personal foreclosure signs. 
+
+Democrats must also take-back symbols of American Patriotism such as the American Flag, the Gadsden Flag, Red Liberty Caps, and more. 
+
+Readers of Project Liberty 2029 can help speed this claiming of the High Moral Ground of language and symbols by participating in it in their daily lives. 
+
+=== Project Liberty 2029 Vocabulary
+
+[width="75%",cols="25%,75%"]
+|===
+|DJT 
+    | To lend the least power possible to the man who occupies the Presidency in 2025, we will use his initials.
+|The MAGA Regime 
+    | For many reasons, we should de-personalize the struggle for Liberty and Justice in America from the personality of DJT. +
+1) DJT is in failing health and he may not be alive in 2029. +
+2) There are successors to the fascist Project 2025 agenda who wish to continue its work and will have the power to do so whatever the fate of DJT. +
+3) MAGA satisfies the definition of a fascist movement because the final "A" stands for the word "Again." +
+4) Therefore, there will not be a return to Freedom and Justice, nor to a secure environment for retained and protecting Freedom and Justice until the fascist MAGA regime is destroyed *and* the MAGA movement is discredited. 
+|The MAGA Movement 
+    | The political force that wishes to make America great *Again* is fetishizing a mythical past in which the group they perceive themselves to be part of was rightfully dominant over other groups. +
+    The most straightforward example of this would be white grievance. +
+    Keep in mind, however, that the idea of 'whiteness' is fungible and many people identify as the 'white' class even though most of us would not see them that way. +
+    Because of this human ability to self-identify with a dominant group, the MAGA movement can morph across lines of race and class while still retaining a sense of grievance that a mythical past of dominance was unfairly taken from them by persecuting minorities, who must be persecuted in return. + 
+    This is the essence of a fascist movement. 
+|The fascist regime 
+    | We may use this term as a synonym for The MAGA Regime to improve readability.
+|The fascist movement/ the fascist movement in America 
+    | We may use this term as a synonym for The MAGA Movement  to improve readability.
+|Patriot 
+    | Those who oppose The MAGA Regime and who seek to restore Liberty and Justice and the Rule of Law in America.
+|PL2029 
+    | Shorthand for Project Liberty 2029. Where useful, we will use this to make materials more readable. 
+|===

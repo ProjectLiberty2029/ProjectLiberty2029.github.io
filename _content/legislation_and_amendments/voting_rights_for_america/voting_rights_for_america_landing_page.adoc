@@ -1,0 +1,246 @@
+= Voting Rights For America Landing Page
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: This is the landing page for Voting Rights for All. Needs lots o' footnotes. I have some, but it needs more. 
+:showtitle:
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Ed2tSTL49OXeZ6iOd70wO?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"Our candidate was tellin' how our system is so olden,  +
+we get to vote for only one, and so our country's stolen. +
+She said a better kind o' vote was rankin' who you're good fer.  +
+We mightn't get our favorite one, but won't get stuck a loser_ 
+
+_From <</content/misc_docs/lyrics/020_yankee_doodle_went_to_vote.adoc#,Yankee Doodle Went to Vote.>>_ +
+_Lyrics by Vector Hasting, link:https://creativecommons.org/licenses/by-sa/4.0/deed.en["CC 4.0-BY-SA,", window=read-later,opts="noopener,nofollow"] Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_
+
+== Links for Voting Rights for America
+
+<</content/legislation_and_amendments/voting_rights_for_america/voting_rights_for_america_landing_page.adoc#,Voting Rights for America Landing Page.>> +
+(This document)
+
+<</content/legislation_and_amendments/voting_rights_for_america/voting_rights_for_america_legislation.adoc#,Voting Rights for America Legislation.>>
+
+== Overview
+
+Fundamental to any democracy is the means of polling the people. 
+
+It is also fundamental to a democracy for people to feel their elections have given legitimacy to the winning candidates. 
+
+On this final score, the United States comes up short in the world, and in our own eyes. 
+
+In our modern era, with large AI models, we are heading into an arena where we are more and more likely to elect candidates with whom the majority is unhappy. 
+
+This pathway has already led to rising polarization in the electoral landscape and growing disincentives to find consensus solutions. 
+
+Such a trajectory will doom our democratic republic. 
+
+We need a trajectory that will lead us to more consensus. 
+
+And there are some simple fixes which can be implemented by law. 
+
+== History
+
+The roots of our backwards elections go back to the founding of our Republic, when a large percentage of citizens were illiterate.
+
+The relatively rich leaders who wrote our Constitution were skeptical of the wisdom of letting regular people vote for all their leaders.
+
+They therefore adopted a power-sharing system akin to the House of Parliament in England, where power was divided between a House of Commons (where Commoners could vote for the members) and the House of Lords (where you could only sit if you were a "hereditary Lord). 
+
+One can easily see their skepticism by the way they did not give the public much in the way of voting rights: 
+
+. link:https://constitution.congress.gov/constitution/article-1/#article-1-section-2-clause-1["The Constitution Article 1, Section 2, Clause 1" , window=read-later,opts="noopener,nofollow"] indicates "voting" with the word "Electors," but requires such electors to "have the Qualifications requisite for Electors of the the most numerous Branch of the State Legislature. At the time, they knew what they meant: white men who owned property. But at lease they left those qualifications outside the Constitution and up to each states. 
+. link:https://constitution.congress.gov/constitution/article-1/#article-1-section-3-clause-1["The Constitution Article 1, Section 3, Clause 1", window=read-later,opts="noopener,nofollow"] made senators essentially the representatives of State legislatures, as Senators were elected by them.
+. link:https://constitution.congress.gov/constitution/article-2/#article-2-section-1-clause-2["The Constitution Article 2, Section 1, Clause 2", window=read-later,opts="noopener,nofollow"] makes the President a hybrid election by apportioning the weight of influence on the election to the population of each state: the now-infamous Electoral College. And further, it does not give individuals a vote, only specifying that each state may decide how to appoint their Presidential Electors. 
+
+However, over time it became the practice of States to give the votes for these offices to their citizens, and this became increasingly clear in Constitutional Amendments: 
+
+. link:https://constitution.congress.gov/constitution/amendment-15/[The Fifteenth Amendment", window=read-later,opts="noopener,nofollow"] (ratified 1870) says  “The _right of citizens of the United States to vote_ shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude;” 
+. link:https://constitution.congress.gov/constitution/amendment-18/["The Nineteenth Amendment", window=read-later,opts="noopener,nofollow"] (ratified 1920) says “The _right of citizens of the United States to vote_ shall not be denied or abridged by the United States or by any State on account of sex;” 
+. link:https://constitution.congress.gov/constitution/amendment-24/["The Twenty Fourth Amendment", window=read-later,opts="noopener,nofollow"] (ratified 1964) says “The _right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress_, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax;” an
+. link:https://constitution.congress.gov/constitution/amendment-26/["The Twenty-Sixth Amendment", window=read-later,opts="noopener,nofollow"] (ratified 1971) says “The _right of citizens of the United States, who are eighteen years of age or older, to vote_ shall 
+not be denied or abridged by the United States or by any State on account of age.” 
+
+Therefore, by the modern era, all citizens of the US over 18 years old have a right to vote for our President, Vice President, Representative in the House and Senator. 
+
+IMPORTANT: But while we have changed *who* can vote, and *that* we can vote, we have not in all this time changed *how* we vote. + 
+(Well, almost none of us have...)
+
+== How We Vote: "Past the Post"
+
+How elections should work is one of the most studied questions in the world. 
+
+Despite this, the United States still uses the most ancient form of voting practiced anywhere in the world: "Past the Post."
+
+We got it from the British, who have used it since the middle ages. footnote:[link:https://en.wikipedia.org/wiki/First-past-the-post_voting["And yet the other former colonies of Britain have abandoned Past the Post.", window=read-later,opts="noopener,nofollow"]]
+
+Nonetheless, that is how 47 states vote: they make voters choose a single candidate on a single date. 
+
+And then, in 47 states whoever gets more votes than any other candidate becomes the winner. 
+
+Getting "more votes than anyone else" is called "a plurality."
+
+If more than two candidates are running, then it is very possible the winner will not receive a majority of votes. 
+
+This is how DJT won the presidency both times. footnote:[The first time, he was a minority vote winner, a situation made possible by the Electoral College, which is a different issue which we address elsewhere here on Project Liberty 2029. The second time, third party candidates may have served as deliberate spoilers to give enough room for a black female candidate to lose to DJG. The answer can never be known for sure. Why? Because we use Past the Post Voting. ]
+
+In three states, there are two different means they use to achieve a more advanced form of voting: they always yield a majority of voters approving of the winning candidates (or in the worst case scenario, a tie). 
+
+== What should be the criteria?
+
+As the modern era unfolds, it is becoming increasingly possible to manipulate the field of candidates to achieve "spoiling" of an election. 
+
+In this definition, spoiling means having the winner be a candidate disapproved of by a majority of the electorate. 
+
+Does this sound familiar?
+
+It will not take many more election cycles where a person who is elected by a minority, to cause enough loss of faith in our self-government to doom our democracy. 
+
+What can be done? 
+
+We can insist on a better election criteria. 
+
+Today, there is still a debater as to what the best form of a winning vote criteria should be.
+
+These come down to:
+. majority approval
+. consensus approval
+
+Because elections are one of the most studied fields of knowledge, the fact that there is still debate over whether _consensus approval_ or _majority approval_ is the most appropriate metric suggests that this may be a "particle or wave" choice, where the underlying reality is that light is both and neither. 
+
+One things is agreed upon by lay-people and scholars: the past-the-post plurality method of voting we use today is the most  succeptible to corrosive effects on the electorate 
+
+== Better doesn't have to be best. 
+
+Because there are two viable criteria, and because there are mutliple options, this legislative proposal leaves those choices up to the States to act as laboratories for what will be best for America. 
+
+It does insist on one or the other being measured by ballots. 
+
+Here are some examples:
+
+== Option 1: Runoff elections
+
+This is a majority approval method. 
+
+A straightforward method is the one used by the state of Georgia. 
+
+They use a Past-the-Post ballot to choose the top two vote-getters. 
+
+Then if one of them does not also get a majority, those two go to a runoff election. 
+
+Ironically, this was initially intended as a way to insure that black people could not get elected in a crowded field. 
+
+Ironically, that is essentially the same effect we seek: to insure a majority will approve of a candidate who wins.
+
+In failed-reconstruction Georgia, they assumed that a black person could never attain a majority of votes because white people would never support it. Raphael Warnock proved that wrong. 
+
+== Option 2: Instant Runoff Voting 
+
+This is a majority approval method. 
+
+Maine and Alaska used Ranked Choice voting, a system where voters are able to rank the candidates in their order of preference. 
+
+To talley the vote, there is an initial count that grants each candidate the number of votes by people who voted them their first choice. 
+
+If the first talley of votes yields a candidate a majority of votes, then that candidate is the winner. 
+
+If not, then the process continues by rounds until a candidate does have a majority of votes. 
+
+On the next round, the candidate with the fewest votes is eliminated, and all that ballots for that candidate get re-allocated to the next highest choice candidate that is still in the race. 
+
+This process repeats until one candidate receives a majority of votes. 
+
+(It is mathematically possible for this system to result in a tie.) 
+
+The important advantage of a ranked-choice system is that there is a better clarity by voters of who are acceptable to the majority. 
+
+== Option 3: Approval Voting
+
+This is a consensus approval method. 
+
+On an Approval Voting ballot, one simply ticks the candidates one approves of. 
+
+Then all the approvals are tallied.
+
+Whoever gets the largest number of approvals becomes the winner. 
+
+By default, this creates the most consensus winners. 
+
+This system has a theoretical possibility of generating a non-majority winner. 
+
+== Option 4: Combined Approval Voting
+
+This is a consensus approval method. 
+
+Voters give a -1, 0 or +1 to each candidate. 
+
+So you get to vote for or against every candidate, and you can choose not to vote either way. 
+
+The highest score wins. 
+
+This system is additionally essentially immune to spoiler candidate effects. 
+
+== Option 5: STAR Voting
+
+This is a consensus approval method. 
+
+Much like a consumer survey, voters rate their strength of support for each candidate, as on a 0-5 scale, or a -5 to 5 scale, or a 0-10 scale.  
+
+The winner is the candidate with the largest accumulated score. 
+
+== Option X: Oops
+
+It turns out there are limitations in all voting systems. 
+
+This doesn't mean we should give up on choosing something better than the worst one!
+
+The rest of this discussion is very wonky, but it is important to be prepared for the political argument of nihilism: a defeatest position that says we shouldn't do anything because nothing is perfect.
+
+But we must be prepared for these arguments to attempt to dis-empower us from achieving a more perfect union. 
+
+We must, however, acknowledge that the arguments may be grounded in a deep well researched material. 
+
+A good start down the rabbit-hole begins at link:https://en.wikipedia.org/wiki/Electoral_system["Electoral Systems on Wikipedia.", window=read-later,opts="noopener,nofollow"] 
+
+If you're so inclined, please... Enjoy! It is fascinating stuff. 
+
+Here I will explore the tip of one iceberg that will probably be aimed at any attempts to make things better. 
+
+Arrow's Impossibility Theorem shows that no ranked-choice voting system can satisfy all the ideal conditions one would want from a voting system. footnote:[link:https://en.wikipedia.org/wiki/Arrow's_impossibility_theorem["Arrow's impossibility theorem on Wikipedia.", window=read-later,opts="noopener,nofollow"]]
+
+This theorem won the Nobel Prize for Economics in 1972, and is one of those surprising and annoying discoveries that is unpleasant, but past which we must find a way to make our lives. 
+
+So there will be people saying "no system is perfect, just look at Arrow's theorem."
+
+But that must not be the end of the discussion: because a key takeaway from that theorem itself is the point we are making with this legislation: our plurality rule choose-one (Past the Post) system is the most vulnerable to being abused by spoiler effects. 
+
+[.indent]
+"While the impossibility theorem shows all ranked voting rules must have spoilers, the frequency of spoilers differs dramatically by rule. Plurality-rule methods like choose-one and ranked-choice (instant-runoff) voting are highly sensitive to spoilers, creating them even in some situations where they are not mathematically necessary" footnote:[link:https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorm["Arrow's Impossibility Theorem", window=read-later,opts="noopener,nofollow"], see paragraph 3.]
+
+and: 
+
+[.indent]
+"Rated voting rules," (Options 3-5 above) "where voters assign a separate grade to each candidate, are not affected by Arrow's theorem."" footnote:[link:https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorm["Arrow's Impossibility Theorem", window=read-later,opts="noopener,nofollow"], see paragraph 4.]
+
+== Links to More:
+
+Here are a collection of sites that discuss alternative forms of voting: (contact us on our discussions page to add your site here.)
+
+link:https://followmyvote.com/["Follow My Vote.", window=read-later,opts="noopener,nofollow"]
+
+link:https://fairvote.org/our-reforms/["Fair Vote." , window=read-later,opts="noopener,nofollow"]
+
+link:https://www.starvoting.org/["STAR Voting.org." , window=read-later,opts="noopener,nofollow"]
+
+link:https://electionscience.org/education/approval-voting["The Center for Election Science, Approval Voting page." , window=read-later,opts="noopener,nofollow"]
+
+link:https://en.wikipedia.org/wiki/Electoral_system["Wikipedia's Deep Dive into 'Electoral System.'", window=read-later,opts="noopener,nofollow"]

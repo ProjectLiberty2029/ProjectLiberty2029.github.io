@@ -1,0 +1,36 @@
+= Attorney General Reform: Justice Board
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Write this legislation... look at the history on the landing page and make language to put together some kind of board structure similar to the FED to replace the Attorney General 
+:showtitle:
+
+== Overview:
+
+_"The way to have good and safe government +
+is not to trust it all to one, +
+but to divide it among the many…”" +
+ -- Thomas Jefferson._
+
+If we take Thomas Jefferson's quote to heart, we might make the single position of Attorney General into a kind of Board of Directors, like the Federal Reserve. 
+
+See <</content/legislation_and_amendments/attorney_general_reform/attorney_general_reform_landing_page.adoc#statute,the general discussion of why this is possible by Statute.>>
+
+This may be too unwieldy because of the need for action by the Attorney General. 
+
+But on the other hand, the need for considered and thoughtful action may lend itself to a Board model quite well. 
+
+This could also be combined with the notion of having the Courts of Law appoint its members, as allowed for in link:https://constitution.congress.gov/constitution/article-2/#article-2-section-2-clause-2["the US Constitution, Article II, Section 2, Clause 2.", window=read-later,opts="noopener,nofollow" ] 
+
+Note that regular attorneys who appear before judges in any court are considered _agents of the court._ 
+They must have permission to practice in front of the court and can be removed by the court. 
+In this way it makes logical sense to use the Courts to appoint those who perform the duties of the Attorney General, whether as an individual or as a Board. 
+
+The Attorney General has been an exception to this, and that's allowed because they do not practice in front of the court, but have their attorneys do so. 
+
+This page is the stub that invites that work. 
+

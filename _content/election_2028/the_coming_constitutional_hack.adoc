@@ -1,9 +1,9 @@
-# The Coming Constitutional Hack
+= The Coming Constitutional Hack
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/
 :page-liquid:
-:page-stage: 06
+:page-stage: 02
 :page-draft_complete: 75%
 :page-authors: Vector Hasting
 :page-todos: Complete me. Probably add a map of Washington DC. 
@@ -15,7 +15,7 @@ _"It's not who votes that counts, +
  it's who counts the votes." +
  -- Joseph Stalin._
 
-## Overview
+== Overview
 
 [.lead]
 If you thought January 6th, 2021 was bad... the next January 6th will blow it out of the water.
@@ -38,7 +38,7 @@ How the MAGA regime can attempt to hack the US Constitution to 'Constitutionally
 [.lead]
 If you want the summaries, see  <<Summary of Points of Failure, Summary of the problem>> and <<Summary of the Defense, Summary of the Defense.>> 
 
-## The Points Of Failure
+== The Points Of Failure
 
 Here is a review of how our convoluted Electoral College system of voting works:
 [1]
@@ -88,13 +88,13 @@ Here is a review of how our convoluted Electoral College system of voting works:
 .. In the most extreme of scenarios, there may be a plot to use the powers of homeland security or the military to assassinate the incoming President and Vice President and others in order to maintain control.
 .. This is the infamous "Seal Team 6" hypothetical which was never answered by Supreme Court Justices who voted to give absolute immunity to a President who also has absolute authority to issue pardons. 
 
-## Summary of Points of Failure 
+== Summary of Points of Failure 
 
 [WARNING]
 ====
 *Firstly:* 
 
-Step 5 in <<The Points Of Failure, Points of Failure>> means that Elector Certificates will be delivered during December 2028 to both the Archivist of the US (a MAGA regime appointee) and the Vice-President of the US. Both of these individuals face legal peril for their activities during the MAGA regime. 
+Step 5 in <<the_points_of_failure, Points of Failure>> means that Elector Certificates will be delivered during December 2028 to both the Archivist of the US (a MAGA regime appointee) and the Vice-President of the US. Both of these individuals face legal peril for their activities during the MAGA regime. 
  
 Those Elector Certificates are vulnerable to alteration under the pretense that there was election rigging and therefore the Vice-President and/or the Archivist is rectifying the "problem" by "restoring" the "legitimate" (but actually fraudulent) Elector Certificates. 
 
@@ -104,7 +104,7 @@ Therefore if MAGA actors are successful in having their altered or fake (ie, not
 
 *Secondly:* 
 
-Step 7-a in <<The Points of Failure, Points of Failure>> presents a new hack that the MAGA regime can use to attempt to hold onto power. 
+Step 7-a in <<the_points_of_failure, Points of Failure>> presents a new hack that the MAGA regime can use to attempt to hold onto power. 
 
 The Vice-President need only refuse to show up to preside over the Joint Session, and the nation will then be potentially powerless to appoint a successor president. This would be a *_Constitutional Break_* because it would leaving the current MAGA regime president in place indefinitely. 
 
@@ -113,9 +113,9 @@ The Vice-President need only refuse to show up to preside over the Joint Session
 We must expect the MAGA regime to resort to these strategies because they will expect (rightly) criminal consequences for their actions once they lose power.  
 ====
 
-## Defending
+== Defending
 
-We will need to fight each of the <<The Points of Failure, Points of Failure>> above as follows:
+We will need to fight each of the <<the_points_of_failure, Points of Failure>> above as follows:
 [1] 
 . Requires worrying about 3rd party candidates deliberately running in selected states to siphon off enough votes from the Democratic candidate to elect the the candidate for the MAGA regime. (ProjectLiberty2029 is "Democratic Party" focused because this is a practical set of proposals, and there is no other realistic hope for over-throwing the MAGA regime except with the other major political party that is non-Republican.) 
 +
@@ -269,7 +269,7 @@ and the rules of link:https://www.govinfo.gov/content/pkg/USCODE-2024-title3/htm
 .. Because the security apparatus of the US has been compromised by the MAGA regime, the incoming President Elect should be protected not by Secret Service, but by National Guard and State Troopers from States whose Governors are working to preserve and protect the Constitution. 
 .. This non-Secret Service protection should continue until the incoming post-MAGA Administration has been able to vet bad-actors from law enforcement and security services. 
 
-## Summary of the Defense
+== Summary of the Defense
 
 [.lead]
 January 6th, 2029 is likely to see a repeat of a surrounded Capitol but at an exponentially larger scale. 

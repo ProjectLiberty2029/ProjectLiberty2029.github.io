@@ -1,0 +1,254 @@
+= Voting Rights for America Legislation
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: 
+:showtitle:
+:page-custom_nesting: law-nesting
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Ed2tSTL49OXeZ6iOd70wO?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"Our candidate was tellin' how our system is so olden,  +
+we get to vote for only one, and so our country's stolen. +
+She said a better kind o' vote was rankin' who you're good fer.  +
+We mightn't get our favorite one, but won't get stuck a loser_ 
+
+_From <</content/misc_docs/lyrics/020_yankee_doodle_went_to_vote.adoc#,Yankee Doodle Went to Vote.>>_ +
+_Lyrics by Vector Hasting, link:https://creativecommons.org/licenses/by-sa/4.0/deed.en["CC 4.0-BY-SA,", window=read-later,opts="noopener,nofollow"] Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_
+
+== Links for Voting Rights for America
+
+<</content/legislation_and_amendments/voting_rights_for_america/voting_rights_for_america_landing_page.adoc#,Voting Rights for America Landing Page.>> 
+
+<</content/legislation_and_amendments/voting_rights_for_america/voting_rights_for_america_legislation.adoc#,Voting Rights for America Legislation.>> +
+(This Document)
+
+== Overview
+
+US Code is divided into "Titles."
+
+Title 15 is the Commerce and Trade. 
+
+== Notes on Bill language
+
+Bills have two kinds of language in them: 
+
+. The Operating Language
+. The Law that is left. 
+
+For example, consider if a bill said the following: 
+
+_Amend Section 23 to change the phrase "shall be null" to_ "shall be void."
+
+The part that is italicized is the "operational language" which is used to: 
+
+* Give helpful organizing information like a table of contents and a working title to the Bill. 
+* Direct lawyers and law writers and bureaucrats who will implement the Bill to what will be changed, (in the above example, "amend Section 23" where it says "shall be null"). 
+* Give context like: 'this change shall be effective a year after enactment.'
+* Give instruction where there will be nothing remaining, like: "Section 24 is repealed."
+
+The part that is not italicized is the "law language." 
+This is more intuitive: it is the language that will remain as Law.
+
+In the example above, "shall be void" remains as a part of the law. 
+
+Normally, those involved in the preparation and execution of Bills and Laws know how to distinguish one type of language from the other. 
+
+But because we are working in the public sphere, we will add the convention just described of _italicizing operational language_ and leaving the law language un-italicized. 
+
+== Voting for America Act
+
+*_A Bill_* +
+
+_to amend Title 52, Voting and Elections, to require federal elections to deliver a majority or a consensus vote and to list general voter rights for all US Citizens._ 
+
+_Be it Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,_
+
+== _SECTION 1: SHORT TITLE; TABLE OF CONTENTS;_
+
+. _Short Title.--This Act may be cited as “The Voting for America Act.”_ 
+. _Table of Contents.--The table of contents for this Act is as follows:_ 
+
+_Section 1: Short Title, Table of Contents_ +
+_Section 2: Amendment to Title 52: Voting and Elections_ +
+_Section 3: General Declaration of Rights of Voters_ +
+_Section 4: Requirement for Majority or Consensus Vote in Federal Elections_ +
+_Section 5: Amendment to Title 5: Adding Federal Elections as Federal Holidays._ +
+_Section 7: Redesignations_ +
+_Section 8: Additional Repeals_ +
+_Section 9: Resolution of Dependencies_ +
+_Section 6: Separability_ +
+_Section 11: Effective Dates_ +
+
+== _SECTION 2: AMENDMENT TO TITLE 52: VOTING AND ELECTIONS_ 
+
+. In General —  US Code Title 52 shall have two chapters added to Subtitle I: 
+.. Chapter 109:  General Declaration of Rights of Voters in Federal Elections 
+.. Chapter 111:  Requirement for a Majority Vote Result in Federal Elections 
+
+== _SECTION 3: GENERAL DECLARATION OF RIGHTS OF VOTERS_
+
+. _In General. —  there shall be inserted into Title 52, Subtitle I, after the end of Chapter 107, the following:_ 
+
+=== Chapter 109 — General Declaration of Rights of Voters in Federal Elections
+
+Sec. +
+10901. 	Congressional declaration of purpose +
+10902. 	Voting Rights for All Citizens Defined +
+10903.	Authorization of appropriation +
+10904.	Civil enforcement and private right of action +
+10905.	Penalty +
+10905.	Separability +
+10907. 	Effective Date +
+
+==== Section 10901 — Congressional declaration of purpose
+
+. In General: By enacting this section of the The Voting for America Act, Congress intends to create a stronger America and to promote the general welfare and domestic tranquility of our Constitutional Republic. Congress declares that the bedrock of a just and enduring democracy is the Right of every citizen to a fair and equal vote to their representation in government. Congress hereby establishes this clear understanding of the Federal Voting Rights of All US Citizens. 
+
+==== Section 10902 — Voting Rights for All Citizens Defined:  
+
+. Because voting rights have accrued over time — through the US Constitution, through custom, and through laws passed by Congress and by the States — and because confusion has sometimes caused civil discord that threatens the existence of the United States, Congress uses its authority under the US Constitution to enumerate the following rights that exist for US Citizens in all Federal Elections: 
+.. The Will of The People is determined by the totality of voting, and it is this totality of voting which binds the Nation into a democratic, representative Republic, and 
+.. Only US Citizens have a right to vote, and 
+.. Voters have a right to vote for
+... their member in the House of Representatives, footnote:[pass:a,p[Congress may declare and enforce this right under multiple authorities: +
+(a) <a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-4-clause-1" target="_blank" rel="noopener noreferrer">
+ US Constitution, Article 1, Section 4, Clause 1:</a> “The Times, Places and Manner of holding Elections for Senators and Representatives, … Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.”  + And: +
+(b) <a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-2-clause-1" target="_blank" rel="noopener noreferrer">
+ US Constitution, Article 1, Section 2, Clause 1:</a> “The House of Representatives shall be composed of Members chosen every second Year by the People of the several States…”]] and 
+... for their Senator, footnote:[pass:a,p[Congress may declare and enforce this right under multiple authorities: +
+(a) <a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-4-clause-1" target="_blank" rel="noopener noreferrer">
+ US Constitution, Article 1, Section 4, Clause 1:</a>  “The Times, Places and Manner of holding Elections for Senators and Representatives, … Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.” + And: + 
+(b) <a href="https://constitution.congress.gov/constitution/amendment-17/" target="_blank" rel="noopener noreferrer">
+ US Constitution, Seventeenth Amendment, Clause 1:</a>  “The Senate of the United States shall be composed of two Senators from each State, elected by the people therof, for six years;… https://constitution.congress.gov/constitution/amendment-17/ ]] and 
+... for their Presidential Electors, footnote:[pass:a,p[Congress may declare and enforce this right under the authority of <a href="https://constitution.congress.gov/constitution/article-4/#article-4-section-4" target="_blank" rel="noopener noreferrer">
+ the US Constitution, Article IV, Section 4:</a> “The United States shall guarantee to every State in this Union a Republican Form of Government;…” ]] and
+.. Each voter must be allowed to vote with a reasonable assurance of secrecy as to their ballot choices; and 
+.. Each ballot must result in a human-readable record on indelible media upon which each voter records their ballot choices. Such ballots may be created and/or counted with automated means as long as the original ballots remain available for examination, verification, and recount, and as long as such automated means meet the requirements of Paragraph 14 below; and 
+.. Voters must be protected against tampering with their votes; and  
+.. Ballots must be counted as accurately as possible; and  
+.. Only eligible voters may cast ballots; and  
+.. Access to the ballot must not be an undue burden:  
+... No financial costs may be placed upon voters to exercise their right to vote, and
+... Voters must be given sufficient time to exercise their right to vote, and
+... Disabled voters must be given all assistance practically possible to exercise their right to vote, and  
+... States must use due diligence to notify voters when they are are removed from voter registration for maintenance or any other cause, and 
+.. Voters must not be discriminated for or against on the basis of casting their ballot, and  
+.. Each vote should carry as equal an effect on government as possible, and  
+.. Voting districts should have the maximum possible geographical compactness in order for voters to vote with their neighbors and peers, where geographic compactness:
+... shall consider the travel of unaided humans, and 
+... shall not consider theoretical proximity, such as a short distance across a river or mountain that cannot be crossed without aid of man-made transportation, though it may consider the use of fixed architecture such as bridges where humans regularly may walk across, and 
+.. Voters have the right to have their vote cast and counted in the district of their primary residence, and 
+.. Voters must have access to the source code, and hardware specifications for any automated systems used to create and/or tabulate ballots, and 
+.. States must review their voting districts and practices for conformance with these principles following every Census.   
+. To any extent that any of the preceding Voting Rights conflict, of to any extent that implementation of these Rights of Voters conflicts, then the priority of one Right over another should be considered according to:
+.. Item (a) (1) above shall be the overall moral imperative, and 
+.. Subject to consideration of the previous paragraph the Rights to vote are enumerated above in section 10902 (a) in their general order of importance. 
+
+==== Section 10903 — Authorization of appropriation
+
+. There are hereby authorized to be appropriated to the Presidential designee such sums as are necessary to carry out the provisions of 10902 of this title.  
+
+==== Section 10904 — Civil enforcement and private right of action
+
+. The Attorney General may bring a civil action in an appropriate district court for such declaratory or injunctive relief as is necessary to carry out this chapter. 
+. Private right of action 
+.. A person who is aggrieved by a violation of this chapter may provide written notice of the violation to the chief election official of the State involved, and 
+.. If the violation is not corrected within 90 days after receipt of a notice under the preceeding paragraph (1), or within 20 days after receipt of the notice if the violation occurred within 120 days before the date of an election for Federal office, the aggrieved person may bring a civil action in an appropriate district court for declaratory or injunctive relief with respect to the violation, and 
+.. If the violation occurred within 30 days before the date of an election for Federal office, the aggrieved person need not provide notice to the chief election official of the State under paragraph (1) before bringing a civil action under paragraph (2).
+. Attorney’s fees: In a civil action under this section, the court may allow the prevailing party (other than the United States) reasonable attorney fees, including litigation expenses, and costs.
+. Relation to other laws 
+.. The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this chapter shall supersede, restrict, or limit the application of any other title of US law including this title 52. 
+.. Nothing in this chapter authorizes or requires conduct that is prohibited by title 52 or any other title of US law. 
+
+==== Section 10905 — Penalty
+
+. Whoever shall deprive or attempt to deprive any person of any right secured by section 10902 of this title and found to be guilty of such in a Federal court of competent jurisdiction, shall be fined not less than $500, nor more than $5,000, or imprisoned not more than five years, or both. 
+
+==== Section 10906 — Separability
+
+. If any provision of this chapter of this title or the application of such a provision or amendment to any person, entity, or circumstance, is held to be unconstitutional or is otherwise enjoined or unenforceable, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person, entity, or circumstance, and any remaining provisions of Title 52 and of any other law shall not be affected by the holding.  
+
+==== Section 10907 — Effective Dates
+
+. The Congress considers that all the Rights in section 10902 were effective before the passing of the Majority and Voting Rights Act, and that all such Rights continue to be remain effective after enactment. Nothing in this act should be construed to imply that any Right listed in 10902 was not already a Right before passage of this act. 
+. Section 10903 and 10906 are effective immediately upon enactment of this act. 
+. Sections 10904 and 10905 are effective 90 days from the date of enactment of this act. 
+
+== SECTION 4: REQUIREMENT FOR MAJORITY OR CONSENSUS VOTE IN FEDERAL ELECTIONS
+
+. In General. —  there shall be inserted into Title 52, Subtitle I, after the end of Chapter 109, the following: 
+
+=== Chapter 111 — Requirement for a Majority Vote Result in Federal Elections 
+
+Sec.
+11101. Congressional declaration of purpose +
+11102. Majority Vote Requirement +
+11103. Authorization of appropriation +
+11103. Judicial relief, civil actions +
+11104. Penalty +
+11105. Severability +
+11106. Effective Date 
+
+==== Section 11101 — Congressional declaration of purpose
+
+. In General: By enacting this section of the The Voting Rights for All Act, Congress intends to strengthen the bonds of our democratic republic by ensuring that those who govern do so with a greater mandate of consent by the governed.  By requiring that Federal election winners obtain at lease a majority of approval, or a majority of consensus, this nation seeks to promote a firm foundation for self-governance, domestic tranquility, our common welfare, and for continued prosperity to ourselves and to our posterity. 
+
+==== Section 11102 — Requirement for a Majority Result in Federal Elections
+
+. In General: 
+.. No Federal Election result shall be valid unless the winner has received a majority approval, or a consensus approval in their general election. 
+.. Systems of general election that rely on First Past the Post voting and which deliver a plurality vote shall not be deemed a consensus approval voting system. 
+. States may elect any model of election that meets with the requirement of 11102 (a).  Examples of such systems include, but are not limited to:
+.. Instant Runoff Voting (IRV) also known as Ranked Choice, or Preference Voting (these systems have a tradition of use in general elections in Alaska and Maine, and for “down-ballot” races in many other states), which is a majority approval system; or 
+.. Two-Round Systems (TRS) which require a second run-off election in cases where no candidate receives a majority of the vote (as have a tradition of use in the State of Georgia), which is a majority approval system; or 
+.. Supplementary Vote (SV) systems which are similar to IRV but only allow two first choices (it therefore serves much like a combination of IRV and TRS), which is a majority approval system; or
+.. Approval Voting (AV), in which voters may vote to approve or not approve every candidate, which is a consensus approval method, or
+.. Combined Approval Voting (CAV), in which voters may disapprove, approve or abstain from voting on every candidate, which is a consensus approval method, or 
+.. STAR voting options, also known as score voting, where every candidate can be rated on a scale, which is a consensus approval method. 
+.. Or any other as deemed proper by the State so long as they satisfy the requirement of 11102 (a)
+
+==== Section 11103 — Authorization of appropriation
+
+. There are hereby authorized to be appropriated to the Presidential designee such sums as are necessary to carry out the provisions of 11102 of this title. 
+
+==== Section 11104 — Sanction of Election
+
+. The Congress is hereby enjoined from seating any Member or Delegate in either House of Congress, or from counting any Elector for President where any such person was not the winner of a majority approval or a consensus approval vote from their respective State, territory, or District of Columbia. 
+
+==== Section 11105 — Separability
+
+. If any provision of this chapter of this title or the application of such a provision or amendment to any person, entity, or circumstance, is held to be unconstitutional or is otherwise enjoined or unenforceable, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person, entity, or circumstance, and any remaining provisions of Title 52 and of any other law shall not be affected by the holding.  
+
+==== Section 11106 — Effective Date
+
+. This chapter is effective for the next Federal election that is more than one year from [Enactment date of this Voting Rights for All Act.]
+
+== SECTION 5: CREATION OF FEDERAL HOLIDAY FOR ELECTIONS
+
+. _There shall be inserted into Title 5 of the US Code, in Section 6103 (a) after Columbus Day and before Veterans Day, the following:_
+
+“Federal Election Day, being the first Tuesday after the first Monday in November in every even year, as defined in 2 US Code Section 7”
+
+. _There shall be inserted into Title 5 of the US Code, in Section 6103 the following new paragraph:_
+
+“(e) For any State, territory, or the District of Columbia that is holding a runoff Federal election, the date of that election shall be considered a Federal holiday for the citizens of that State, territory or the District of Columbia.” 
+
+== SECTION 6: SEPARABILITY
+
+. If any provision of this Act or any amendment made by this Act, or the application of such a provision or amendment to any person, entity, or circumstance, is held to be unconstitutional or is otherwise enjoined or unenforceable, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person, entity, or circumstance, and any remaining provisions of Title 52 and Title 5 and any other law shall not be affected by the holding. 
+
+== SECTION 7: EFFECTIVE DATES
+
+. Effective dates for Section 3 and 4 are as written within those sections. 
+. Effective date for Section 5 is the next even year after enactment of this Act. 
+
+== Footnotes:

@@ -1,0 +1,68 @@
+= Core Human Traits
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-draft_complete: 100%
+:page-stage: NoShow
+:page-authors: Vector Hasting
+:page-todos: 
+:showtitle:
+
+== Overview
+
+[.indent]
+====
+_"...if she could have looked a little further back,_ +
+_into the stillness and the darkness before Time dawned,_ + 
+_she would have read there a different incantation."_
+
+_-- Aslan, from "The Lion the Witch and the Wardrobe."_ 
+====
+
+== Core Human Psychological Realities
+
+Too often our perspectives on our problems do not delve back far enough. 
+We are easily seduced by the belief that our written history is our true history. 
+
+Project Liberty 2029 will often refer to *core human psychological traits,* or realities. 
+
+We see these as rooted in our pre-historic history. 
+
+We believe you can confirm these for yourself upon self-examination. 
+
+These deepest human truths are listed here for convenience:
+
+. we are born without the choice of our parents, 
+. we generally favor our children over others, 
+. women know for sure who their children are, but fathers do not,
+. humans learn by the examples of others,
+. humanity is at least 250,000 years old and evolved in the Ice Age when wealth accumulation was impossible, 
+. humans do not know the future, however:
+.. we still believe we can predict what's coming, 
+.. our predictions are often wrong, and
+.. yet we continue to believe we can predict the future,
+. humans make most of our risk judgments based on individual examples, not on statistical analysis,
+. humans working memory only has room for four to five considerations, 
+. humans form societies because we are our own best defense to our worst enemies: which are 
+.. disease, 
+.. pests, and 
+.. other humans
+. there are three kinds of 'games' that can model all human interactions (especially those involving wealth): 
+.. negative-sum, 
+.. positive-sum, and 
+.. zero-sum
+. In the first two of those games, we are able to make natural allies out of other humans, but in the zero-sum case, we end up with winners and losers, and generally this leads to enemies, 
+. Our current economic and political systems came about through traditions building upon traditions that were attempting to answer these psychological realities over thousands of years, +
+. As such they are not ideal, and can be considered in many ways accidental.
+
+These psychological realities structure the proposals and thinking here at Project Liberty 2029.
+
+
+
+
+
+
+
+
+

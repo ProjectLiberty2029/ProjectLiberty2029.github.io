@@ -1,0 +1,92 @@
+= The Share: Moral Argument
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: This is the moral argument page for The Share. Have a more concise argument and inspiring argument here in this document. See if we can also incorporate the argdown graphics. 
+:showtitle:
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7N3AEsCrrnkC2UTNhGkUI4?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"We see a broken system that the rich have rigged to steal, +
+from poor and weak who only seek to beg an honest deal. +
+The time has come to set it straight, a Nation we must heal,  +
+    -- For Justice Marches On!"_
+
+_From <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ 
+
+== Links for The Share
+
+<</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share Landing Page.>> 
+
+<</content/legislation_and_amendments/the_share/the_share_moral_argument.adoc#,The Share Moral Arguments in more detail.>> +
+(This document)
+
+<</content/legislation_and_amendments/the_share/the_share_econ_analysis.adoc#,The Share economic analysis is here.>>
+
+<</content/legislation_and_amendments/the_share/the_share_legislation.adoc#,The Share legislation is here.>>
+
+== Overview
+
+What is Right? 
+
+Written in great words, we have a baseline for the rights of everyone: 
+
+Life, Liberty, and the Pursuit of Happiness. 
+
+In modern times, we have added another key element: Dignity. 
+
+== Rights Must Be Guaranteed
+
+How can we guarantee Life, the Pursuit of Happiness, and Dignity when Life itself requires working for those more wealthy than ourselves?
+
+How is this a morally acceptable situation?
+
+== Dignity needs Power
+
+Thomas Payne in _link:http://piketty.pse.ens.fr/iles/Paine1795.pdf["Agrarian Justice", window=read-later,opts="noopener,nofollow"] _ in *1797* argued for a universal basic income to guarantee basic human rights to all. 
+
+link:https://www.libertarianism.org/articles/thomas-paines-solution-poverty["Here is an excellent primer on this subject", window=read-later,opts="noopener,nofollow"] that explores Thomas Payne's logic. 
+
+This logic is just as relevant today as it was then:
+[.indent]
+====
+Then as now all the land is owned. +
+Then as now that ownership is becoming more and more concentrated. +
+Then as now, there was violent revolution in the air. 
+
+Then: it was the French Revolution, one of the worlds most senseless bloodbaths. +
+
+Now: what will it be? 
+====
+
+== The Lord's Prayer
+
+Even more ancient and more to the moral point is The Lords Prayer. 
+
+After its devotional elements which affirm _Thy Will be done,_ __**on Earth as it is in Heaven**__, there are only two things which the prayer-maker may ask without conditions: _give us this day our daily bread_ and _lead us not into temptation, but deliver us from evil._
+
+(The only other ask from God is for forgiveness: but for that the prayer-maker must forgive those who trespass against them.)
+
+If we are to do God's will, then according to the Lord's Prayer, we should work on earth to insure daily bread for all. 
+
+== What is Fair?
+
+Is it fair for people to pass on their wealth to their children? 
+
+[.indent]
+This is something we all aspire to. 
+
+Is it fair that because wealth was passed on over thousands of years, that the vast majority of people to day are born into a world where they must work for other people just to live, while the other people they work for become increasingly wealthy by magnifying the value of the majority's work? 
+
+[.indent]
+This is the situation for 99% of us. And resentment is building to righteous indignation. 
+
+*_Such levels of indignation are harmful to all of society: the 99% and the 1%._*

@@ -1,0 +1,49 @@
+= The Share: Economic Analysis
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 0%
+:page-authors: Vector Hasting
+:page-todos: This is the economic analysis page for The Share. There is a lot of material to link to from here. Set those up. Include graphs. 
+:showtitle:
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7N3AEsCrrnkC2UTNhGkUI4?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"In simple hope our ancestors were born across the sea, +
+envisioning a future that improves for you and me.  +
+As they died to raise us higher, let us live to see us free, +
+    -- For Justice Marches On!"_ 
+
+_From <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ 
+
+== Links for The Share
+
+<</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share Landing Page.>> 
+
+<</content/legislation_and_amendments/the_share/the_share_moral_argument.adoc#,The Share Moral Arguments in more detail.>>
+
+<</content/legislation_and_amendments/the_share/the_share_econ_analysis.adoc#,The Share economic analysis is here.>> +
+(This document)
+
+<</content/legislation_and_amendments/the_share/the_share_legislation.adoc#,The Share legislation is here.>>
+
+== Overview
+
+This page is a stub. 
+
+There is a great deal of analysis to upload and to link to. 
+That work will be completed shortly. 
+
+It includes:
+. White papers on the success of Flat Tax systems.
+. White papers on the projected GDP growth and inflation of various Universal Basic Incomes, including a good match to The Share: nearly the same monthly payment and paid for as-you-go. 
+. Various studies that have confirmed the sensible answer that when you give people money, they generally use it to improve their lives (just as you reading this would do). 
+. Spreadsheets and charts that use the projections to predict the future for 100 years to insure the variable tax rate  does in fact stabilize in the 34% range (about where it starts).
+. Spreadsheets and charts that show why we predict 80% of Americans do better under this plan. 
+

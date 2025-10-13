@@ -1,21 +1,21 @@
-# Draft Status Indicators for Pages
+= Draft Status Indicators for Pages
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/
 :page-liquid:
 :page-draft_complete: 100%
-:page-stage: 00
+:page-stage: NoShow
 :page-authors: Vector Hasting
 :page-todos: 
 :showtitle:
 
-## Overview
+== Overview
 
 Because this ProjectLiberty2029 is intended for the self-governing public to participate in designing, pages will be in various stages of "Draft." 
 
 Therefore each page should have a "Draft Status" icon at the top of the page so that readers are immediately informed of the author's opinion as to how complete the document is. 
 
-## List of Draft Complete Levels
+== List of Draft Complete Levels
 
 These icons are as follows: 
 

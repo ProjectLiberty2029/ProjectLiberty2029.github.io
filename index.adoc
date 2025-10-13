@@ -8,32 +8,52 @@
 :page-authors:
 :page-todos:
 :showtitle:
+ 
+++++
+<div class="music-embed">
+  <iframe data-testid="embed-iframe"  style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2qpJwj22iSmyIRak9CiwPh?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"In simple hope our ancestors were born across the sea, +
+envisioning a future that improves for you and me.  +
+As they died to raise us higher, let us live to set us free,  +
+    -- For Justice Marches On!"_
+
+_From <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ 
 
 = Overview
 
-There are two main phases of ProjectLiberty2029: not just for this version under this name, but for all of us who want to defeat fascism in America and restore Liberty and Justice for All. 
+We hope you will join us in three main tasks with this material:
 
-Whatever name that has, it will have two phases: 
+. Strengthen these reforms by improving the documents here.  We want this framework to become the most competent and comprehensive possible blueprint for a freer and more secure life for all Americans. Its mandate must also include restoring Fairness and Justice as the principle of governance in America and, by our example of renewed commitment to it, to the World. 
+. Communicate the main points of this project as widely as possible. This will invite iterations for improving these proposals further. 
+. Recruit leaders to push for these proposals as defining issues of the 2026 and 2028 elections. 
 
-First, we must win back control of the Federal Government by 2029. 
+== Phases:
 
-Second, once fascists have been removed from power, we must make structural reforms to restore Liberty, to restore the Rule of Law, and to hold accountable those who aided and prosecuted the fascist agenda of misery and despair and moral shame that is now running rampant across our Nation. 
+There are two main phases of ProjectLiberty2029: not just for this version of 'Project2029' under this name (ProjectLiberty2029), but for all of us who want to defeat fascism in America and restore Liberty and Justice for All. 
+
+Whatever name we give that endeavor, it will have Two Main Phases: 
+
+*Winning:* first we must win back control of the Federal Government by 2029. 
+
+*Reforming:* once fascists have been removed from power we must make structural reforms to prevent their return. It will not be easy to restore Liberty, the Rule of Law, and to hold accountable those who aided and prosecuted the fascist agenda of misery, hate, and moral shame that is now running rampant across our Nation. 
 
 This main index page has six sections. 
 
-The first three correspond to those two stages: winning back control of the government, and then the priorities and methods to use government to restore our Nation. 
-There is also an "uncategorized" page of material that may help in the cause: lyrics, for example. 
+The first three are materials that have been organized by the main stages of winning, and reforming, with a third added for miscellaneous materials. 
 
-The last three are means to see on this index all the documents contained here on the ProjectLiberty2029 Wiki:
+The last three sections are means to see on this index all the documents contained here on the ProjectLiberty2029 Wiki:
 One is by the internal title of each document (this is what displays when you visit that page). 
 One is by the filename of each document. 
 One is by folder structure.
 
 ***
 
-== Main Phases: 
+=== Main Phases: 
 
-=== Phase 1: Winning
+==== Phase 1: Winning
 
 This is sorted by 10 stages between when this project began in Summer 2025 and January 20th, 2029. 
 
@@ -58,7 +78,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
   This 'group by' stage of this algorithm essentially just generates the array of stage numbers that actually exist.
 {% endcomment %}
 {% assign p1_stage_list = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 00, 01, 02, 03, 04, 05, 06, 07, 08, 09" | split: "," %}
-{% assign p1_stage_names = "Stage 0: Starting,
+{% assign p1_stage_names = "Stage 0: Orienting To These Stages,
                          Stage 1: Define the Fight,
                          Stage 2: Before Midterms,
                          Stage 3: First Lame Duck,
@@ -99,7 +119,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
         like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
       {% endcomment %}
       {% assign p1_stage_docs = site.content | where: "stage", p1_stages.name %}
-      {% assign p1_sorted_stage_docs = p1_stage_docs | sort: "basename" %}
+      {% assign p1_sorted_stage_docs = p1_stage_docs | sort_natural: "basename" %}
 
       {% for document in p1_sorted_stage_docs %}
         <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
@@ -113,7 +133,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 
 ***
 
-=== Phase 2: Reforming 
+==== Phase 2: Reforming 
 
 ++++
 
@@ -123,7 +143,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 {% endcomment %}
 
 {% assign p2_stage_list = "11" | split: "," %}
-{% assign p2_stage_names = "Stage 0: Starting,
+{% assign p2_stage_names = "Stage 0: Orienting To These Stages,
                          Stage 1: Define the Fight,
                          Stage 2: Before Midterms,
                          Stage 3: First Lame Duck,
@@ -182,7 +202,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 
 ***
 
-=== Phase X: Miscellaneous 
+==== Misc. Docs
 
 ++++
 
@@ -192,7 +212,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
 {% endcomment %}
 
 {% assign px_stage_list = "12" | split: "," %}
-{% assign px_stage_names = "Stage 0: Starting,
+{% assign px_stage_names = "Stage 0: Orienting To These Stages,
                          Stage 1: Define the Fight,
                          Stage 2: Before Midterms,
                          Stage 3: First Lame Duck,

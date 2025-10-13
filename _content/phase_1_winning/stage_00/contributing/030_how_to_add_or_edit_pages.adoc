@@ -22,11 +22,16 @@ What you will notice working in GitHub on the Website interface, is that every t
 
 This method is perfect for one-file changes: if you want to fix or extend a document that already exists, or you want to propose a new document. 
 Even if a document is "complicated," as long as it's a single document, this is a fine method. 
-If you believe you will be many sessions in writing the file, then it is probably best to write it in a text-editor such as link:https://phcode.io/#/home["Brackets. ", window=read-later,opts="noopener,nofollow"] 
 
-We do not have documentation for that at this time. 
+If you believe you will be many sessions in writing the file, then it is probably best to write it in a text-editor.  Asciidoctor link:https://docs.asciidoctor.org/asciidoctor/latest/tooling/[:has a page that discusses some of these.", window=read-later,opts="noopener,nofollow"] There is also a link:https://phcode.io/#/home["tool called Brackets. ", window=read-later,opts="noopener,nofollow"] 
 
-(Asciidoc has link:https://docs.asciidoctor.org/asciidoctor/latest/tooling/#ides-and-text-editors[a page dedicated to other editors and viewers for Asciidoc, ", window=read-later,opts="noopener,nofollow"] many much more powerful than Brackets, but most requiring some additional level of expertise to setup.)
+But it may be the best option, since we are also on GitHub, which integrates with VS Code to use link:https://code.visualstudio.com/download["the VS Code editor.", window=read-later,opts="noopener,nofollow"]
+
+We recommend learning VS Code because it integrates best with GitHub and has more support. 
+But at this time, we do not yet have documentation for setting it up. 
+There are online tutorials, on and perhaps if you are interested, you could write the guide. 
+
+(Asciidoc has link:https://docs.asciidoctor.org/asciidoctor/latest/tooling/#ides-and-text-editors["a page dedicated to other editors and viewers for Asciidoc, ", window=read-later,opts="noopener,nofollow"] many much more powerful than Brackets, but most requiring some additional level of expertise to setup.)
 
 == For complicated changes: GitHub Desktop
 
@@ -45,12 +50,12 @@ We will have more complete instructions on these tools later in this document, t
 
 = How to Write in Asciidoc?
 
-There is a <</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>> which is meant to give you something to cut-and-paste the asciidoc bits you will need, so that you can concentrate on writing. 
+There is a <</content/phase_1_winning/stage_00/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>> which is meant to give you something to cut-and-paste the asciidoc bits you will need, so that you can concentrate on writing. 
 
 If you have additional asciidoc questions, link:https://docs.asciidoctor.org/["the official documentation is here.", window=read-later,opts="noopener,nofollow"]
 However, it is often more helpful to online-search for the thing you want in the form of "give me an example of how to do xyz in asciidoc." 
 
-As we gather a community, there is also the link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] and the link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["GitHub discussions board.", window=read-later,opts="noopener,nofollow"]
+As we gather a community, there is also link:https://www.reddit.com/r/ProjectLiberty2029/["our subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] and link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/discussions["our GitHub discussions board.", window=read-later,opts="noopener,nofollow"]
 
 == Workaround for learning Asciidoc
 
@@ -64,14 +69,14 @@ Note: there are many possible work-flows on GitHub, or any other git-enabled rep
 
 For basic changes, like adding a single page or fixing minor typos, it is perhaps easiest to work straight in the GitHub Website interface.
 
-. You will need to navigate to the https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/[GitHub
-Website for Project Liberty 2029.]
+. You will need to navigate to the link:https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/["GitHub
+Website for Project Liberty 2029.", window=read-later,opts="noopener,nofollow"]
 . Find the button near the top right that says "Fork," click it and follow the instructions to create your own copy of
 ProjectLiberty2029.github.io.
 . Switch to that repository: this can be confusing at first: 
 .. the original is "https://github.com/*ProjectLiberty2029*/ProjectLiberty2029.github.io," 
-.. but yours will be https://github.com/*YourUserName*/ProjectLiberty2029.github.io.
-.. (The reason we need to use this "fork-and-merge" technique is to satisfy our Clarity and Security requirements which are explored in <</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+.. but yours will be "https://github.com/*YourUserName*/ProjectLiberty2029.github.io."
+.. (The reason we need to use this "fork-and-merge" technique is to satisfy our Clarity and Security requirements which are explored in <</content/phase_1_winning/stage_00/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
 
 
 === GitHub Desktop
@@ -83,20 +88,20 @@ Note: there are many possible work-flows on GitHub, or any other git-enabled rep
 Here is the collection of Contributing docs. 
 Feel free to contribute to Contributing!
 
-<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+<</content/phase_1_winning/stage_00/contributing/010_getting_started_contributing.adoc#,If You Want to Help Improve These Pages.>>
 
-<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+<</content/phase_1_winning/stage_00/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
 
-<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+<</content/phase_1_winning/stage_00/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
 (This document.)
 
-<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+<</content/phase_1_winning/stage_00/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
 
-<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+<</content/phase_1_winning/stage_00/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
 
-<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+<</content/phase_1_winning/stage_00/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
 
-<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+<</content/phase_1_winning/stage_00/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
 

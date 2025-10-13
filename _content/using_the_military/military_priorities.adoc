@@ -3,7 +3,7 @@
 :table-caption: Data Set
 :imagesdir: /Media/Images/
 :page-liquid:
-:page-stage: 01
+:page-stage: 11
 :page-draft_complete: 25%
 :page-authors: Vector Hasting
 :page-todos: Finish fleshing out the overview of needed improvements to the US Military with a focus on non-traditional ways to use its resrouces to solve problems like Global Warming, and failed states. 
@@ -53,7 +53,7 @@ Due to these losses, the Because of time, direction, and human resources lost du
 
 ## Recommended Actions to Address Unmet Priorities
 
-Means to address the items listed above under <<General List of Unmet priorities, Unmet Priorities>>:
+Means to address the items listed above under <<general_list_of_unmet_priorities, Unmet Priorities>>:
 [1-a]
 . In general, expand public outreach to both the US public and foreign publics to re-build and maintain US political support for the non-violent support that the US Military offers our allies, 
 .. Buttress the training and staffing of political advisers within the Pentagon, and particularly within the Navy, in order to better find and exploit the political weaknesses of foreign adversaries connections to periphery nations.

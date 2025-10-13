@@ -22,12 +22,16 @@ gem 'coderay', '~> 1.1.0'
 gem 'rake-jekyll', '~> 1.1.0'
 gem 'csv'
 gem 'base64'
+gem 'logger'
+gem 'html-proofer', '~>3.0'
+gem 'rake' 
+# gem 'fiddle' this causes build errors
 gem 'bigdecimal'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-remote-theme" 
+  # gem "jekyll-remote-theme" 
   gem "jekyll-asciidoc", "~> 3.0.0"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"

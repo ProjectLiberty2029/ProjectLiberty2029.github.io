@@ -1,0 +1,77 @@
+# Say What We Are Against
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 01
+:page-draft_complete: 50%
+:page-authors: Vector Hasting
+:page-todos: As of 10/7/25, I'm launching Substack ProjectLiberty2029 without completely loading all the legislative proposals authored both here and curated from those authored by elected Democratic Lawmakers.  
+:showtitle:
+
+== How PL 2029 Can Help
+
+Huge efforts are happening in the world to define what is wrong and dangerous about the MAGA Regime. 
+
+Much of this is successful:
+
+Polling shows that DJT and the MAGA Regime have lost enormous segments of the US population on nearly every issue. footnote:[https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating]
+
+What Project Liberty 2029 hopes to add is the pivot from how these identified evils can be addressed _over the long term._ 
+(In the short term, governors and attorney generals, lawyers and politicians are engaged in fighting to minimize the damage.) 
+
+One example of this would be how to return to a world where we can rely upon Federal prosecutors to use the power of prosecution only for Just Causes, and not for political persecution. 
+
+And how can the American public have its faith restored? 
+
+== The Fight to Win
+
+Project Liberty 2029 is also concerned with how politicians who are fighting to win back control from the MAGA regime can articulate policies that are a response to the wrongs of the MAGA regime. 
+
+As we say <</content/phase_1_winning/stage_01/stg01_010_what_we_are_for_landing_page.adoc#,at the top of What We Are For,>> the public will demand not just Restoration, but Reformation from its new leaders. 
+
+PL2029 hopes to provide examples and inspiration toward this Reform. 
+
+== Evil to Good Cross Ref
+
+This document's main function is as a cross reference between the evils and wrongs done by this regime and the proposals here that will address the damage. 
+
+In the previous example, there will be a Constitutional Amendment to make the Justice Department a co-equal branch of government by creating a nationally elected Attorney General Panel.
+
+[NOTE]
+====
+Project Liberty 2029 is not just about the MAGA Regime, but the MAGA Movement as well. 
+
+Therefore many of the items in this table are not just about this government's abuses, but about the forces that enable and encourage the movement.
+====
+
+[width="75%",cols="45%,55%",options="header"]
+|===
+|Evil | Good
+|Political persecution by Department of Justice. footnote:[Perhaps a link to a few of the most egregious examples, or to an open Substack like Joyce Vance.] 
+    a| 
+    . <</content/legislation_and_amendments/attorney_general_reform/attorney_general_reform_landing_page.adoc#,Discussion of how to reform the Attorney General's office.>> +
+    . <</content/legislation_and_amendments/attorney_general_reform/attorney_general_elected_constitutional_amendment.adoc#,Proposed Amendment: A Separate Justice Branch.>> +
+    . <</content/legislation_and_amendments/attorney_general_reform/attorney_general_as_justice_board.adoc#,Proposed Law to replace the Attorney General with a Justice Board.>> +
+    . <</content/legislation_and_amendments/attorney_general_reform/attorney_general_court_appointed_reform.adoc#,Proposed Law to have the Courts appoint the Attorney General.>>
+
+|The Big Beautiful Bill 
+    a| Note that this bill is an abominable combination of give-aways to rich and powerful, and that the election of the MAGA regime was largely possible due to the influence of money in politics. 
+
+    . <</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share. (Law.)>> + 
+    . Link to the Wealth Gap Tax. (Law) +
+    . Link to the Fiduciary Responsibility (Law)+
+    . Link to Medicare for All (Law)
+|Voter Suppression & Intimdation
+    a| 
+    . Link to Voter Rights for All (Law) +
+    . Link to Voter Rights For All (Amendmnt)
+|Money distorting politics
+    | 
+    Link to Corporations are not people (Amendmnt)
+|Manipulation of the Public by Algorithms owned and operated by unknown forces
+    | Link to Digital Rights Landing Page (Laws & Amendmnts)
+|Many more issues
+    | Many more Links to come
+|===
+

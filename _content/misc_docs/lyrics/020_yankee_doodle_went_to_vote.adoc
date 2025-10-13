@@ -13,12 +13,13 @@
 
 ++++
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1JoOa8qZyDwJqJLaknMbrk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1JoOa8qZyDwJqJLaknMbrk?utm_source=generator" width="320px" height="80px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ++++
 
-_Lyrics by Vector Hasting to the tune of "Yankee Doodle Dandy," composer unknown._
-_Lyrical structure matches the traditional tune, writer unknown._
+_Lyrics by Vector Hasting to the tune of "Yankee Doodle Dandy," composer unknown._ +
+_Lyrical structure matches the traditional tune, writer unknown._ +
+_Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_
 
 Yankee Doodle went to Vote +
 A-riding on a pony, +

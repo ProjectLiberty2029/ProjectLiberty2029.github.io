@@ -28,18 +28,20 @@ However, because the '= Document Title' _is still required,_ it will always disp
 
 Here are the other document attributes and what they do for us:
 
-. Static-do not change or it will break something:
+. *Static*-do not change or it will break something:
 .. :doctype: book This is needed to insure the formatting works as expected. 
 .. :table-caption: Data Set …​ This allows the pages to display captions on tables.
 .. :imagesdir: /content/media/images/ …​ This allows the website to find any images we are hosting. It also tells you where to put images you wish to add. You can add sub-directories for images and you’ll find examples of that in this document.
 .. :page-liquid: This allows you to use the page variables in your document's front matter: things like "{% raw %}{{ page.authors }}{% endraw %} would like to thank subscribers," becomes "{{ page.authors }} would like to thank subscribers." 
-. Things you are meant to change:
-. :page-draft_complete: Valid values are 0%, 25%, 50%, 75% and 100% and link:/content/Page_Draft_Status.html[are defined here.] This status appears in the upper left-hand corner of the page when displayed on a computer. Phones do not display this panel, unless you switch to desktop mode. If you do not want this block to appear on your document, put "NoShow" there. 
-. :page-stage: Valid values are 0 through 12 and link:/content/Stages_Defined.html[are described here.] These stages will cause
+. *Customize*-things you are meant to change:
+.. :page-draft_complete: Valid values are 0%, 25%, 50%, 75% and 100% and <</content/Page_Draft_Status.adoc#,are defined here.>> This status appears in the upper left-hand corner of the page when displayed on a computer. Phones do not display this panel, unless you switch to desktop mode. If you do not want this block to appear on your document, put "NoShow" there. 
+.. :page-stage: Valid values are 0 through 12 and <</content/phase_1_winning/stage_00/stg00_030_stages_defined.adoc#,are described here.>> These stages will cause
 the document to automatically appear in the "Staged Needs" section of the index page. If your document should have a stage but not appear (like this document,) put NoShow here. 
-. :page-authors: Here you can let us know who you are so the community knows who ask questions. This can be any text, and you can leave it blank. If included, this displays in the left-hand pane under the table of contents. Phones do not display this panel, unless you switch to desktop mode. Please do not put personal identifiable information here other than your real name (if you want to) because this information will be everywhere on the internet. 
+.. :page-authors: Here you can let us know who you are so the community knows who ask questions. This can be any text, and you can leave it blank. If included, this displays in the left-hand pane under the table of contents. Phones do not display this panel, unless you switch to desktop mode. Please do not put personal identifiable information here other than your real name (if you want to) because this information will be everywhere on the internet. 
 .. :page-todos: Here you can type any text to indicate the next steps needed for your document. It appears in the left hand pane under the author name. 
+. *Optional*- including or excluding will change your page layout
 .. :showtitle: If this attribute is present, the document title displays at the top. If you remove it, the document title will not display on the page, but the homepage will still show the document title in the clickable list of all documents.
+.. ":page-custom_nesting: law-nesting"  If this element is there (do not include the quotes) then the document will have the nested order listing behavior of Federal Legislation (ie, (a) (1) (A) (i)) 
 
 == Headers Requirements
 
@@ -47,15 +49,50 @@ The more == you use, the higher the header number.
 
 The first line of the document also has an =, but this indicates the title. 
 
-You can't have two First level Headers (a single =) following each other.
+You can't have more than one First level Headers (a single =) following each other.
 
 You have to put a space after the header line for it to appear as a header. 
 
 You have to have at least one == Header in every document. 
 
+Generally, we make the documents with the Title using the = on the first line, and all other headers start at two (==).
+
 == General Formatting
 
 Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
+
+You can indent a line like this:
+
+[.indent]
+This line is indented. 
+
+You can indent several lines, you can do it like this: 
+
+[.indent]
+This line is indented. +
+This line is also indented. 
+
+If you want to set a paragraph against a white backdrop, you can do it like this: 
+
+====
+This seems separate, but not as separate as if you are using an <<Admonition,Admonition block.>>
+Note that the target of that # tag for "Admonition" tag is formatted like this: "[#Admonition]"
+====
+
+If you want to force a line break in normal text, you can use a "+" at the end of the line: 
+
+This line goes to here +
+then continues on the next line. 
+
+If you want to force a line break and that "+" isn't working, it's because your text is in some other context like a code block or a table. In that case, use [%hardbreaks] before the lines of text. A blank line will stop the effect of the [%hardbreaks]
+
+[%hardbreaks]
+This is on line one
+and this is on line two.
+
+But this is on line one
+and this is also on line one.
+
 
 == Links and footnotes and variables
 
@@ -70,10 +107,15 @@ This link opens in a new tab.
 
 This is a footnote with link text. footnote:[This footnote links to the link:https://constitution.congress.gov/constitution/amendment-12/["12th Amendment to the US Constitution", window=read-later,opts="noopener,nofollow"]] 
 
+Note that the last part of the link that reads: , window=read-later,opts="noopener,nofollow" is important to open the resource in a new tab and to do so securely. 
+
 This is a footnote with just plain text. footnote:[This footnote only tells us something detailed. ] 
 
 This is a document variable that you can make display: this page was written by {{ page-authors }}. 
 Any of the front-matter attributes can be put between double curly brackets and the variables will then display. 
+
+You can jump to a point in the same document <<Admonition,like this.>>
+Note that the target of that # tag for "Admonition" tag is formatted like this: "[#Admonition]"
 
 == Tax Glyphs
 
@@ -98,6 +140,7 @@ What follows is a block of lines that do not appear. (This is done with
 four //// at the beginning of the first line and at the beginning of the
 line after the last block-comment.)
 
+[#Admonition]
 == Note! Admonitions!
 
 There are five words that you can substitute in the following examples to draw attention to text. 
@@ -124,30 +167,71 @@ They use many techniques to make this possible:
 * Political influence
 ====
 
+If you just want to separate text by putting it into a block without the big admonition, 
+you can use four ==== before and after like this:
+
+====
+[%hardbreaks]
+This text gets put into what is called a "code block," but without other syntax 
+(not relevant to legislation, but you can look it up) 
+it doesn't get formatted with fixed-space/mono-space text. 
+====
+
 == Lists: Unordered
 
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
+* A Item on an unordered list
+* C Item on an unordered list
+* B Item on an unordered list
 
 == Lists: Ordered
 
-. This is an ordered list following a header.
-. This is an ordered list following a header.
-. This is an ordered list following a header.
+. Item on an ordered list
+. Item on an ordered list
+. Item on an ordered list
+
+== Lists: Indented
+
+. Item on an ordered and indented list
+.. Sub-item on that list
+... Further Sub-item on that list
+... and another
+.. And back to the first sub-list
+. Then the highest order of the list
+. Still at the high order of the list. 
 
 == Tables
 
-This is a table:
+This is a table with a caption at the top:
 
 .Data Set 1. Mmm good things
-[width="100%",cols="25%,50%,25%",options="header",]
+[width="50%",cols="50%,35%,15%",options="header",]
 |===
 |Head1 |Heading number two |Col 3
-|ok |good swedish fish |nice
-|out of stock |good and plenty |nice
-|ok |good [.red]#oreos# |hmm
-|ok |good [.yellow-background]#zoute# drop |yumm
+|good sweedish fish | ok | nice
+|good and plenty | out of stock | nice
+|good [.red]#oreos# | ok |hmm
+|good [.yellow-background]#zoute# drop | ok | yumm
+|===
+
+This is that table without the caption:
+
+[width="50%",cols="50%,35%,15%",options="header",]
+|===
+|Head1 |Heading number two |Col 3
+|good sweedish fish | ok | nice
+|good and plenty | out of stock | nice
+|good [.red]#oreos# | ok |hmm
+|good [.yellow-background]#zoute# drop | ok | yumm
+|===
+
+This is that table without the bold column headings, and narrower:
+
+[width="25%",cols="50%,35%,15%"]
+|===
+|good sweedish fish | ok | nice
+|good and plenty | out of stock | nice
+|good [.red]#oreos# | ok |hmm
+|good [.yellow-background]#zoute# drop | ok | yumm
 |===
 
 
@@ -192,7 +276,7 @@ To embed media from a source like YouTube or Spotify, get embed code from that p
 
 In the document, where you want it to appear, put two sets of four plus marks, ++++ with a blank line before and after both lines. 
 
-See <</content/phase_x_misc/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics for Battle Hymn for Fair and Share>> for an example of embedding a Spotify song. 
+See <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics for Battle Hymn for Fair and Share>> for an example of embedding a Spotify song. 
 
 == Definition lists
 
@@ -212,20 +296,20 @@ Color::
 Here is the collection of Contributing docs. 
 Feel free to contribute to Contributing!
 
-<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+<</content/phase_1_winning/stage_00/contributing/010_getting_started_contributing.adoc#,If You Want to Help Improve These Pages.>>
 
-<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+<</content/phase_1_winning/stage_00/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
 
-<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+<</content/phase_1_winning/stage_00/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
 
-<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+<</content/phase_1_winning/stage_00/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
 
-<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+<</content/phase_1_winning/stage_00/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
 
-<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+<</content/phase_1_winning/stage_00/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
 (This document.)
 
-<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+<</content/phase_1_winning/stage_00/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
 

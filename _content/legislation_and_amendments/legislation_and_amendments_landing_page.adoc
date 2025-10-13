@@ -54,7 +54,7 @@ It may be that some folders contain only a stub indicating why the law or amendm
 
 ## Challenges due to Political Parties
 
-We have now reached the point that George Washington warned us of in his xref:../SourceDocuments/Washingtons_Farewell_Address.pdf[farewell address] that “(Political factions and parties) are likely in the course of time and things, to become potent engines by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion.” [p 12]
+We have now reached the point that George Washington warned us of in his xref:/content/source_docs/source_docs_general/washingtons_farewell_address.pdf[farewell address] that “(Political factions and parties) are likely in the course of time and things, to become potent engines by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion.” [p 12]
 
 The founders of the US Constitution, and of all constitutions based on the US Constitution used the concept of "separation of powers" from Baron de Montesquieu who published _The Spirit of Law_ in 1748 footnote:[https://en.wikipedia.org/wiki/Montesquieu]. +
 
@@ -100,7 +100,7 @@ The only possible way to overcome this vast opposition will be a two-part politi
 
 The second argument will only work on mid-level power-players. It will not satisfy those who are pulling the strings at a party level and who already have vast influence over multiple branches of government. Their power, indeed, is probably sufficient to doom the project of passing the "separation of powers is inviolable" amendment. 
 
-While it may be quixotic to propose this amendment, it is vital to chart this course for the nation because without taking this road, we seemed destined to repeat history just as Washington warned in his xref:../SourceDocuments/Washingtons_Farewell_Address.pdf[farewell address]. +
+While it may be quixotic to propose this amendment, it is vital to chart this course for the nation because without taking this road, we seemed destined to repeat history just as Washington warned in his xref:/content/source_docs/source_docs_general/washingtons_farewell_address.pdf[farewell address]. +
 
 Our generation may surprise us and take this road today. If not, we lay the map out for following generation. 
 
@@ -112,7 +112,7 @@ Perhaps the most important Constitutional restructuring we must demand is also s
 
 Make the Attorney General of the United States a separate, directly elected office of the United States. 
 
-Keep in mind that over 93% of Americans live in states that directly elect their State Attorney General. footnote:[xref:../SourceDocuments/Census_Pop_By_AttorneyGeneralType_from_SCPRC-EST2024-18+POP.ods[State Population by Attorney General Type.]]
+Keep in mind that over 93% of Americans live in states that directly elect their State Attorney General. footnote:[xref:/content/source_docs/source_docs_legislation_and_amendments/source_docs_atty_gen_reform/census_pop_by_attorneygeneraltype_from_scPRC-est2024-18+pop.ods[State Population by Attorney General Type.]]
 
 The founders did not conceive of a set of criminal laws that would require a Department of Justice. That only came about because of the Civil War and the Judiciary Act of 1789. footnote:[https://en.wikipedia.org/wiki/United_States_Attorney_General#History]  
 

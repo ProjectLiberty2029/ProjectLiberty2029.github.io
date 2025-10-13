@@ -1,0 +1,37 @@
+/* Body styles for background and default text color */
+/* Modified by Vector Hasting from many sources. */
+
+/* Hide the default marker for all ordered lists within the content area */
+main.content-notsticky ol li {
+  list-style-type: none;
+}
+
+/* Level 1: little letters with parentheses */
+.right-content-inner ol li::marker {
+  content: "(" counter(list-item, lower-alpha) ") ";
+}
+
+/* Level 2: big letters with parentheses */
+.right-content-inner ol ol li::marker {
+  content: "(" counter(list-item, decimal) ") ";
+}
+
+/* Level 3: regular numbers with parentheses */
+.right-content-inner ol ol ol li::marker {
+  content: "(" counter(list-item, upper-alpha) ") ";
+}
+
+/* Level 4: little roman numerals with parentheses */
+.right-content-inner ol ol ol ol li::marker {
+  content: "(" counter(list-item, lower-roman) ") ";
+}
+
+/* Level 5: big roman numerals with parentheses */
+.right-content-inner ol ol ol ol ol li::marker {
+  content: "(" counter(list-item, upper-roman) ") ";
+}
+
+/* Level 6: little letters with parentheses (requires no change from previous level) */
+.right-content-inner ol ol ol ol ol ol li::marker {
+  content: "(" counter(list-item, lower-alpha) ") ";
+}

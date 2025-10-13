@@ -41,20 +41,20 @@ request.
 Here is the collection of Contributing docs. 
 Feel free to contribute to Contributing!
 
-<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+<</content/phase_1_winning/stage_00/contributing/010_getting_started_contributing.adoc#,If You Want to Help Improve These Pages.>>
 
-<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+<</content/phase_1_winning/stage_00/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
 
-<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+<</content/phase_1_winning/stage_00/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
 
-<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+<</content/phase_1_winning/stage_00/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
 (This document.)
 
-<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+<</content/phase_1_winning/stage_00/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
 
-<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+<</content/phase_1_winning/stage_00/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
 
-<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+<</content/phase_1_winning/stage_00/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
 

@@ -1,0 +1,34 @@
+= Corporations are Not People Amendment
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Copy in the constitutional amendment after working on some issues pertaining to what if a Free Press is a Corporation, and other ponderables
+:showtitle:
+:page-custom_nesting: law-nesting
+
+== Links for Corporations Are Not People
+
+<</content/legislation_and_amendments/corporations_are_not_people/corps_are_not_people_landing_page.adoc#,Corporations Are Not People Landing Page.>> 
+
+<</content/legislation_and_amendments/corporations_are_not_people/corps_are_not_people_legislation.adoc#,Corporations Are Not People  Legislation.>>  +
+(This Document)
+
+== Overview
+
+Because the Supreme Court has made "Corporate Personhood" an inferred Constitutional Right, this has become a Constitutional Question. 
+
+We propose that it is wrong to treat anything that is not a person to First Amendment Rights. 
+
+We believe a broad section of the American Public will agree with this proposition. 
+
+== The rest is a stub
+
+As of this moment, the language is in another document and not transcribed here. 
+
+It will be asap. shortly. Bills have two kinds of language in them: 
+
+== Footnotes

@@ -1,0 +1,285 @@
+= Fair Commerce Landing Page
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 75%
+:page-authors: Vector Hasting
+:page-todos: This is the landing page for Fair Commerce Legislation. The argument needs footnotes. Lots of them. I have a bunch but not the time yet to put them in here. 
+:showtitle:
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7m4jYMapoH0WbY8GB9RdY6?utm_source=generator&theme=0" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"America, America, you started with this greed,  +
+to maximize a few men's rise,  +
+and now a change you need."_ 
+
+_From <</content/misc_docs/lyrics/030_o_beautiful_the_policy.adoc#,O Beautiful The Policy.>>_ +
+_Lyrics by Vector Hasting, link:https://creativecommons.org/licenses/by-sa/4.0/deed.en["CC 4.0-BY-SA,", window=read-later,opts="noopener,nofollow"] Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_
+
+== Links for Fair Commerce
+
+<</content/legislation_and_amendments/fair_commerce/fair_commerce_landing_page.adoc#,Fair Commerce Reform Landing Page.>> +
+(This document)
+
+<</content/legislation_and_amendments/fair_commerce/fair_commerce_legislation.adoc#,Fair Commerce Reform Legislation.>>
+
+== Overview
+
+Capitalism mixed with the powerful invention of Corporations have shaped the modern world. 
+
+Corporations are being treated by the Supreme Court more and more like Persons with First Amendment Rights. 
+(We address the need to <</content/legislation_and_amendments/corporations_are_not_people/corps_are_not_people_landing_page.adoc#,claw back First Amendment Rights from Corporations elsewhere.>> )
+
+Yet if Corporations were to be treated psychologically as persons, they would be categorized as pathological personalities. footnote:[Joel Bakan, link:https://books.google.com/books?id=ilXRM9QLHv0C[“The Corporation: The Pathological Pursuit of Profit and Power" , window=read-later,opts="noopener,nofollow"] and a .pdf link:https://www.researchgate.net/profile/Moin-Yahya-2/publication/330326771_The_Corporation_The_Pathological_Pursuit_of_Profit_and_Power_Joel_Bakan_Toronto_Viking_Canada_2004/links/5de835c492851c8364628d5b/The-Corporation-The-Pathological-Pursuit-of-Profit-and-Power-Joel-Bakan-Toronto-Viking-Canada-2004.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19["review of it at Research Gate: click 'Download Full-Text pdf'", window=read-later,opts="noopener,nofollow"]]
+
+This legislation addresses this insidious problem:
+
+Corporations (with their pathological personalities) are mentors to each and every one of us. 
+
+We work for them, or we know people who work for them. 
+We buy their products, we laugh at their advertisements, we cheer their sponsorships.
+
+Humans make decisions for Corporations under the rules of Fiduciary Duty. 
+
+It is the current vision of Fiduciary Duty -- 'to maximize shareholder value' -- which is the core of the pathological personality of Corporations. 
+The simple word for it is greed: corporations care not for the consequences to others, only to those they have a legal duty to serve: beneficiaries and principles.
+
+What is true of Corporations in this regard is also true of other similar investment structures. 
+The mechanism for the similarity is Fiduciary Duty.
+
+Those decisions have corrupted the world and continue that corruption. 
+
+But there is a simple fix. 
+
+We need to make the dealings of Fiduciary Duty constrained by Fairness as well as Profit. 
+
+== What is Fiduciary Duty? 
+
+Fiduciary is not defined in a single place. 
+For our purposes, we will share these key definitions:
+
+[.indent]
+====
+"*Fiduciary Duties* fall into two broad categories: the *Duty of Loyalty* and the *Duty of Care.*" footnote:[From link:https://cyber.harvard.edu/trusting/unit5all.html["Harvard Law: Extract fromThe New Palgrave Dictionary of Economics and the Law, Definition of "fiduciary duties" by Tamar Frankel Vol.2, p.127-128 ", window=read-later,opts="noopener,nofollow"]]
+====
+
+[.indent]
+====
+"When someone has a *Fiduciary Duty* to someone else, the person with the duty must act in a way that will _benefit_ someone else financially."
+
+"The person who has a fiduciary duty is called the *Fiduciary,* and the person to whom the duty is owed is called the principal or *the beneficiary.* If the fiduciary breaches the fiduciary duties, the fiduciary would need to account for the ill-gotten profit. The beneficiaries are typically entitled to damages." footnote:[From link:https://www.law.cornell.edu/wex/fiduciary_duty["Cornell Law School, Legal Information Institute.", window=read-later,opts="noopener,nofollow"]]
+====
+
+[.indent]
+====
+*Duty of Loyalty* "requires the directors to place the interests of the company and the shareholders before their personal and financial interests. "  footnote:[From link:https://www.law.cornell.edu/wex/duty_of_loyalty["Cornell Law School, Legal Information Institute.", window=read-later,opts="noopener,nofollow"]]
+====
+
+[.indent]
+====
+*Duty of Care* requires fiduciaries to "make decisions that pursue the corporation’s interests with reasonable diligence and prudence. This fiduciary duty is owed by directors and officers _*to the corporation, not the corporation’s stakeholders or broader society.*_"  footnote:[From link:https://www.law.cornell.edu/wex/duty_of_care["Cornell Law School, Legal Information Institute.", window=read-later,opts="noopener,nofollow"]]
+====
+
+Basically, if "Person A" entrusts their money to "Person B," then Person A becomes the principal and Person B becomes the fiduciary and needs to do all they can to make money with the principal's assets, or the fiduciary is at risk of being sued. 
+
+This makes a lot of sense in simple examples: if you give your money to a bank, or even a friend, you expect them to take care of it and give it back in whole, and even with some interest. 
+
+But what if the person we lend the money to uses it to support immoral activity? Or, what if we gained the money through immoral activity?
+
+What if this activity is harming society in fundamental ways?
+
+According to those definitions, that is not the fiduciary's concern. 
+
+== How Fiduciary Duty Trickles Down
+
+Millions of us work directly for corporations or similar structures.
+
+Corporations own over one quarter of all the world's wealth. footnote:[link:https://www.oxfam.org.uk/media/press-releases/worlds-top-1-own-more-wealth-than-95-per-cent-of-humanity/["Just the 'big three' US-based asset managers ... hold $20 trillion in assets, close to one-fifth of all investable assets in the world." , window=read-later, opts="noopener,nofollow" ]]
+
+So we look to them for examples of how to behave. 
+(<</content/core_human_traits.adoc#,This is a core psychological trait>>)
+
+Our boss's, boss's, boss is a fiduciary. 
+
+They have a responsibility to know "material facts," and make decisions that generally should maximize the value of the principals they serve. 
+
+And this is the rubber-meets-the-road activity of Corporate and Private Equity Capitalism. 
+
+== Isn't Capitalism Intrinsically Unfair? 
+
+I (Vector Hasting) once lived in a remote village in Transylvania. 
+
+It was like going back a hundred years and living in Hobbiton. 
+
+Every week there was a "Trade" and a "Market." 
+The Market was for household goods and the Trade was for large agricultural items like cows and horses and commitments for a ton of hay or corn. 
+
+It was capitalism right there in the undisturbed heart of what had been one of the worst victims of Communism in Eastern Europe. 
+
+And to a person, they would say: "trading for profit is wrong: it must be a Fair Trade." 
+
+That is the foundation of Capitalism: fair trade for equal value, where the value is determined by a Free Market. 
+
+Even these peasants had fiduciaries: people would send their animals or goods to Market with a trusted family member or neighbor. 
+Those trusted agents might sell the cow or blanket or whatever at the best price they could fetch. 
+
+But the fiduciary could not cheat the person they made a deal with!
+Nor could they cheat the person who gave them the asset to sell. 
+
+To them, a fiduciary duty _*included*_ fairness. 
+footnote:[Technically, this is supposed to be true today through the parallel responsibility in contract law of "Good Faith and Fair Dealing." 
+The principle is that noone may use contracts to deprive others of fair value. 
+That is the direct analogy to the simple fiduciary arrangement of the peasants in Transylvania. 
+However, complexity has allowed for an escape hatch to unfair dealing. 
+Closing that loophole is the purpose of this reform. ]
+
+And so it was for untold centuries: fiduciary duty meant trading for equal value because people would hope to trade again another day in the same community. 
+
+In theory, the contract-law requirement of "Good Faith and Fair Dealing" should dove-tail with fiduciary responsibility to prevent unfairness. 
+
+But in practice, that is no longer true, and hasn't been true for too long. 
+
+== What Happened to Fair Commerce?
+
+In different places at different times, Empires and Colonialism discovered a means of exploiting people beyond the confines of the community. 
+The idea of "Good Faith and Fair Dealing" turned out to be dependent on the power of a community to enforce shame. 
+There was not enough shame in the exploitation of people far away to enforce the idea of Fair Dealing with those "others." 
+
+Suddenly unfair advantage became routine. 
+
+Think of the Greeks sacking Persia. +
+Think of the Romans sacking the Greeks. +
+Think of the Conquistadors' conquest of the Americas. 
+
+And so forth and so on.
+
+In America, our ancestors used genocide to grab land from the First Peoples of America. 
+The First Peoples had used warfare among themselves to grab lands before the Europeans came. 
+
+Americans owned slaves.
+
+Now we have corporations exploiting our people and our planet because the idea of an overarching Fairness duty has been lost to ancient history. 
+
+And our currently limited fiduciary duty responsibilities are the legal principal that makes this impossible to stop. 
+
+== What can we do?
+
+Corporations are legal fictions. 
+So are Private Equity Firms.
+They are literally made out of legal contracts on paper. 
+
+And Law is made by Society. 
+We can change it to serve the greater Good. 
+
+To be clear: Corporations and partnerships are awesome machines for Enterprise. 
+They enable the sharing of risk.
+
+Corporations are used by most professionals to pay themselves in order to make the risk of their professions tolerable. 
+
+Without corporations, regular people would fear for their life savings if they tried to open a store, or do plumbing for hire, or run a clinic, or any one of millions of activities because any mistake could become personally ruinous. 
+
+Corporations and similar structures solve this in two ways. 
+. For activities involving investment, they spread the risk among many shareholders. 
+. For liability, they are a legal intermediary with defined assets that sits between human beings when there are zero-sum disagreements that may involve recompense. 
+
+So we have an incentive as a society not to throw out the baby with the bathwater. 
+
+Corporations cannot continue to teach us all to act pathologically.
+Yet we need corporations to be able to act at all (at the scale of complexity of our civilization). 
+
+== Why doesn't Fair Dealing Solve it?
+
+As mentioned earlier, contract law requires the parties to a contract to engage in Good Faith and Fair dealing. 
+
+_But this only applies to the parties to the contract!_
+
+That is the loophole. 
+The duty of Good Faith and Fair Dealing does not translate to things that are legally external to the contract, link:https://en.wikipedia.org/wiki/Externality["which are otherwise known as "externalities."", window=read-later,opts="noopener,nofollow"]
+
+In fact, fiduciary duty now requires the fiduciary to contemplate deliberate ways to take advantage of externalities if that provides a way to maximize the beneficiaries return on investment! 
+
+Not to do so would be to expose the fiduciary to legal jeopardy, because another fiduciary who had taken advantage of structuring contracts to exploit externalities would have delivered a greater benefit to the investor. 
+
+Take an example: 
+
+[#example_01]
+. If a beneficiary invests in a waste disposal company, then one of the issues the company will have is disposing of some items in the waste stream that are toxic. 
+. The fiduciary can seek bids on contracts to take the toxic wastes away. 
+. The fiduciary must do due diligence in understanding the implications of those contracts in order to satisfy the fiduciary's "duty of care" to their investor. 
+. The fiduciary would therefore reasonably suspect that the lowest bidder was necessarily disposing of the toxic waste in an unregulated and probably harmful way. 
+. However, there we find the problem: in keeping with the fiduciary's limited responsibility to only consider the value for the beneficiary, the fiduciary is constrained to do the following: 
+.. They must try to get the lower price from the dodgy disposal vendor, 
+.. They must insure that any liabilities for illegal dumping are borne by the disposal vendor in the contract with that vendor. 
+. As long as the fiduciary can obtain both of those results, then he is compelled to go with the illegally dumping vendor because otherwise he is not getting the best return for his investor. 
+
+The fix is to rethink the scope of fiduciary responsibility.
+
+Even though fiduciary responsibility is an ancient legal principle of common law, it is still created by thought and paper. 
+
+Therefore we can (and must) rethink fiduciary duty to solve this. 
+
+== Fiduciary Duty Redefined. 
+
+Simply put: we add to the concept of fiduciary duty not only increasing value for the _principal and beneficiaries,_ but maintaining value for the _stakeholders._ 
+
+It is simple, and yet powerful. 
+
+It is the answer to the earlier question: what if your fiduciary uses the money for amoral activity? 
+And the converse question, what if your principal was generating the value in an amoral way? 
+
+Unless we have fiduciaries _also maintain_ the value of _all stakeholders_, we are allowing the strip-mining of the public for the gain of a few. 
+
+And that is unsustainable. 
+
+It will first become intolerable for the public, but it will eventually topple the few as well. 
+
+For while we live in a world of abundance, it is also a finite sphere. 
+
+== Who are stakeholders?
+
+Everyone involved in the chain of commercial transactions are stakeholders in them. 
+
+That will include customers, employees, contractors, communities and the environment.
+
+Are we suggesting Corporations have to subsidize those entities!?!
+
+Of course not. 
+
+It's simple. 
+
+We are saying they must use their existing Duty of Care to make sure their is fair and good faith dealings for all stakeholders. 
+
+Because in theory this is already implied by fair dealing in contracts, we have the presumption that this business discipline is possible. 
+
+However, as in the <<example_01,previous example,>> we have incentives that push toward the most abusive corporate policies that law will allow because of the lack of stakeholder consideration by fiduciaries. 
+
+This reform will simply force the same duty of good faith and fairness to all levels of the chain of contracts that are visible to fiduciaries, whose duty includes investigating that entire chain in order to protect and improve beneficiary value. 
+
+== US Law or Uniform Commercial Code?
+
+At this time, we have a proposal at the Federal Statute level. 
+
+There is another pathway to instituting this reform: through the Universal Commercial Code, or "UCC." 
+
+This is a parallel legal framework for maintaining a level of uniformity between the States so that businesses can more easily engage in commercial practices that ultimately depend on enforcement of contracts across State lines. 
+
+The code is authored in a collaborative and bureaucratically robust process which is dominated by two non-governmental organizations: the American Law Institute (ALI) and the National Conference of Commissioners on Uniform State Laws (NCCUSL).
+There is a link:https://guides.ll.georgetown.edu/commerciallaw/ucc["good primer on the subject here." , window=read-later,opts="noopener,nofollow"]
+
+This avenue is not ideal for our purposes for the following reasons: 
+
+. Modifying the UCC is an a-political process, designed to stay that way, and therefore the lay-public pressure which we hope to generate here at PL2029 will not be welcome by the stakeholders at UCC, 
+. The UCC is not universal: despite the word "Uniform," states must formally adopt through their legislative process any part of the UCC that is to have the effect of law in that state. Much of what is approved is in fact only "mostly uniform." Some sections are entirely missing from the law of some states. 
+. Without universal adoption, this particular change would give an unfair advantage to those who operate in states that refuse to adopt it. This would steer unfair practices toward certain jurisdictions, like the lure of Swiss law for bankers. 
+
+Despite not being a primary focus for PL2029, there are still many experts within the UCC process who could help create synergies in attempting to have the public demand this reform. 
+
+Therefore we encourage and are open to exploring using the UCC as a means to reform fiduciary duty, while our focus will remain be on making this understood by the public in an effort to make it a demand for federal law by our elected officials. 
+
+== Footnotes:

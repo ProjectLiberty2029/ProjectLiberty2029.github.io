@@ -1,0 +1,27 @@
+= Attorney General Reform: Court Appointment
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 25%
+:page-authors: Vector Hasting
+:page-todos: Write this legislation... look at the history on the landing page and make language to put together some kind of committee structure in place of the Attorney General 
+:showtitle:
+
+== Overview:
+
+We can remove the Attorney General from the President's power by having the courts appoint them. 
+
+See <</content/legislation_and_amendments/attorney_general_reform/attorney_general_reform_landing_page.adoc#statute,the general discussion of why this is possible by Statute.>>
+
+We should interpret the phrase "Congress may by Law vest the Appointment of such inferior Officers... _in the Courts of Law_..." from link:https://constitution.congress.gov/constitution/article-2/#article-2-section-2-clause-2["the US Constitution, Article II, Section 2, Clause 2", window=read-later,opts="noopener,nofollow" ] to mean all the courts, not just the Supreme Court. 
+
+Note that regular attorneys who appear before judges in any court are considered _agents of the court._ 
+They must have permission to practice in front of the court and can be removed by the court. 
+In this way it makes logical sense to use the Courts to appoint those who perform the duties of the Attorney General, whether as an individual or as a Board. 
+
+The Attorney General has been an exception to this, and that's allowed because they do not practice in front of the court, but have their attorneys do so. 
+
+This page is a stub calling for drafting of that legislation. 
+

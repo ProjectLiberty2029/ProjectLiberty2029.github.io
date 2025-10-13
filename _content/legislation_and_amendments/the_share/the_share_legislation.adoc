@@ -1,0 +1,578 @@
+= The Share: Legislation
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: NoShow
+:page-draft_complete: 100%
+:page-authors: Vector Hasting
+:page-todos: Not broken
+:showtitle:
+:page-custom_nesting: law-nesting
+
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7N3AEsCrrnkC2UTNhGkUI4?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+_"The Share will build a Power like an oceanic wave, +
+and wash away the fear that fills the Land of We the Brave. +
+We turn our gaze to future days, our children we must save,  +
+  -- For Justice Marches On!"_
+
+From <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ 
+
+== Links for The Share
+
+<</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share Landing Page.>> 
+
+<</content/legislation_and_amendments/the_share/the_share_moral_argument.adoc#,The Share Moral Arguments in more detail.>>
+
+<</content/legislation_and_amendments/the_share/the_share_econ_analysis.adoc#,The Share economic analysis is here.>>
+
+<</content/legislation_and_amendments/the_share/the_share_legislation.adoc#,The Share legislation is here.>> +
+(This document)
+
+== Overview
+
+US Code is divided into "Titles."
+
+Title 26 is the US Tax Code, and is generally known as "The Internal Revenue Code." 
+
+The last substantial reform of The Internal Revenue Code was during the Reagan administration, and the code has also been known by the name "Internal Revenue Code of 1986" ever since then. 
+
+It is past time to rename and reform taxes again. 
+
+This is a bill that will do that. 
+
+== Notes on Bill language
+
+Bills have two kinds of language in them: 
+
+. The Operating Language
+. The Law that is left. 
+
+For example, consider if a bill said the following: 
+
+_Amend Section 23 to change the phrase "shall be null" to_ "shall be void."
+
+The part that is italicized is the "operational language" which is used to: 
+
+* Give helpful organizing information like a table of contents and a working title to the Bill. 
+* Direct lawyers and law writers and bureaucrats who will implement the Bill to what will be changed, (in the above example, "amend Section 23" where it says "shall be null"). 
+* Give context like: 'this change shall be effective a year after enactment.'
+* Give instruction where there will be nothing remaining, like: "Section 24 is repealed."
+
+The part that is not italicized is the "law language." 
+This is more intuitive: it is the language that will remain as Law.
+
+In the example above, "shall be void" remains as a part of the law. 
+
+Normally, those involved in the preparation and execution of Bills and Laws know how to distinguish one type of language from the other. 
+
+But because we are working in the public sphere, we will add the convention just described of _italicizing operational language_ and leaving the law language un-italicized. 
+
+NOTE: This legislation is in relation to Release point 119-4, which is the Internal Revenue Service Code from just prior to the second Trump Administration. This will need some tweaks to work with the tax code passed in 2025 as part of the “Big Beautiful Bill.”
+
+== The Share
+
+
+*_A Bill_* +
+_to amend the Internal Revenue Code of 1986 to create The Share: a Universal Basic Share of all Real US Income and paid for by a fair, equal tax rate on all Real US Income._
+
+_Be it Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,_
+
+=== _SECTION 1: SHORT TITLE; TABLE OF CONTENTS._
+
+. _Short Title.--This Act may be cited as “The Fair and Share Act of [Date Enacted]”  or “The Fair and Share Tax Act.”_ +
+. _Table of Contents.--The table of contents for this Act is as follows:_
+
+_Section 1: Short Title, Table of Contents. +
+Section 2: Renaming of the Internal Revenue Code. +
+Section 3: Fair and Share taxation of individual income and business income. +
+Section 4: Additional Amendments +
+Section 5: Amendment of Title 42, Section 401(a) +
+Section 6: Amendment of Title 42, Section 1395i +
+Section 7: Redesignations +
+Section 8: Additional Repeals  +
+Section 9: Resolution of Dependencies +
+Section 10: Severability +
+Section 11: Effective Dates_
+
+=== _SECTION 2: RENAMING THE INTERNAL REVENUE CODE_
+
+. _In General —  US Code Title 26 is renamed from Internal Revenue Code of 1986 aka Title 26 — Internal Revenue Code to Internal Revenue Code of [Year of Enactment], aka Title 26 — Internal Revenue Code._
+
+=== _SECTION 3: FAIR AND SHARE TAXATION_
+
+. _In General. — Title 26,  Subtitle A, Chapter 1, Subchapter A Parts I & II are changed to read as follows:_
+
+Part I — Tax Imposed
+
+Sec.
+
+"1. 	Congressional declaration of purpose" +
+"2. 	Definition of symbols and terms" +
+"3. 	Tax imposed" +
+"4. 	Determination of Taxable Income for Individuals" +
+"5. 	Determination of Taxable Income for Business Activities" +
+"6. 	Determination of Tax Amount for Individuals" +
+"7. 	Determination of Tax Amount for Businesses" +
+"8. 	Withholding" +
+"9.	    Conversion of Payroll Taxes to Wages" +
+"10.	Designation of taxation amounts for Social Security and Medicaid Trust Funds" +
+"11.	Initial Fair Tax Rate Upon Enactment" +
+"12.	Adjustment of the Fair Tax Rate" +
+"13.	Exceptions to the Fair Tax Rate" +
+"14.	Super-majority required to make Exceptions to the Fair Tax Rate" +
+
+Part II — The Share
+
+"15.	Determination of Share Amount" +
+"16.	Payment of the Share Amount" +
+
+=== Part I - Tax Imposed
+
+==== Section 1 — Congressional declaration of purpose
+
+. In General: By enacting this Fair and Share Tax Reform Congress intends to create a stronger society by giving every adult US Citizens a basic means to safeguard their own Life, Liberty and Pursuit of Happiness.  
+
+==== Section 2 — Definition of symbols and terms. 
+
+. To mark the importance of the new social contract enacted by this Subtitle A, Chapter 1, Tax and Share, the General Services Administration is directed to introduce publicly available fonts and educational materials which explain the following symbols and terms, and to work with the Unicode Consortium to standardize a new unicode character for each of the following symbols:
+..  : the Fair Tax Rate.  An Equal Tax Rate on all US Income which shall adjust according to the US Debt-to-GDP ratio;  
+..  : the Target Debt-to-GDP ratio.  This amount shall be compared with actual US Debt-to-GDP to form the basis for raising or lowering the Fair Tax Rate ; 
+..  : the Adjustment Rate.  This percentage slows the rise and fall of the Fair Tax Rate . As defined in Section 12, below, every year the Secretary of the Treasury shall multiply this Adjustment Rate  by the difference between the actual US Debt-to-GDP Ratio and the Target US Debt-to-GDP Ratio , then add the result — which will be positive if the Debt is over the target, but negative if the Debt is under the target — to the previous year’s Fair Tax Rate  to determine the next year’s Fair Tax Rate ;
+..  : the Share Rate.  This is the percentage of one one-billionth of US Gross Real Income equivalent to $20,000 as of the first of the year of enactment, where:
+... The units on the Share Rate  are n% or nano-percent, and 
+... As an example, $20,000 divided by $23 Trillion US Gross Real Income, would mean The Share Rate  would be 86.957n%, and  
+... This amount shall remain constant unless changed by legislation;  
+..  : the Share Amount.  This is the before-tax amount of The Share, where: 
+... The Share Amount  is expressed in dollars, rounded to the nearest dollar, and
+... The Share Amount  shall be calculated by the Secretary of the Treasury every year by multiplying the Share Rate  by the US Gross Real Income for the previous year, and 
+... This amount shall be changed every year according to the definition in Section 12, and 
+... This amount shall be paid in equal payments to every Share Recipient twice monthly as defined in Section 16, and 
+... As an example, 
+.... if the Share Rate  is 86.957n%, and the US Gross Real Income for 2030 were to be $26.5 T, then the Share Amount  for 2031 would be  $23,043, and 
+.... In this example, if the Fair Tax Rate  for that year were 34%, then every adult citizen over 18 (with a few exceptions) would receive a net Share Amount  of $15,208.38 (which would be the $23,043 share minus 34% in taxes), and 
+.... In this example, each Share Recipient would receive two checks every month from the IRS for one twenty fourth of the net amount, or two checks a month for $633.68.  
+... US Gross Real Income is defined here as all income subject to the tax imposed by this Subchapter A.  
+... US Gross Real Income may also be referred to as Gross Real Income or GRI. 
+. The Secretary of Commerce shall publish the US Gross Real Income as a line item in their monthly financial reports to the nation.  
+
+==== Section 3 — Tax imposed 
+
+. In General — There is hereby imposed on every individual and every business in the United States an Income Tax equal to the Fair Tax Rate (  ) times the taxable income of every individual and every business, where corporations of any kind are considered a business and net revenue of any kind of a business or corporation is considered income.   
+. The Fair Tax Rate Percentage (  ) is defined and maintained in this Title 26, Subtitle A, Chapter 1, Subchapter A, Sections 11 and 12.  
+. Certain entities included in the Income Tax:
+.. Any individual or entity that receives income derived from activities within the United States;  
+.. Any individual or entity that receives income derived from activities under the jurisdiction of Article I, Section 8, Clause 3, also known as the Commerce Clause, of the US Constitution.  
+. Certain entities excluded from the Income Tax:  
+.. State, city, county and local governments, and their subsidiary units;
+.. Charitable, philanthropic, religious, educational, cultural, non-profit, and any other organizations that qualify under Title 26, Subtitle A, Chapter 1, Subchapter F.  
+
+==== Section 4 — Determination of Taxable Income for Individuals 
+
+. In General — Taxable income means all gross income included by Section 4 (b), and not including all income excluded by Section 4 (c) and minus any deductions allowed in Section 4 (d), as follows:  
+. Except as otherwise provided in this Subtitle A, gross income means all income from whatever source derived, including (but not limited to) the following specific items: footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (Gross Income defined)] 
+.. the Share Amount ;  
+.. Compensation for services and work including wages, salaries, fees, commissions, prizes, fringe benefits, bonuses, awards, tips, and any other material income or compensation for individuals employed by others or self employed; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (1) (Gross Income defined)]
+.. Gross income derived from business; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (2) (Gross Income defined)]  
+.. Gains from dealings in real or investment property, including net gains derived from sale or exchange of property, interest received, rents received, royalties received, dividends received, annuities received; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (3)-(8), (Gross Income defined)]
+.. Income from life insurance and endowment contracts; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (3)-(8) (Gross Income defined)]
+.. Pensions; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (9) (Gross Income defined)]
+.. Income from discharge of indebtedness, except in the case of bankruptcy; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (10) (Gross Income defined)] 
+.. Distributive share of partnership gross income; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (12) (Gross Income defined)]
+.. Income from inheritance or in respect of a decadent; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (13) (Gross Income defined)]
+.. Income from an interest in an estate or Trust; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (14) (Gross Income defined)]
+.. Cash equivalent of financial instruments conveyed to employees; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 83 (Property transferred in connection with performance of services)]
+.. Government benefits not otherwise exempted; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 85 (Unemployment compensation), is one example]
+.. 50% of: footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 86 (Social Security and Tier 1 Railroad Retirement Benefits) creates a progressive scale that uses a 50% rule for the taxable base of Social Security Benefits (SSB) and Tier 1 Railroad Retirement Benefits (RRB), but slides that to 0% for those with a benefit under $25,000 (individual) and 85% for those with a benefit over $34,000.  This effectively makes a variable tax rate, not an equal, fair tax rate, which this proposal claims is unfair.  However, because by definition people on SSB or RRB are dealing with the difficulties of old age and end of life, we as a society have over generations afforded them a lower rate of taxation through this section of the tax code.  Therefore, this proposal continues that by fixing the 50% reduction to income from SSB/RRB. For those who used to enjoy the 0% rate, the Share Amount  more than makes up for the tax on that income.  ]
+... Social Security payments;  
+... Tier 1 Railroad Retirement Benefits;  
+.. Gifts in excess of the amount of The Share Amount  in effect on the date of the gift;  
+.. Tax Grant receipts which are taxable as defined by the Tax Grant legislation;  
+.. Unusual sources of income including: legal settlements;  income determined by a court of competent jurisdiction to be taxable;  and the market value of long-term housing provided by an employer;  
+.. Remuneration for services performed outside the United States unless such remuneration is either taxed by another country, or exempted from taxable income under Subtitle A, Chapter 1, Subchapter N;  
+.. Any other items of positive income described in Subtitle A, Chapter 1, Subchapter B, Part I, Sections 64 and 66;
+.. Any other items of positive income described in Subtitle A, Chapter 1, Subchapter B, Part II, Sections 72-91;  
+. Specific Items Excluded from Taxable Income: 
+.. In General — This section defined the kinds of income which are sufficiently integrated with expenses or taxed in other ways, or explicitly excluded from taxation, and which therefore shall be excluded from Taxable Income; 
+.. Also In General — Deductions may be allowed from the following list of sections within Subtitle A, Chapter 1, Subchapter B subject to the limitation that any duplicate items may be deducted from income only once and only using the smallest amount defined: 
+... Part I, Section 62 (Adjusted gross income defined), or
+... Part I, Section 65 (Ordinary loss defined), or
+... Part III (Items Specifically Excluded from Gross Income), or  
+... Part IV (Tax Exemption Requirements for State and Local Bonds), or 
+... Part VII (Additional Itemized Deductions for Individuals);  
+.. Gifts received that are less than The Share Amount  in effect on the date of the gift;  
+.. Tax Grants receipts which are non-taxable as defined by the Tax Grant legislation;  
+.. Employer reimbursements or per-diems to employees for business expenses paid by the employee for work purposes which have no significant element of personal pleasure, recreation or vacation;xv  
+.. Scholarships for study in accredited institutions, whether a degree or certification was obtained or not;  
+.. Employee fringe benefits provided at or in close proximity to the place of work, such as promotional discounts, office food, use of gym equipment, entertainment, temporary housing, child care, etc..; footnote:[S-907; 108th Congress, “Flat Tax Act of 2003;” Section ]
+.. Remuneration for services performed outside the United States if such remuneration was taxed by another country or is otherwise excluded from taxation by Subtitle A, Chapter 1, Subchapter N;  
+.. Medical benefits paid for medical services;  
+.. Child support, or Alimony, unless determined by a court of competent jurisdiction to be taxable;  
+.. Income determined by a court of competent jurisdiction to be non-taxable;  
+.. Income diverted to pension or retirement plans that satisfy conditions of Subchapter D of this Subtitle;  
+. Specific Items deducted from Gross Income before determining Taxable Income: 
+.. Net losses derived from sale or exchange or dealings in property or investments; footnote:[See Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 65 (Ordinary loss defined) & implied by the word “gains” in Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (3).] 
+
+==== Section 5 — Determination of Taxable Income for Business Activities 
+
+. In general — For purposes of this section, the term ‘business taxable income' means ‘Gross Income’ reduced by the following: ‘Compensation to Employees;’ ‘Costs of Business Inputs,’ and ‘Capital Costs.’  
+. Gross Income defined: 
+.. Items included in Gross Income: 
+... All business receipts from any business activity located in or passing through the United States, or any activity subject to jurisdiction under the Commerce Clause of the Constitution;  
+... Gross revenue excluding sales and excise taxes, from the sale of goods and services, or otherwise derived from business;  
+... Gross receipts from dealings in capital or property (land, equipment, improvements, intellectual property, etc); 
+... Interest;  
+... Rents;  
+... Royalties;  
+... Dividends;  
+... Annuities;  
+... Income from life insurance and endowment contracts;  
+... Income from Pensions;  
+... Income from discharge of indebtedness, except as governed by bankruptcy laws;  
+... Distributive share of partnership gross income;  
+... Income from inheritance;  
+... Income in respect of a decedent;  
+... Tax Grant receipts which are taxable as defined by the Tax Grant legislation;  
+... The market value of goods, services, capital (land, equipment, improvements, intellectual property, etc) provided to the company owners or its employees;  
+... The market value of goods, services and/or capital (equipment, intellectual property, etc) delivered from the US to any point outside the US, if not included in sales;  
+... The market value of goods and services provided to depositors, insurance policyholders, or any other entity with financial claims on the business, if not included in sales;  
+... Awards granted to the business and collected as a result of litigation or arbitration received during the tax year;  
+... Any Fees, Commissions, or similar receipts if not paid to employees as compensation;  
+... Income from an interest in an estate or trust; 
+... Any other items of positive income described in Subtitle A, Chapter 1, Subchapter B, Parts I & II; 
+... Bond income deemed non-taxable according to Subtitle A, Chapter 1: Subchapter B, Part IV; and  
+... Any other thing of value that increases the value of the business and which is under the jurisdiction of the Commerce Clause of the Constitution. 
+.. Items excluded from Business Income:  
+... Items traded for equal value, where no such item is included as a business input under Section 102 (d).  
+... Tax Grant receipts which are non-taxable as defined by the Tax Grant legislation;  
+... Any specific items of negative income as described in Subtitle A, Chapter 1, Subchapter B, Part III (Items Excluded from Gross Income), as long as such items are not included in Subtitle A, Chapter 1, Subchapter B, Part IX (Items not Deductible);  
+... Interest income from government issued bonds that pay interest which by statute is excluded from gross income, if and only if none of the following conditions exist: 
+.... the taxpayer sells or otherwise disposes of the bond within thirty (30) days after it’s date of acquisition by the taxpayer, or 
+.... the bond’s earliest maturity or call date is a date more than five (5) years from the date on which it was acquired by the taxpayer, or
+.... if the bond is sold or disposed of for a value greater than it’s adjusted basis at the time of sale or disposition.  
+... Bond income deemed non-taxable according to Subtitle A, Chapter 1, Subchapter B, Part IV;  
+... Deductions allowed under Subtitle A, Chapter 1, Subchapter B, Part VI and VII, subject to the limitation that deductions do not duplicate exclusions or subtractions from income in this Section 5; and when there are duplications, then the more restrictive version of the deduction or subtraction shall be used.
+. Compensation to Employees defined:  
+.. In General — compensation to employees are amounts paid to people for providing labor to support a business.  
+.. Certain items included in Compensation to Employees: 
+... Payroll costs;  
+... Benefits including medical insurance, pension contributions, and investment matching;  
+... The value of stock options at the time employees were granted control of such options, of gran and benefits, but does not include fringe benefits.  
+.. Certain items excluded from Compensation to Employees:  
+... Fringe benefits provide at or near to work if declared as a business input cost;  
+... Reimbursements for business costs, if declared as a business input cost.  
+. Cost of Business Inputs defined:  
+.. In General — business inputs are the actual costs required for doing business;  
+.. Items included in Costs of Business Inputs:  
+... The actual amount paid for goods, services, utilities, and materials, whether or not resold during the taxable year;  
+... The actual amounts paid for rents and leases of equipment or land, unless such payments accrue to ownership, in which case the portion accruing shall be treated as capital expense;  
+... The market value of items or services needed for business and imported into the US; 
+... Maintenance and improvement costs unless they are counted as a capital expense;  
+... The actual cost, if reasonable, of travel and entertainment expenses for business purposes;  
+... Any costs of petitioning the government covered under a Constitutional right of individuals to petition the government;  
+... Costs of litigation or arbitration, including the costs of any judgments or awards paid during the tax year;  
+... Costs of legal and research preparation if called upon to provide such to a governing body (such as a town council, State or Federal government);  
+... Direct costs of regulatory compliance, unless such compliance issues involve capital, in which case they shall be treated as a capital expense;  
+... Payment of taxes to foreign authorities;  
+.. Items excluded from Cost of Business Inputs:  
+... Purchases of goods and services provided to employees or owners as long as such are a pass-through transaction;  
+... Payment of taxes on income to any domestic authority;  
+... Costs of direct petition of the government for addressing lobbying for legislation which is not covered under a Constitutional right of individuals to petition the government for redress;  
+... Any other costs of lobbying the government including:  
+.... Influencing Federal or Statewide legislation;  
+.... Participation in, or intervention in, any political campaign on behalf of (or in opposition to) any candidate for public office;  
+.... Any attempt to influence the general public, or segments thereof, with respect to elections, legislative matters, or referendums;  and 
+.... Any direct communication with a covered executive branch official in an attempt to influence the official actions or positions of such official.  
+. Capital Costs defined:  
+.. The actual costs of capital investments including:  
+... purchases of land;  
+... improvements of land, including the building of factories or support structures;  
+... improvements and maintenance of structures;  
+... purchase of equipment;  
+... improvements and maintenance of equipment if not treated as a business input;  
+... in the case of equipment imported into the United States, the cost shall be the market value at the time of entry into the US.  
+
+==== Section 6 — Determination of Tax Amount for Individuals
+
+. In general — Tax Credits for Individuals shall only be allowed if they are listed in the following Subparts of Subtitle A, Chapter 1, Subchapter A, Part IV (Credits Against Tax):
+.. Subpart A (Nonrefundable Personal Credits), and 
+.. Subpart B (Other Credits), and 
+.. Subpart C (Refundable Credits);
+. Where Tax Credits specify amounts for individuals, or heads of household, or married persons filing jointly, or married persons filing separately, taxpayers shall be due the maximum Tax Credit defined under the assumption that a married couple can be divided into two equal individuals.xviii  
+.. For example, if a Disability Tax Credit lists a maximum benefit of $5,000 for a single disabled individual in a household, but $7,500 in the case of a joint return for two disabled spouses, or $3,750 for a disabled married person filing separately, then the Tax Credit authorized by this Section would be $5,000 for each individual. Therefore a married couple where where both are disabled and filing jointly would have a $10,000 Tax Credit, if each filed separately they would each receive a $5,000 Tax Credit, and if one was disabled and filed separately, the disabled spouse would receive a $5,000 Tax Credit. 
+.. For a further example, if an IRA Tax Credit allowed a $1,000 Tax Credit for a joint return of married persons, but a $1,500 Tax Credit if the spouse filed a single return as a head of household, then the Tax Credit authorized by this Section would allow $1,500 for the spouse whether they file a joint return or a single return.  If both spouses would have qualified for $1,500 if either had filed as head of household, then they may file a joint return with a $3,000 Tax Credit or two separate returns with each receiving a $1,500 Tax Credit.  
+.. Each Tax Credit shall be evaluated using a different method of resolving language that designates different benefits for different classes of the benefit to an individual if language of 
+. In general: Individuals shall owe a tax calculated as follows:  
+.. Determine the individual’s net taxable income using the rules of Section 4, then 
+.. Multiply that net taxable income by The Fair Tax Rate  to get the individual’s initial tax burden, then 
+.. Subtract any tax credits for which the individual qualifies from their tax burden to get their final tax;
+. Tax Credits are specified in the following Subparts of Subtitle A, Chapter 1, Subchapter A, Part IV: 
+.. Subpart A (Nonrefundable Personal Credits), and 
+.. Subpart B (Other Credits), and 
+.. Subpart C (Refundable Credits);
+. If on [Effective Date] the individual taxpayer has an unused tax credit balance from previous tax years,  the amount of tax owed by the taxpayer shall be reduced by applying the amount of their unused tax credit.  If unused tax credits still exists, then the amount of tax owed by the taxpayer shall be reduced for each successive year by applying remaining unused tax credit amounts until unused tax credits are exhausted.  
+
+==== Section 7 — Determination of Tax Amount for Businesses
+
+. In general: Businesses will owe a tax equal to the The Fair Tax Rate  times their taxable income, as determined by Subtitle A, Subchapter A, Section 5.  
+. If on the first of the year following enactment of the Fair and Share Tax Act a business taxpayer has an unused tax credit balance from previous tax years,  the amount of tax owed by the taxpayer shall be reduced by applying the amount of their unused tax credit.  If unused tax credits still exists, then the amount of tax owed by the taxpayer shall be reduced for each successive year by applying remaining unused tax credit amounts until unused tax credits are exhausted.  
+
+==== Section 8 — Withholding
+
+. In general — The taxes imposed on Individuals shall be collected by the employer of the taxpayer by deducting the amount of the tax from the wages as and when paid.  
+. Special rules for tips — 
+.. In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that collection can be made by the employer, at or after the time such statement is so furnished and before the close of the 10th day following the calendar month (or, if paragraph (3) applies, the 30th day following the year) in which the tips were deemed paid, by deducting the amount of the tax from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) as are under control of the employer. 
+.. If the tax imposed by section 3, with respect to tips which are included in written statements furnished in any month to the employer pursuant to section 6053(a), exceeds the wages of the employee (excluding tips) from which the employer is required to collect the tax under paragraph (b) (1) of this section, the employee may furnish to the employer on or before the 10th day of the following month (or, if paragraph (b) (3) applies, on or before the 30th day of the following year) an amount of money equal to the amount of the excess. 
+.. The Secretary of the Treasury may, under regulations prescribed by him, authorize employers—
+... to estimate the amount of tips that will be reported by the employee pursuant to section 6053(a) in any calendar year;  
+... to determine the amount to be deducted upon each payment of wages (exclusive of tips) during such year as if the tips so estimated constituted the actual tips so reported; and  
+... to deduct upon any payment of wages (other than tips, but including funds turned over by the employee to the employer pursuant to paragraph (b) (2)) to such employee during such year (and within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted upon such wages of the employee during the year to the amount required to be deducted in respect of tips included in written statements furnished to the employer during the year.  
+.. If the tax imposed by section 3 with respect to tips which constitute wages exceeds the portion of such tax which can be collected by the employer from the wages of the employee pursuant to paragraph (b) (1) or paragraph (b) (3), such excess shall be paid by the employee.  
+. Indemnification of Employer — Every employer required so to deduct the tax imposed by section 3 shall be liable for the payment of such tax, and shall be indemnified against the claims and demands of any person for the amount of any such payment made by such employer.  
+. To the extent that any tax imposed by section 3 is not collected by the employer, such tax shall be paid by the employee.  
+. If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3 and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.  
+
+==== Section 9 — Conversion of Payroll Taxes to Wages
+
+. In general — Beginning on the first day of the calendar year after Enactment, there will be a one-time conversion of employer’s obligation to pay ‘Payroll Taxes’ into wages.  ‘Payroll Taxes’ were formerly authorized under Subtitle C, Chapter 21, Subchapter B, ‘Tax on Employers,’ which is now repealed.  This requirement means employers must convert sums equivalent to 7.65% of employee remuneration into additional wage payments to their employees.  
+. Such payments to employees replace the obligation under the now repealed Subtitle C, Chapter 21, Subchapter B, Tax on Employers, which means no additional burden for employers, but also no windfall from repeal of Subtitle C, Chapter 21, Subchapter B.   
+. Such payments to employees may be made on a pay schedule no less frequent than the tax withholding depository schedule formerly imposed on the employer by the Secretary of the Treasury.  
+. Special rules for tips — in the case of employers of taxpayers for whom tips constitute wages, the Secretary of the Treasury shall provide a percentage of hourly non-tip wages which employers must convert to paid wages in order to compensate employees for the amount formerly paid by the employer to the Secretary as ‘Payroll Taxes.’  The Secretary may make this conversion percentage applicable generally or specifically at the Secretary’s discretion. The Secretary shall make this conversion available a number available at least one month before the beginning of the calendar year following Enactment.  
+
+==== Section 10 — Designation of taxation amounts for Trust Funds
+
+. In general — The amount of tax which shall be directed to the trust funds for Social Security and Medicare are as follows: 
+.. Funds directed to the “Federal Old-Age and Survivor’s Insurance Trust Fund” are 12.4% of Taxable Income;  
+.. Funds directed to the “Federal Hospital Insurance Trust Fund,” are 2.9% of taxable income.  
+ . The Secretary shall create “The Share Trust Fund” which shall be used to make the Share payments as described in Section 16 of this Title. 
+ . The Secretary must deposit funds from tax revenues into the The Share Trust Fund monthly on a schedule designed by the Secretary to maintain The Share Trust Fund with sufficient funds to pay The Share Amount to all eligible Share Recipients for three month.   
+
+==== Section 11 — Initial Fair Tax Rate Upon Enactment 
+
+. Upon Enactment, the Fair Tax Rate  for the following two tax-years, shall be 34%.  
+. At the beginning of the third tax-year after Enactment, the Tax Rate  will vary according to economic conditions as defined in the following Section 12.  
+
+==== Section 12 — Adjustment of the Fair Tax Rate
+
+. In general: The Fair Tax Rate  will vary according to this formula:  
+.. Perform the following steps: 
+... Subtract the Target Debt-to-GDP-Ratio  from the previous government fiscal year’s actual Debt-to-GDP-Ratio: this will give a positive or negative percentage number, then 
+... Multiply that number by the Adjustment Rate , this will be a smaller percentage number, then
+... Add the resulting percentage to the Fair Tax Rate  for the previous calendar year.
+... The result is the new Fair Tax Rate  for the next calendar year. 
+.. Where:  
+... The US Debt-to-GDP-Ratio shall include both privately held debt and intergovernmental debt for the previous government fiscal year;  
+... The GDP used for the Debt-to-GDP ratio will be for the matching previous year;  
+... The Target Debt-to GDP  = 100%;  
+... The Adjustment Rate  = 3%.  
+.. For example, if GDP to Debt ratio on year 2 after [Enactment year] was 110%, then the new adjusted Fair Tax Rate  for year 3 would be 34% plus 3% of 10%, which is 34% plus 0.3%, which is 34.3%.  Likewise, if GDP to Debt ratio on year 10 is 95%, and the Fair Tax Rate  for year 10 was 31%, then the Fair Tax Rate  for year 11 would be 31% minus 3% of 5%, which is 31% minus 0.15%, which is 30.85%.  
+. Beginning with the third year after Enactment, the Secretary of the Treasury shall publish the new Fair Tax Rate as soon as practicable, but no later than one quarter before the beginning of every new tax year, using the formula described in this Section 12 (a).  
+
+==== Section 13 — Exceptions to the Fair Tax Rate
+
+. In general: If any other section of this Title 26 specifies a tax rate on income lower than the  Fair Tax Rate  specified here in Chapter A, Subchapter A, Sections 11 and 12, or if any other law has such an effect, then that tax rate shall be raised to the Fair Tax Rate .  
+. Another section of this Title 26 may specifically refer to this Section 13 (b) and specify a Tax Rate lower than the Fair Tax Rate , subject to to the super-majority provision in the following Section 14.  
+
+==== Section 14 — Super-Majority required to make Exceptions to the Fair Tax Rate 
+
+. In General.--It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, simple resolution, amendment thereto, or conference report thereon that includes any provision that--
+.. Uses an Exception under Section 13(b) to decrease any Income Tax rate below the Fair Tax Rate ;  
+.. Creates any class of Income for Individuals or Businesses (including Corporations) that is not subject to the Fair Tax Rate ;  
+.. Alters the calculation of the Fair Tax Rate ;  
+.. Alters the value of the Debt-to-GDP Target ;  
+.. Alters the value of the Adjustment Rate ;  
+.. Provides any exclusion, deduction, credit or other benefit which results in reduction in Federal revenues;  
+. Waiver or Suspension.--This section 14 may be waived or suspended in the House of Representatives or the Senate only by the affirmative vote of six-tenths of the Members, duly chosen and sworn.  
+
+=== Part II — The Share 
+
+Sec.
+"15.	Determination of Share Amount."
+"16. 	Payment of the Share Amount."
+
+==== Section 15 — Determination of Share Amount
+
+. Upon Enactment, the Secretary of the Treasury will determine the fixed Share Percentage  as follows:  
+.. Divide the sum of $20,000 by the US Gross Real Income and publish this ratio as the Share Percentage  in nano-percent, or n%.  
+.. The US Gross Real Income shall be for a period of twelve (12) months beginning two months before the Date of Enactment.  
+.. The US Gross Real Income shall be defined as all incomes subject to the Fair Tax as legislated under Subchapter A, which is also the amount directed to be published by the Secretary of Commerce under Section 2 (b) of this Subtitle A.  
+. The Secretary shall publish the new Share Amount  for each year as follows: 
+.. The Share Amount is The Share Percentage  multiplied by US Gross Real Income for the previous year, rounded to the nearest dollar.  
+.. The initial Share Amount  shall be $20,000 because the Secretary shall use the same twelve (12) month period of US Gross Real Income to determine both The Share Percentage  and The Share Amount .  
+.. The initial Share Amount 0 shall be used until the beginning of the second full calendar year after [Date of Enactment].  
+.. Beginning on the first of November on the calendar year after [Date of Enactment], the Secretary shall determine and publish The Share Amount  for the upcoming calendar year by multiplying The Share Percentage  times the US Gross Real Income from the previous US Fiscal year (October through September).  
+
+==== Section 16 — Payment of the Share Amount
+
+. In General — All citizens of the US who are over 18 years of age are eligible to receive The Share  beginning the first of the month after they turn 18.  Share payments are meant to benefit a living Share Recipient as part of a social contract that maintains all adult US Citizens have intrinsic value and that as such no one should have too little.  
+. The Secretary of the Treasury will disburse from The Share Trust Fund payment of the net, after-tax amount of The Share to all eligible Share Recipients twice monthly as follows: 
+.. Payment will be made through the Internal Revenue Service (IRS);  
+.. One twenty-fourth payment will be made on the first of the month;  
+.. One twenty-fourth payment will be made on the fifteenth of the month;  
+.. Payment will be made to US citizens wherever they reside, in a manner designed to prioritize both security and convenience, but with security most important;  
+.. Taxes on The Share Payment will be withheld by the IRS and accrue to satisfy the tax burden imposed on the Share Recipient;  
+.. If the Secretary determines payments have been made in error, correction will be subject to the following: 
+... If an under-payment has been made, then the Secretary shall disburse a lump payment for any and all under-payments, plus interest equal to the 3-month Treasury rate  based on the average market yield (during any 1-month period selected by the Secretary and ending in the calendar month in which the determination is made) on outstanding marketable obligations of the United States with remaining periods to maturity of 3 months or less, and
+... If an over-payment has been made due to a mistake by the Secretary, then no penalty may be added to any Share Recipient, and  
+... Any over-payment of an amount less than 20% greater than the correct amount shall be forgiven by the Secretary, and  
+... Any over-payment of an amount greater than 20% may be recovered at the Secretary’s discretion according to the following:  
+.... if the over-payment is between 20% and 100%, then the Share Recipient’s future Share checks shall be garnished at a rate of no more than 5%  until the amount of over-payment is recovered,  
+.... if the over-payment is over 100%, then the Secretary may attempt to recover the amount from the Share Recipient’s currency assets, and failing such recovery may garnish future Share checks at a rate of no more than 10% until the amount of over-payment is recovered;  
+.. If the Secretary cannot determine a means to distribute a Share payment to a Share Recipient’s control, then the Secretary shall hold all such payments in trust in a manner determined by the Secretary, subject to the following:  
+... The Secretary will exert all due effort to find a means to disburse unpaid Share amounts to eligible recipients;  
+... Share amounts held in trust shall accumulate interest in a manner determined by the Secretary to best reflect the interest paid on US debt;  
+... If the recipient is being held by a foreign power, the Secretary shall hold in trust all Share payments until the freedom or death of the Share Recipient;  
+... If the recipient is being held to account for crimes in the United States, or in any of the States, the Secretary shall hold in trust all Share payments until the freedom or death of the Share Recipient;  
+... If the recipient is being held illegally in the United States, or in any of the States, or in a foreign country, the Secretary shall hold in trust all Share payments until the freedom death of the Share Recipient;  
+... If the Secretary determines a Share Recipient has died, then the Secretary will hold any of that Share recipient’s funds that are held in trust for a period of five years during which any other claims against such funds may be granted by the Secretary or by a court of competent jurisdiction by using the following guidance:  
+.... In General — Share payments are meant to benefit a living Share Recipient as part of a social contract that maintains all adult US Citizens have intrinsic value and that as such no one should have too little;  and 
+.... Share payments are not meant to benefit adult survivors of Share recipients;  and 
+.... Share payments are not transferable assets;  and 
+.... Some circumstances may exist, such as dependent children with no other Share recipient guardians for whom receiving Share funds held in trust may be deemed appropriate;  or mistakes relating to Share payments made by either the government or by Share Recipients which can be rectified by disbursement of Share funds after death;  or other circumstances where the Conscience of the Secretary or the Conscience of the Court deems it appropriate to disburse Share funds held in trust after the death of a Share Recipient.  
+.. No deduction may be made from any Share payment or any payments held in trust except as follows:  
+... Government may pre-enroll individual Share recipients in a government health care plan so long as:  
+.... The benefits of such payment accrues to the individual Share recipient;  and  
+.... The Share recipient has the option to un-enroll in such payments at any time;  
+... Government may not pre-enroll Share recipients in any other government payment plan;.
+... Share recipients may elect to have the government automatically deduct amounts from their Share and direct payment to other recipients, including the government, so long as:  
+.... The Secretary has made arrangements for Share recipients to make election for such payments; and  
+.... Such payments accrue to the benefit of the individual Share recipient;  and  
+.... The Share recipient has the option to un-enroll in such payments at any time;  
+... A court of competent jurisdiction may garnish Share payments so long as:  
+.... Share recipient has exhausted due process steps to resist such garnishment; and  
+.... An annual review process exists to challenge such garnishment in the future; and  
+.... The IRS has a process to lapse such garnishment if an annual review process requirement has not been met.  
+. Payments of The Share to Share Recipients shall be considered an essential function of the US Government. 
+. Payments of The Share to Share Recipients shall be considered Refundable Tax Credits for any purpose of litigation against the government, or for consideration of the Constitutionality of The Share.  
+
+=== _SECTION 4:  ADDITIONAL AMENDMENTS_
+
+. _In General.--Title 26 shall be amended as follows:_
+
+_Amendment of Section 32: Earned income_
+
+. _In General — Section 32 shall be amended to include the net after-tax value of the Share Amount  in the term of earned income, by making the following changes:_ 
+.. _Change the period “.” in §32 (c) (2) (A) (ii) to:_ “, and”
+.. _Add the following text as paragraph §32 (c) (2) (A) (iii):_
+[.indent]
+“the net amount of any Share Amount  received, after taxes.” 
+
+_Amendment of Section 40A: Biodiesel and renewable diesel used as fuel_
+
+. _In General — Section 40A shall be amended to substitute_ “December 31, 2040” _for “December 31, 2024”_
+
+_Amendment of Section 40B: Sustainable aviation fuel credit_
+
+. _In General — Section 40B shall be amended to substitute_ “December 31, 2040” _for “December 31, 2024”_
+
+_Amendment of Section 161: Allowance of deductions_
+
+. _In General — Section 161 shall have three additional sentences added to the end of the paragraph that shall read as follows:_ +
+[.indent]
+“Any deduction specified in this part and claimed by a corporate taxpayer with publicly traded stock where the value of the deduction is over 2,000 (two-thousand) times the Share Amount  for the year the deduction was claimed shall be reported to the public with: the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters). +
+Any deduction specified in this part and claimed by any taxpayer which is not a natural person and which is not included in the previous sentence where the value of the deduction is over 50 (fifty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters). + 
+Any deduction specified in this part and claimed by any taxpayer who is a natural person where the value of the deduction is over 20 (twenty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the name of the taxpayer and the zip code of the taxpayer’s principal address, and if the taxpayer is not a natural person, the address and zip code of the taxpayer’s name of the taxpayer’s registered agent (if any).”
+
+_Amendment of Section 183: Activities not engaged in for profit_
+
+. _In General — Section 183 (b) shall have an additional subparagraph following subparagraph (2). The final period (“.”) of subparagraph (2) shall be replaced with_ “, and” _and there shall be a new paragraph (3) which shall read as follows:_ +
+[.indent]
+"(3)	no deduction under this section shall be allowed in excess of twenty (20) times the Share Amount  for the same year that the deduction is claimed.""
+
+_Amendment of Section 211: Allowance of deductions_
+
+. _In General — Section 211 shall have an additional sentence added to the end of the paragraph that shall read as follows:_ +
+[.indent]
+“Any deduction specified in this part and claimed by a taxpayer which has a value of over 20 (twenty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer and the zip code of the taxpayer’s principal address.”
+
+_Amendment of Section 241: Allowance of special deductions_
+
+. _In General — Section 241 shall have an additional two sentences added to the end of the paragraph that shall read as follows:_ +
+[.indent]
+“Any deduction specified in this part and claimed by a corporate taxpayer with publicly traded stock where the value of the deduction is over 2,000 (two-thousand) times the Share Amount  for the year the deduction was claimed shall be reported to the public with: the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters).  + 
+Any deduction specified in this part and claimed by any taxpayer which is not a natural person and which is not included in the previous sentence where the value of the deduction is over 50 (fifty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters).”
+
+=== _SECTION 5: AMENDMENT OF TITLE 42, SECTION 401 (a)_ 
+
+. _In order to insure the Federal Old-Age and Survivors Insurance Trust Fund is funded at the same level before enactment, amend Title 24 as follows:_
+.. _Amend the end of Section 401 (a) (4) to omit the final period and add the characters inside the quotes:_
+... “; and”
+.. _Amend Section 401 (a) to add the following paragraph after paragraph 401 (a) (4):_
+[.indent]
+(5) The taxes imposed by Section 3 of the Fair Tax and Share Act of [Date Enacted] and earmarked in Section 10 (a). 
+
+.. _Amend Section 401 (a) to change the paragraph following paragraph 401 (a) (5) as follows:_
+... _Replace the following phrase labeled as (i) with the phrase labeled as (ii):_
+.... “clauses (3) and (4)”
+.... “clauses (3), (4), and (5)”
+
+=== _SECTION 6: AMENDMENT OF TITLE 42, SECTION 1395i_
+
+. _In order to insure the Federal Hospital Insurance Trust Fund is funded at the same level before enactment, amend Title 24 as follows:_ 
+.. _Amend the end of Section 1395i (a) (2) to omit the final period and add:_
+... "; and"
+.. _Amend Section 1395i (a) to add the following paragraph after paragraph 1395i (a) (2):_
+[.indent]
+(3) The taxes imposed by Section 3 of the Fair Tax and Share Act of [Date Enacted] and earmarked in Section 10 (b).
+
+=== _SECTION 7: REDESIGNATIONS_
+
+. _Redesignations.--The following Sections of  of Subtitle A, and the items relating to such subchapters in the tables of subchapters shall be redesignated:_
+.. _There shall be added a new Subtitle A, Chapter 1, Subchapter A, Part VII which shall follow Part VII and be labeled “Additional Definitions and Rules,"" 
+.. _Subtitle A, Chapter 1, Subchapter A, Part I, Section 2 shall be redesignated as Subtitle A, Chapter 1, Subchapter A, Part VII, Section 60-A_
+.. _Subtitle A, Chapter 1, Subchapter A, Part I, Section 5 shall be redesignated as Subtitle A, Chapter 1, Subchapter A, Part VII, Section 60-B_
+.. _Subtitle A, Chapter 1, Subchapter A, Part I, Section 15 shall be redesignated as Subtitle A, Chapter 1, Subchapter A, Part VII, Section 60-C_
+. _Redesignations, continued — The following subchapters of Chapter 1 of Subtitle A and the items relating to such subchapters in the table of subchapters for such chapter 1 are redesignated:_
+.. _Subchapter A, Section 2 as Subchapter_
+.. _Subchapter R (relating to taxation of international shipping by per ton rule) as Subchapter H_
+.. _Subchapter S (relating to Tax Treatment of S Corps) as Subchapter I._
+
+=== _SECTION 8: REPEALS_
+
+. _Repeals.--The following subchapters of Subtitle A, Chapter 1 and the items relating to such subchapters in the table of subchapters for such chapter 1 are repealed:_
+.. _Subchapter A: Part IV, Subpart D, Section 45B (Credit for portion of employer social security taxes paid with respect to employee cash tips is repealed as irrelevant after elimination of the Payroll Tax by this bill)_ footnote:[This “Payroll Tax” is eliminated by this proposal, so employers will no longer be paying it, therefore there is no need for a subsidy.] 
+.. _Subchapter B: Part I, Section 61 (Gross Income Defined is repealed because it has been moved to Subchapter A, Part I, Section 3 (b) )_ footnote:[Section 61 has been completely absorbed in the text of new Section 3 (b) (Determination of Taxable Income for Individuals)]
+.. _Subchapter B: Part I, Section 63 (Taxable Income Defined is repealed because it has been moved to Subchapter A, Part I, Section 3 (b) )_ footnote:[Section 63 has been completely reworked in the text of new Section 3 (a) (Determination of Taxable Income for Individuals)]
+.. _Subchapter B: Part I, Section 67 (2-percent floor on miscellaneous itemized deductions)_ footnote:[Section 67 disallows certain deductions unless they amount to more than 2% of income.  This should be repealed on the grounds that it is a special rule that unfairly singles out people by expenditures, giving favor to those with larger expenses. ]
+.. _Subchapter B: Part I, Section 68 (Overall limitation of itemized deductions)_ footnote:[Section 68 reduces the amount of deductions high-earning people may claim based on the amount of their income. This violates the principle of fairness because it reduces the allowed deductions for people with incomes over $250,000 individually (or approx the top 5% of earners), to only claim 80% of all allowed deductions. ]
+.. _Subchapter B: Part I, Section 86 (Social Security and Tier 1 Railroad Retirement Benefits Deduction, has been moved to Subchapter A, Part I, Section 3 (b) (13) )_ footnote:[See the new Section 3 (b) (13) which grants the 50% income deduction which is the baseline for the old Section 86, and see the endnote for that new provision as well. ]
+.. _Subchapter B: Part V (Deductions for Personal Exemptions, has been set to zero since 2018 and should be removed for simplicity)) footnote:[In the Tax Cuts and Jobs Act of 2018 this deduction was set to zero by action of Subtitle A, Subchapter B, Part V, Section 151 (d) (5) (A): “The term “exemption amount” means zero. In the “Big Beautiful Bill,” the timeframe for this zeroing of the tax exemption was changed to all of time following December 31, 2017. For simplicity, this entire section should be removed from the tax code altogether.]
+.. _Subchapter H (relating to banking institutions)._
+.. _Subchapter I (relating to natural resources)._
+.. _Subchapter J (relating to estates, trusts, beneficiaries, and decedents)._
+.. _Subchapter K (relating to partnerships)._
+.. _Subchapter L (relating to insurance companies)._
+.. _Subchapter M (relating to regulated investment companies and real estate investment trusts)._
+.. _Subchapter N (relating to tax based on income from sources within or without the United States)._
+.. _Subchapter O (relating to gain or loss on disposition of property)._
+.. _Subchapter P (relating to capital gains and losses)._
+.. _Subchapter Q (relating to readjustment of tax between years and special limitations)._
+.. _Subchapter T (relating to cooperatives and their patrons)._
+. _Repeals Continued — The following Chapters are repealed:_
+.. _Subtitle A, Chapter 2 (Self Employment Income)_
+.. _Subtitle C, Chapter 21 (Employment Taxes)._
+. _Repeals Continued — The following Subpart is repealed:_
+ .. _Subtitle A, Chapter 1, Subchapter A, Part IV, Subpart G: Credit Against Regular Tax for Prior Year Minimum Tax Liability._ footnote:[This section minimizes the effect of the AMT by allowing taxpayers to restructure their tax classifications and then claim back tax they paid before such restructuring.]  
+ . _Conforming redesignations — Technical and Conforming Changes.--The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable but in any event not later than 90 days after the date of enactment of this Act, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a draft of any technical and conforming changes in the Internal Revenue [Code of Year of Enactment] which are necessary to reflect throughout such Code the changes in the substantive provisions of law made by this Act._
+
+=== _SECTION 9: RESOLUTION OF DEPENDENCIES_
+
+. _In General — in Redesignations and Repeals, any clause remaining in Title 26 or other Titles of the US code which refer to sections of Title 26 which this Bill redesignates, shall be renumbered to match the new designation, and all Tables of Contents and Cross References shall be updated to match the new designation._ 
+. _Any clause remaining in Title 26 or other titles of the US code which refer to sections of Title 26 which this Bill repeals, shall be treated as null or void in whatever interpretation creates the least impact on such clauses._
+
+=== _SECTION 10: SEPARABILITY:_
+
+. _If any provision of this Act or any amendment made by this Act, or the application of such a provision or amendment to any person, entity, or circumstance, is held to be unconstitutional or is otherwise enjoined or unenforceable, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person, entity, or circumstance, and any remaining provisions of Title 26 and Title 42 shall not be affected by the holding._
+
+=== _SECTION 11: EFFECTIVE DATES:_
+
+. _The following sections will be implemented no later than the second first day of the month following the Date of Enactment:_ 
+.. _Subtitle A, Chapter 1, Subchapter A, Part II — The Share, shall be implemented by The Secretary of the Treasury, with the best information available at the time;_ 
+. _All other sections shall become effective on the first day of the first calendar year following the Date of Enactment._ 
+
+== Footnotes:

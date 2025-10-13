@@ -1,0 +1,110 @@
+= Attorney General Reform: General Landing Page
+:doctype: book
+:table-caption: Data Set
+:imagesdir: /content/media/images/
+:page-liquid:
+:page-stage: 11
+:page-draft_complete: 75%
+:page-authors: Vector Hasting
+:page-todos: Add Images of the states. Add footnotes
+:showtitle:
+
+[.lead]
+_"The way to have good and safe government +
+is not to trust it all to one, +
+but to divide it among the many…”" +
+ -- Thomas Jefferson._
+
+== Overview:
+
+This page offers general discussion and thoughts on the topic of reforming the position of Attorney General. 
+
+Project Liberty 2029 proposes the following possible reforms: +
+
+A Constitutional amendment to <</content/legislation_and_amendments/attorney_general_reform/attorney_general_elected_constitutional_amendment.adoc#,Elect the Attorney General by Popular Vote.>>
+
+A law to <</content/legislation_and_amendments/attorney_general_reform/attorney_general_as_justice_board.adoc#,replace the Attorney General with a Justice Board.>>
+
+A law to <</content/legislation_and_amendments/attorney_general_reform/attorney_general_court_appointed_reform.adoc#,have the Courts appoint the Attorney General.>>
+
+== The Problem
+
+With the weaponization of the Justice Department by this fascist regime, it seems unlikely that America can restore public confidence in the impartiality of the Department of Justice as long as it remains under the control of the President. 
+
+Moreover, giving the President power over all forms of federal sanctioned violence (Military, Homeland Security, and the Justice Department) has finally demonstrated the truth of the ancient adage: _"Power tends to corrupt, and Absolute Power tends to corrupt absolutely."_ footnote:[Note targeting of John Bolton's home on 8/22/2025]
+
+Therefore, ProjectLiberty2029 proposes effectively separating the Attorney General from the office of The President. 
+
+While this may at first seem like a radical idea, it is more likely that the logic of it will become obvious once the public considers this question. 
+footnote:[link:https://journals.law.harvard.edu/lpr/2020/04/22/the-attorney-general-should-be-separate/["Harvard Law Journal: The Attorney General Should be Separate"., window=read-later,opts="noopener,nofollow"] pass:[<br>] 
+and pass:[<br>]
+link:https://www.yalelawjournal.org/pdf/117_9ik5mt28.pdf["Break Up the Presidency? Governors, State Attorneys General, and Lessons from the Divided Executive, the Yale Law Journal", window=read-later,opts="noopener,nofollow"]] 
+Having an Attorney General with nationwide authority to prosecute criminals and who is appointed by and answering to the president is, in fact, the more radical structure; one that the US government has haphazardly wandered into. 
+
+43 States and over 90% of Americans live under a system where their State Attorney General is elected directly by the People. 
+
+== History
+
+When our nation was founded (as is also true today), the Attorney General of England was an agent of the Crown, tasked with representing the Monarchy's interests in court.  footnote:[link:https://en.wikipedia.org/wiki/Attorney_General_for_England_and_Wales["England's Attorney General",, window=read-later,opts="noopener,nofollow"]]
+
+The framers had discussions over whether a "unitary executive," or a divided executive would be a better structure for the Executive branch of the US Government. 
+While many pointed out that a unitary executive was just a baby monarch-in-waiting, it was ultimately decided to create just such an executive. 
+This is why we have a single President and a Vice president elected nationwide. 
+
+However, at the time there were only four cabinet officers: Secretary of State, Secretary of Treasury, Secretary of War, and the Attorney General. 
+
+This demonstrates the limited nature of the Federal Government. 
+
+The position of the US Attorney General from the term of George Washington until after the Civil War was only to give legal advice to _both_ the President and Congress. 
+
+This is key: the founders only envisage that the Attorney General's job was to create legal opinion, *not* to enforce laws. footnote:[link:https://en.wikipedia.org/wiki/United_States_Attorney_General#History["History of the US Attorney General", window=read-later,opts="noopener,nofollow"]]  
+
+Prosecution of laws was done by US Attorneys. footnote:[Ibid]
+
+It was only after the Civil War, with the need to prosecute pervasive violations of civil rights by the former Confederate states with the compliancy of state governments, that the Department of Justice was formed and the Attorney General was placed in charge of the US Attorneys.
+At that time he was also re-elevated to a cabinet level position.  
+(He formerly was an officer in the Department of the Interior.) footnote:[link:https://en.wikipedia.org/wiki/United_States_Department_of_Justice#History["History of the US Justice Department." , window=read-later,opts="noopener,nofollow"]] 
+
+== Legal Frameworks
+
+The Attorney General and the Justice Department can be separated from the control of the President either with Statutory Law or with a Constitutional Amendment. 
+
+=== Statute
+
+It can be done by Statue because the office is not in the Constitution. 
+Both the Department of Justice and the position of Attorney General were created by statue: specifically, the Judiciary Act of 1789. footnote:[link:https://en.wikipedia.org/wiki/Judiciary_Act_of_1789["Judiciary Act of 1789.", window=read-later,opts="noopener,nofollow"]]
+
+Furthermore, the establishment of the Federal Reserve as an independent body also offers a constitutionally sound example of how separate the governing of the Justice Department from the Office of the President. 
+
+However, because of link:https://constitution.congress.gov/constitution/article-2/#article-2-section-2-clause-2["the Appointments Clause of the Constitution (Article II, Section 2, Clause 2)", window=read-later,opts="noopener,nofollow"]  the only avenue for separating appointment of the Attorney General from the President _without_ a Constitutional Amendment would be to "vest the Appointment of such inferior Officers, as they think proper... in the Courts of Law..." footnote:[link:https://en.wikipedia.org/wiki/Appointments_Clause["The Appointments Clause of the US Constitution.", window=read-later,opts="noopener,nofollow"]]
+
+This means that without a constitutional amendment, we cannot elect our Attorney General. 
+
+We therefore explore two statutory routes that can remove the Attorney General from control of the President: 
+
+A law to <</content/legislation_and_amendments/attorney_general_reform/attorney_general_as_justice_board.adoc#,replace the Attorney General with a Justice Board.>>
+
+A law to <</content/legislation_and_amendments/attorney_general_reform/attorney_general_court_appointed_reform.adoc#,have the Courts appoint the Attorney General.>>
+
+=== Constitutional Amendment
+
+The best solution may be to understand that the concept of three branches of government may have been flawed from the beginning. 
+
+It was an academic exercise first ascribed to the 18th century philosopher Montesquieu. footnote:[link:https://en.wikipedia.org/wiki/Montesquieu["Wikipedia article on Montesquieu.", window=read-later,opts="noopener,nofollow"]] 
+
+But it took the founding of the United States to bring this tripartite government concept into practice. 
+
+And it was only after our Civil War that created and empowered the Department of Justice as we know it today.  
+
+Also, consider that Montesquieu's analysis does not require that the Executive function as a "unitary executive," merely as a separate branch. 
+
+The long history and satisfactory examples of 43 states, governing 90% of Americans, is that electing an Attorney General is the best solution. 
+
+However, none of the state have a completely separate branch of government dedicated to Justice. 
+They merely have multi-part executives (often with four or five elected statewide officials, none of whom can be removed by the governor). 
+
+Therefore, Project Liberty 2029 proposes a <</content/legislation_and_amendments/attorney_general_reform/attorney_general_elected_constitutional_amendment.adoc#,Constitutional Amendment to establish an elected Attorney General and Deputy Attorney General>> who remains a part of the Executive branch. 
+
+If enacted, this will finally end the concept of a "unitary executive" in favor of a "team executive." 
+
+While this would be a massive shift --  it would double the number of nationally elected figures -- given the low esteem of all our branches of government, it may be the only viable means of restoring confidence in Justice for All. 

@@ -439,7 +439,7 @@ dl {
 
 ul,
 ol {
-  margin-left: 1.5em
+  margin-left: 1.5em /* Was 1.5em, VH changed to narrow the TOC */
 }
 
 ul li ul,
@@ -750,7 +750,9 @@ p a>code:hover {
 #footnotes,
 #footer {
   width: 100%;
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  margin-left: 30px;
+  margin-right: 20px;
   max-width: 62.5em;
   *zoom: 1;
   position: relative;
@@ -2219,7 +2221,7 @@ td.content,
 td.hdlist1,
 span.alt,
 summary {
-  font-size: 1.0625rem
+  font-size: 1.0rem /* Originally 1.0625rem */
 }
 
 p {

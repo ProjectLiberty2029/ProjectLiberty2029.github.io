@@ -4,7 +4,7 @@
 :imagesdir: /content/media/images/
 :page-liquid:
 :page-stage: 12
-:page-draft_complete: 75%
+:page-draft_complete: 100%
 :page-authors: Vector Hasting
 :page-todos:
 
@@ -12,12 +12,13 @@
 
 ++++
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1W5GTY78eFqT5wgxHTn95H?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1W5GTY78eFqT5wgxHTn95H?utm_source=generator&theme=0" width="320px" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ++++
 
 _Lyrics by Vector Hasting to the tune of "America The Beautiful" composed by link:https://en.wikipedia.org/wiki/Samuel_A._Ward["Samuel A. Ward",window=read-later,opts="noopener,nofollow"]_ +
-_link:https://en.wikipedia.org/wiki/America_the_Beautiful#Lyrics["Beginning lines",window=read-later,opts="noopener,nofollow"] from link:https://en.wikipedia.org/wiki/Katharine_Lee_Bates["Kathleen Lee Bate's",window=read-later,opts="noopener,nofollow"] first stanza in 1893, and the last lines from her 1904 version._
+_link:https://en.wikipedia.org/wiki/America_the_Beautiful#Lyrics["Beginning lines",window=read-later,opts="noopener,nofollow"] from link:https://en.wikipedia.org/wiki/Katharine_Lee_Bates["Kathleen Lee Bate's",window=read-later,opts="noopener,nofollow"] first stanza in 1893, and the last lines from her 1904 version._ +
+_Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_ 
 
 O beautiful, for spacious skies, +
 For amber waves of grain. +

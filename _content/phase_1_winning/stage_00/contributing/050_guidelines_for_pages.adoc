@@ -28,16 +28,16 @@ proposals here in the Project Liberty 2029 Wiki.
 ... Research published by a government and marked for general release with Public Domain status,
 ... Item to which you are the author, and a clear indication of your copyright ownership and your deeding it either to the Public Domain, or to a CC is included,
 ... Other works clearly marked as Creative Commons where your posting of them complies with the material's Creative Commons license. 
+. Also <</content/phase_1_winning/stage_00/stg00_010_defining_our_words.adoc#,consult our vocabulary terms.>>
 
 == Asciidoc Best Practices. 
 
 . Type one line per sentence.
 .. Use "Soft Wrap" inside your text editor to make this easier.
-. See link:/page_draft_status.html[Page Draft Status Guidelines] for how
+. See <</content/page_draft_status.adoc#,Page Draft Status Guidelines>> for how
 to fill in the front-matter attribute for :page-draft++_++complete:
-. See link:/content/contributing/060_sample_document.html[the Sample
-Document for explanations of the Asciidoctor Front Matter.]
-. See link:/content/stages_defined.html[the Stages Defined] for an
+. See <</content/phase_1_winning/stage_00/contributing/060_sample_document.adoc#,the Sample Document>> for explanations of the Asciidoctor Front Matter.
+. See <</content/phase_1_winning/stage_00/stg00_030_stages_defined.adoc#,Definintions of the Stages of Project Liberty 2029>> for an
 explanation of which Stage of Struggle your document may relate to.
 .. If you do not need your document to show in Stages of Struggle — for
 example, it may be a subdocument, like this one — then put "NoShow" for
@@ -54,20 +54,20 @@ title.
 Here is the collection of Contributing docs. 
 Feel free to contribute to Contributing!
 
-<</content/contributing/010_getting_started_contributing.adoc#,Getting Started Contributing.>>
+<</content/phase_1_winning/stage_00/contributing/010_getting_started_contributing.adoc#,If You Want to Help Improve These Pages.>>
 
-<</content/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
+<</content/phase_1_winning/stage_00/contributing/020_overview_of_the_environment.adoc#,Overview of the Environment.>>
 
-<</content/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
+<</content/phase_1_winning/stage_00/contributing/030_how_to_add_or_edit_pages.adoc#,Adding and Editing Pages on GitHub.>>
 
-<</content/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
+<</content/phase_1_winning/stage_00/contributing/040_how_to_publish_your_edits.adoc#,How to Publish Your Contributions.>>
 
-<</content/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
+<</content/phase_1_winning/stage_00/contributing/050_guidelines_for_pages.adoc#,Guidelines and Standards for Pages.>>
 (This document.)
 
-<</content/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
+<</content/phase_1_winning/stage_00/contributing/060_sample_document.adoc#,A Sample Document to Copy and Modify.>>
 
-<</content/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
+<</content/phase_1_winning/stage_00/contributing/070_faq.adoc#,FAQ: Frequently Asked Questions; and how to get more Help.>>
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
 

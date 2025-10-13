@@ -1,4 +1,4 @@
-# The Share ReadMe
+= The Share Landing Page
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/
@@ -9,19 +9,241 @@
 :page-todos: This is the landing page for The Share. There is a lot of material to link to from here. Set those up. Fix the image links. Have a more concise argument and inspiring argument here in this document. 
 :showtitle:
 
+++++
+<div class="music-embed">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7N3AEsCrrnkC2UTNhGkUI4?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+++++ 
+
+
+_"The Spirit that is born with us Endows us to stand tall, +
+with Rights Inalienable to Dignity for All. +
+The arc of history bends again, and we must heed the call, +
+    -- For Justice Marches On!"_ 
+
+_From <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ 
+
+== Links for The Share
+
+<</content/legislation_and_amendments/the_share/the_share_landing_page.adoc#,The Share Landing Page.>> +
+(This document)
+
+<</content/legislation_and_amendments/the_share/the_share_moral_argument.adoc#,The Share Moral Arguments in more detail.>>
+
+<</content/legislation_and_amendments/the_share/the_share_econ_analysis.adoc#,The Share economic analysis is here.>>
+
+<</content/legislation_and_amendments/the_share/the_share_legislation.adoc#,The Share legislation is here.>>
+
+== Overview
+
 Simple legislation for a Universal Basic Income (UBI) tied to the GDP and paid for by a Flat Tax. 
 UBI = Security
 Flat Tax = Justice
 Together, this is a blueprint for more equitable power sharing in Capitalist America. 
 
 
-image::by-sa.png[CC BY-SA, alt = "The Deed Shield", float=left]
-CC BY-SA Shield:
+== Why it is called "The Share?"
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+It is called "The Share" because it defines a fixed percentage of All Income in America and guarantees that income to all adult citizens. 
 
+This means that if income in America rises, people's Share payments will rise as well. 
 
-link:http://creativecommons.org/licenses/by-sa/4.0/["Online copy of the CC 4.0 BY-SA deed.", window=read-later,opts="noopener,nofollow"]
+This also means that if income in America falls, people's Share payments will fall as well. 
 
-Attribution: "Written by {{ page.authors }} for ProjectLiberty2029 and The Share and for restoring Liberty and Justice to America."
+== Is this a Universal Basic Income (UBI)?
+
+Yes.
+
+And it is also a system of taxation to pay for it. 
+
+And it is also a system to maintain the US Debt-to-GDP ratio at a sustainable level. 
+
+And it is also a system to make taxation Fairer to all Americans. 
+
+== How is this Fair?
+
+Humans have the capacity to know the answer to three questions about our condition: 
+
+. Do we have too little?
+. Do we have just enough?
+. Do we have more than enough?
+
+Consider your own experience: you know these things instinctively. 
+
+Take the example of breathing air. 
+It is an extreme example, but it makes the point: we instinctively know when our needs are being met. footnote:[While it is true that as you extend the question to more complex issues (do I have enough for groceries, for rent, for my retirement) our answers become less clear, it is still the case that you gauge a sense of stress when you consider each question. pass:[<br>]
+And through introspection, you will be able to assess where you stand on the continuum from 'not enough' to 'more than enough.']
+
+However, as human beings we cannot answer this question: 
+
+Do we have too much? 
+
+And this is a crucial question for us to answer to keep our society from falling prey to the cycles of destruction that come from those with too much preying on those who have too little. 
+
+The only way to prevent people from having too much is to prevent people from having too little. 
+
+The Share addresses the Income part of making sure no one has much because we insure that we raise everyone to the level of having just enough. footnote:[Of course, for political purposes we are in fact only raising US citizens to the level of having just enough. pass:[<br>]A benefit of the Share will be to make immigrants more appealing to every-day Americans, because citizens will instinctively know immigrants "will not replace them" because citizens have greater power by virtue of their Share. pass:[<br>]It is likely that citizens will be able to start small businesses at a greater rate because of the security the Share offers, which will spread the appreciation for having legal and respected immigrants as potential employees.]
+
+The Wealth Gap Tax will address the Accumulated Wealth part of making sure that no one has too much.
+
+== How much is that to each person?
+
+It would start at same amount as a full time job making $10 an hour.
+
+It will be paid twice a month. 
+
+We use the $10 an hour figure because that is about what the national minimum wage would be today if it had adjusted for inflation from the time it was created. 
+
+That minimum wage was the answer to the question of what people need from working: what is just enough.
+
+But as the total of All Incomes rises or falls, the amount of the Share in dollars to each person will rise or fall because it it based on a fixed percentage. 
+
+That Share Percentage is slightly less than one-one-billionth. 
+It will be calculated at the time the Share goes into effect. 
+
+The Share Percentage will be a constant, and it has its own symbol: .
+
+== How much will that cost the economy?
+
+5% of GDP. 
+
+Analysis predicts that money will create additional economic growth of 2.5% per year by filling un-met needs in the economy. 
+Over time, the economy will grow faster than The Share. 
+
+Therefore, in the end, it will create a foundation for a more secure economy for everyone. 
+
+The un-met needs in the economic analysis are things like: food security, health care security, child care services, etc.. 
+
+By helping to satisfying basic needs, especially for those nearer the bottom of the economy, it creates more demand which creates more supply, which increases the economy from the bottom. 
+
+That previous sentence is a wonky, data-driven, economic modeling assessment. 
+
+Personal experience should match this: when we are poor we cannot spend. 
+The 5% of GDP that is redistributed will benefit those at the bottom the most, and they are the most likely to spend it all. 
+Therefore, we should expect more economic activity, and this activity should drive supply as well as demand, keeping inflation down and growth up. 
+
+This is exactly what economists have found. 
+
+== Won't my taxes go up?
+
+80% of Americans do better financially under this plan. 
+
+It's like a Costco membership: there's a higher cost to shop, but you save money in the end. 
+
+Similarly, yes taxes will go up for many (they come down for a few), but because you are getting money back every month, one has to compare total after-tax income before and after The Share. 
+
+That analysis show the advantage for 80% of Americans, year in and year out. 
+
+Taxes will be paid on All Income at the fairest rate possible: an equal rate on all. 
+
+That is proposed to start at 34%. There is a special symbol for it: the tax rate: .
+
+The tax rate will be adjusted automatically every year to avoid it becoming an unnecessary burden, or from it becoming a dangerously insufficient tax rate. 
+The mechanism is described in the detail in the legislation. 
+In summary: if the Debt-to-GDP ratio of the US is greater than 100%, then the tax rate will rise slightly. 
+If the debt ratio is less than 100%, then the tax rate will lower slightly. 
+
+Projections are for the rate to hover at 34%.
+
+This Fair Tax Rate replaces all other taxes on income: the Payroll Tax (which is a flat rate on payroll of 15.3% footnote:[Half of this is "paid" by employers, but this means that pay has been decreased by that amount. The legislation insures that money formerly paid as "employer payroll tax" will be converted back to wages, before being taxed. This is a net-zero impact to the employer, and for the employee, it (plus the Share payments themselves) compensate for the higher tax rate.]), the progressive Income Tax Rate, and all Capital Gains rates. 
+
+Americans in the upper 20% of earners will have progressively higher disadvantage under this plan. 
+
+However, the sustainability of our entire society has a benefit which a significant portion of these higher educated, higher earners will appreciate. 
+
+And in the end, there is a clear argument: isn't it the moral thing to do to have an economic policy that directly improves the lives of 80% of Americans? 
+
+== Won't this spark inflation?
+
+No. 
+
+Economic analysis, and to a large extent common sense, argue that it will not. 
+
+The common sense reason this won't cause inflation is that it is paid for: we are not borrowing the money from the future.
+
+In the past, we have understood a cost of social subsidies to include because the subsidies increase demand before the economy has grown the necessary supply. 
+If we didn't borrow money from the future, the demand would build more slowly and in concert with the capacity of the economy to fill it. 
+
+But with the Share, we are not subsidizing society: we are redistributing a small portion from the highest earners to lower earners. 
+
+The imbalance in our current system is so extreme, that this redistribution is only 5% of the overall economy, yet 80% of Americans do better with it. 
+
+== Isn't this Communism
+
+No.
+
+In fact, it is a cure for Capitalism. 
+
+A key foundational principle of Capitalism is that finding a proper price for anything requires a "Free Market."
+
+In this meaning, a Free Market is not actually 'free' of regulation. footnote:[In fact, it depends heavily on law and regulations to function. People who participate in a market must have confidence that contracts for buying and selling will be honored. This requires standards (like weights and measures) and courts (with a police force behind them).]
+
+A Free Market means people are free to participate or not. 
+
+You understand this intuitively: when you haggle at a flea market, you are free to walk away from the deal, as is the seller.
+
+The problem that Capitalism has created over thousands of years is that people are no longer free to walk away from employment. 
+
+In the long ago, people could move out of the city and make a living hunting and gathering. 
+Or in the even longer ago, there were no cities, and we were free to switch communities and relocate whole tribes in our hunting and gathering existence. 
+
+But for a long time none of these options are possible. 
+
+By insuring that a Fair Tax on All Income provides a bare minimum to all citizens, the Share will create a Free Market for Labor.
+
+== Won't Free Money make people lazy?
+
+It is not Free Money.
+
+It is a social contract that says no one should have too little.  so that we can insure that no one has too much. 
+
+Research shows this is not the case. 
+
+Consider your own calculation: what will you do with The Share? 
+Even if you spend it on things others might think of a frivolous, that makes you a customer of someone. 
+That means you've added to our GDP in a way you wouldn't have before. 
+
+== Isn't an Equal Tax Rate Regressive?
+
+In concept, one could have a Share with a progressive tax rate. 
+
+To define the concept clearly: a progressive rate is the kind of Income Tax we have today: those with lower incomes pay less on their incomes than those who make more. 
+
+This is called "Progressive" and has two meanings: +
+. the rate becomes "progressively higher" the more you make, and
+. by shielding the poor from taxes that would harm them more than higher earners with less disposable income, we are "progressing" toward a fairer society. 
+
+The problem with the progressive rate is one of fairness. 
+
+The well-off have spent a long time nursing a grievance that they pay more than others in taxes. 
+Their argument is that not only do they pay a higher progressive tax rate, but they pay a higher quantity of taxes (because they make more).
+
+One can debate the fairness of progressive rates against the unfairness of wealth accumulation, but in the end, people will apply their political power to protecting their interests regardless of logical argument. 
+
+The wealthy and relatively wealthy have proven themselves much better than the rest of us an preserving the financial advantages. 
+
+One of the key methods they use is to manipulate the tax code in order to _in fact_ pay on average a much _lower_ tax rate than regular wage-earners. 
+
+To start with, those who make money from investments, capital gains, dividends, etc, do not pay the Payroll Tax, which means their tax rate starts 15% lower than working people. 
+
+These tricks have built up over time, and we should expect them to attempt to rebuild them once The Share is enacted. 
+
+That is why the Tax Rate must be an equal one: simplicity is a vital shield against manipulation. 
+
+== Why all these symbols?
+
+The Share will mark a new Social Contract. 
+
+But that will not be the end of needing to defend it. 
+Alaska had a universal basic income that lasted a very long time without anyone touching it. 
+
+But in the end, they raided those funds. 
+For good causes, like education, of course.
+
+These symbols mark definitions that everyone needs to be aware must not be tampered with or they will affect The Share, or the fate of our national debt, which will eventually affect The Share. 
+
+   Tax Rate (a regular percent) +
+   Debt Target (a ratio of Debt/GDP) +
+   Adjustment Rate (a regular percentage) +
+   Share Percentage (a regular percentage that will be divided by one-billion) +
+   Share Amount (in dollars) 
