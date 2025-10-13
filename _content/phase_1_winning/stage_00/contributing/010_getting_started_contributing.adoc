@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = If You Want to Help Improve These Pages
 :doctype: book
 :table-caption: Data Set

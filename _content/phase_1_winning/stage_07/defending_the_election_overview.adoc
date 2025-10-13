@@ -1,4 +1,7 @@
-# Defending the Election Overview
+---
+sort_number: 010
+---
+= Defending the Election Overview
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/
@@ -9,7 +12,7 @@
 :page-todos: Complete this
 :showtitle:
 
-## Overview
+== Overview
 
 This document and section of ProjectLiberty2029 assumes we will win both Popular and Electoral vote counts on Nov 7, 2028.  It is probable that the margin of victory will be large. 
 

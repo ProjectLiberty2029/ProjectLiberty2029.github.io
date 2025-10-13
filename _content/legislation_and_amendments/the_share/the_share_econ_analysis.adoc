@@ -1,3 +1,6 @@
+---
+sort_number: 040
+---
 = The Share: Economic Analysis
 :doctype: book
 :table-caption: Data Set

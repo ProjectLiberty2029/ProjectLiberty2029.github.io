@@ -1,3 +1,6 @@
+---
+sort_number: 100
+---
 # Banishment and Probation Rooms
 :doctype: book
 :table-caption: Data Set

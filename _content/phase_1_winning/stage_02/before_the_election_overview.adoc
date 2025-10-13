@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 # Before the 2028 Presidential Election
 :doctype: book
 :table-caption: Data Set

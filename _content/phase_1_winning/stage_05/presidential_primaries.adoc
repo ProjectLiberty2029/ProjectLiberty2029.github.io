@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = Presidential Primaries
 :doctype: book
 :table-caption: Data Set
@@ -9,7 +12,7 @@
 :page-todos: Research the republican coalition composition. Flesh out the perils. Footnote and document assertions.
 :showtitle:
 
-= Defending against Regime influence of Presidential Primaries
+== Defending against Regime influence of Presidential Primaries
 
 During the primaries, from January 2028 and June 2028, there will be unique concerns. 
 

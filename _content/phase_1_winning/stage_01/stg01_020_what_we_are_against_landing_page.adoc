@@ -1,4 +1,7 @@
-# Say What We Are Against
+---
+sort_number: 020
+---
+= Say What We Are Against
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/

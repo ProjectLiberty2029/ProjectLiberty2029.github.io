@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = Attorney General Reform: Elected
 :doctype: book
 :table-caption: Data Set

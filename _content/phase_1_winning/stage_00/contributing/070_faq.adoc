@@ -1,3 +1,6 @@
+---
+sort_number: 070
+---
 = FAQ for Making Contributions
 :doctype: book
 :table-caption: Data Set

@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = The Inescapable Logic of Our Political Parties 
 :doctype: book
 :table-caption: Data Set

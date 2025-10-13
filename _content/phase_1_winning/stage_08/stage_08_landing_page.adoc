@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = January 3rd Concerns
 :doctype: book
 :table-caption: Data Set

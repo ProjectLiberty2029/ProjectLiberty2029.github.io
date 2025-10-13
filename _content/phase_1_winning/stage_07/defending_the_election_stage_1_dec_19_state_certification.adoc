@@ -1,4 +1,7 @@
-# Defending the Election: Stage 1: Dec 19 Certification
+---
+sort_number: 030
+---
+= Defending the Election: Stage 1: Dec 19 Certification
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/
@@ -10,7 +13,7 @@
 :showtitle:
 
 
-## State Certification
+== State Certification
 
 There will probably be many more states in play in the 2028 election than there were in the 2024 election. 
 

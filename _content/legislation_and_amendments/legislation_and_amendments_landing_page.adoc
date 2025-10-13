@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 # Legislation and Constitutional Amendments
 :doctype: book
 :table-caption: Data Set

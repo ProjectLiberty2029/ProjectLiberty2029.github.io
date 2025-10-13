@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = Lyrics to: Yankee Doodle Went to Vote
 :doctype: book
 :table-caption: Data Set

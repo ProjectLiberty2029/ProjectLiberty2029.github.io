@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = The Share: Moral Argument
 :doctype: book
 :table-caption: Data Set

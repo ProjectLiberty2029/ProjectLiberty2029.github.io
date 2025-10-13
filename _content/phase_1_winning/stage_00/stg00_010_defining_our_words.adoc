@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = Defining our Words
 :doctype: book
 :table-caption: Data Set

@@ -1,3 +1,6 @@
+---
+sort_number: 030
+---
 = Adding and Editing Pages on GitHub
 :doctype: book
 :table-caption: Data Set

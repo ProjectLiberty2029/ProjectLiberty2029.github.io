@@ -1,4 +1,7 @@
-# Defending the Election, Stage 1: DC and the National Guard
+---
+sort_number: 020
+---
+= Defending the Election, Stage 1: DC and the National Guard
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/

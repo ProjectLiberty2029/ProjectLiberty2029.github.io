@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = Voting Rights For America Landing Page
 :doctype: book
 :table-caption: Data Set

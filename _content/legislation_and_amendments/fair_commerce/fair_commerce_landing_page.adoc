@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = Fair Commerce Landing Page
 :doctype: book
 :table-caption: Data Set

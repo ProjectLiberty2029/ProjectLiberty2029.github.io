@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = Getting Elected Landing Page
 :doctype: book
 :table-caption: Data Set

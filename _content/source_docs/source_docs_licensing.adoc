@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 # Source Docs Licensing
 
 Wherever possible, we have striven to use source documents in the public domain. 

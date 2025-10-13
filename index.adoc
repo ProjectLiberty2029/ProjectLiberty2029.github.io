@@ -119,7 +119,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
         like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
       {% endcomment %}
       {% assign p1_stage_docs = site.content | where: "stage", p1_stages.name %}
-      {% assign p1_sorted_stage_docs = p1_stage_docs | sort_natural: "document.name" %}
+      {% assign p1_sorted_stage_docs = p1_stage_docs | sort: "sort_number" %}
 
       {% for document in p1_sorted_stage_docs %}
         <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
@@ -188,7 +188,7 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
         like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
       {% endcomment %}
       {% assign p2_stage_docs = site.content | where: "stage", p2_stages.name %}
-      {% assign p2_sorted_stage_docs = p2_stage_docs | sort_natural: "document.name" %}
+      {% assign p2_sorted_stage_docs = p2_stage_docs | sort: "sort_number" %}
 
       {% for document in p2_sorted_stage_docs %}
         <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
@@ -251,13 +251,13 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
         Now we use the "| where: " clause to select from all documents by the
         :page-stage: attribute equal to the "name" which is coming from the 
         for stages in sorted_stages loop that we're iterating. At that point, in
-        that collection, we have access to all the front-matter attributs, which
+        that collection, we have access to all the front-matter attributes, which
         then includes "title." We can then sort by basename, which is filename.
         This allows us to have documents appear in order as to their filenames,
         like 010_ThingOne, 020_AnotherThing, regardless of the logical title for them.
       {% endcomment %}
       {% assign px_stage_docs = site.content | where: "stage", px_stages.name %}
-      {% assign px_sorted_stage_docs = px_stage_docs | sort_natural: "document.name" %}
+      {% assign px_sorted_stage_docs = px_stage_docs | sort: "sort_number" %}
 
       {% for document in px_sorted_stage_docs %}
         <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>

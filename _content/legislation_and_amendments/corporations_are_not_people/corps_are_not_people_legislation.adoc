@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = Corporations are Not People Amendment
 :doctype: book
 :table-caption: Data Set

@@ -1,3 +1,6 @@
+---
+sort_number: 030
+---
 = The Share: Legislation
 :doctype: book
 :table-caption: Data Set

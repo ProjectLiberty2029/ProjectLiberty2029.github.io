@@ -1,3 +1,6 @@
+---
+sort_number: 030
+---
 = Replacing ICE
 :doctype: book
 :table-caption: Data Set

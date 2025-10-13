@@ -1,4 +1,7 @@
-# Military Priorities
+---
+sort_number: 020
+---
+= Military Priorities
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /Media/Images/
@@ -9,12 +12,12 @@
 :page-todos: Finish fleshing out the overview of needed improvements to the US Military with a focus on non-traditional ways to use its resrouces to solve problems like Global Warming, and failed states. 
 :showtitle:
 
-## Summary
+== Summary
 The military must quickly adapt to and answer the following threats for which it has not been prepared by history nor by the regime of DJT, MAGA, and Project 2025 (the MAGA regime).
 
 These priorities form part of the goals of TRP2029 and PG2029.
 
-## Specific Focus on Climate Change
+== Specific Focus on Climate Change
 
 Specifically, Climate Change must be addressed as rapidly as possible. 
 
@@ -22,7 +25,7 @@ The MAGA regime did great damage to the US and World progress against the effect
 
 Due to these losses, the Because of time, direction, and human resources lost during the MAGA regime, the previous trajectory of using the 'soft power' of economic policy will be insufficient to preserve the United States through the sea-level rise 
 
-## General List of Unmet priorities:
+== General List of Unmet priorities:
 [1-a]
 . Means to counter the activities of Foreign adversaries:
 .. Political and influence attacks on the networks which the United States and her allies depend upon. These attacks are primarily in the form of funding and services for nations which are on the periphery of Western Alliances. footnote:[Need to have a list of these countries, like Venezuela, etc.] 
@@ -51,7 +54,7 @@ Due to these losses, the Because of time, direction, and human resources lost du
 . Means to mitigate Climate Change:
 .. 
 
-## Recommended Actions to Address Unmet Priorities
+== Recommended Actions to Address Unmet Priorities
 
 Means to address the items listed above under <<general_list_of_unmet_priorities, Unmet Priorities>>:
 [1-a]

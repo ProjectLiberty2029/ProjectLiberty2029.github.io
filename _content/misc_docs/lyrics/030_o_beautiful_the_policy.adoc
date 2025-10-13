@@ -1,3 +1,6 @@
+---
+sort_number: 030
+---
 # Lyrics to: O Beautiful, The Policy
 :doctype: book
 :table-caption: Data Set

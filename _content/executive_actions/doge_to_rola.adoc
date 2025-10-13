@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = Rename DOGE to ROLA
 :doctype: book
 :table-caption: Data Set

@@ -1,3 +1,6 @@
+---
+sort_number: 030
+---
 # Definitions of the Stages of Project Liberty 2029
 :doctype: book
 :table-caption: Data Set

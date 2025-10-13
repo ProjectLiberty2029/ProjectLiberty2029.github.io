@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = January 6th Concerns
 :doctype: book
 :table-caption: Data Set

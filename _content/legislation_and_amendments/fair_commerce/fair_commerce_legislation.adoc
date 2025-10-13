@@ -1,3 +1,6 @@
+---
+sort_number: 020
+---
 = Fair Commerce Legislation
 :doctype: book
 :table-caption: Data Set

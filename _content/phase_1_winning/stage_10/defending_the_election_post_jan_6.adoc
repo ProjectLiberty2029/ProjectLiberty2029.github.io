@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 # Defending the Election Post Jan 6th
 :doctype: book
 :table-caption: Data Set

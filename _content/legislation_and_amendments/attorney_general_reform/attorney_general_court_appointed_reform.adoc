@@ -1,3 +1,6 @@
+---
+sort_number: 030
+---
 = Attorney General Reform: Court Appointment
 :doctype: book
 :table-caption: Data Set

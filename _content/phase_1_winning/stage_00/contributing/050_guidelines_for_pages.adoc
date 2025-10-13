@@ -1,3 +1,6 @@
+---
+sort_number: 050
+---
 = Guidelines and Standards for Pages.
 :doctype: book
 :table-caption: Data Set

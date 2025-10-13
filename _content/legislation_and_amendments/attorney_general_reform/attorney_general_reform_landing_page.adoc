@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = Attorney General Reform: General Landing Page
 :doctype: book
 :table-caption: Data Set

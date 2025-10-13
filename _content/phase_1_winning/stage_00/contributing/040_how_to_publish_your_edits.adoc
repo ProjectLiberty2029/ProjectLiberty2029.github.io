@@ -1,3 +1,6 @@
+---
+sort_number: 040
+---
 = How to Publish Your Contributions.
 :doctype: book
 :table-caption: Data Set

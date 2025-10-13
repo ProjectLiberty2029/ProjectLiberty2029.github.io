@@ -1,4 +1,4 @@
-# Possible Cabinet Appointees
+= Possible Cabinet Appointees
 :doctype: book
 :table-caption: Data Set
 :imagesdir: /content/media/images/
@@ -9,17 +9,17 @@
 :page-todos: Complete this. It means adding potential names (more the better) for each of the cabinet-level agencies. The most important to get early to give a sense of where this plan is envisioning the government heading are Secretary of State (international affairs), Secretary of Defense (military), Secretary of Homeland Security (reforming ICE and border protection, etc), and Attorney General (how to reestablish Justice). The next tier to attack are Secretary of Treasure (finance), Secretary of Commerce (business), and Director of ROLA (Formerly DOGE, Formerly US Digital Services)
 :showtitle:
 
-## SUMMARY
+== SUMMARY
 While it is not possible to name exact, final appointees, it may be a useful exercise to discuss publicly the sorts of out-of-the-box choices a PG2029 appointment process will require. 
 
-## Vice President
+=== Vice President
 While elected, our process allows the Presidential candidate to effectively install the Vice President of their choice. +
 
 This choice must be whoever seems most likely to help win the General Election. +
 
 "Chemistry" with the Presidential candidate and with the Democratic Party needs to be a secondary concern.  
 
-## Secretary of State:
+=== Secretary of State:
 Top Choice: Former President Barack Obama: 
 
 The primary disadvantages of his selection will include the following:
@@ -36,14 +36,26 @@ The primary advantages of his selection will include the following:
 .. Either as irrelevant because they might be questioning previous domestic policies, or
 .. as requiring closed-door answers because of sensitivity of the material: practically any area of difficult questioning can be handled in this way.
 
+=== Secretary of Defense:
 
+General Milley?
 
-## Secretary of Defense:
+=== Attorney General:
 
+Letitia James?
 
-## Attorney General:
+Alvin Bragg?
 
-## Secretary of Commerce
+Jack Smith?
 
-## Head of ROLA (formerly DOGE)
+=== Secretary of Commerce
+
+Pete Buttigieg?
+
+=== Head of ROLA (formerly DOGE)
+
+Pete Buttigieg?
+
+Gavin Newsome?
+
 

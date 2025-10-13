@@ -1,3 +1,6 @@
+---
+sort_number: 010
+---
 = 119th Congress Lame Duck Session Dangers
 :doctype: book
 :table-caption: Data Set
@@ -9,7 +12,7 @@
 :page-todos: Make the "Plan B(a)" and "Plan C" point to my substack essay that explores this. Add additional links to Before the Midterms action documents.  
 :showtitle:
 
-= Who will be seated in the new congress?
+== Who will be seated in the new congress?
 
 There is a danger that the MAGA regime will not honor the Will of the People during the 2026 midterm elections. 
 link:https://www.thebulwark.com/p/dirty-procedural-move-house-republicans-election-denial-2026-midterms["This article on the Bulwark Substack," , window=read-later,opts="noopener,nofollow"] explores this topic in detail.

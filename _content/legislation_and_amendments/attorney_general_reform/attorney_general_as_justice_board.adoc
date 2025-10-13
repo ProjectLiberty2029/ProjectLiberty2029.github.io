@@ -1,3 +1,6 @@
+---
+sort_number: 040
+---
 = Attorney General Reform: Justice Board
 :doctype: book
 :table-caption: Data Set

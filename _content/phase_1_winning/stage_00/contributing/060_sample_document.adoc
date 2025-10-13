@@ -1,3 +1,6 @@
+---
+sort_number: 060
+---
 = A Sample Document to Copy and Modify
 :doctype: book
 :table-caption: Data Set
@@ -17,7 +20,16 @@ You can cut and paste from inside this document to do most things.
 
 == Front matter
 
-All Asciidocs must start with an = followed by the Document Title. 
+In our Jekyll-builds-html-from-Asciidoc environment, the first lines on all our documents will be the _Jekyll front matter block._
+
+This block starts and ends with three dashes: "---" . 
+Between the dashes is a named variable: "sort_number:" which is followed by a number. 
+This number governs how the document will sort within a stage on the front page. 
+
+If you don't need this number, it is best to give it a number like zero. 
+
+The next piec of front matter is the Asciidoc block. 
+All Asciidocs must have the first line (after the Jekyll front-matter block) start with an = followed by the Document Title. 
 In this document, that looks like "= A Sample Document to Copy and Modify"
 
 The very next line begins a bunch of special words that are in the form of :showtitle: or :page-authors: and so forth. These are called *document attributes.*
@@ -25,6 +37,8 @@ The very next line begins a bunch of special words that are in the form of :show
 All the documents in this project should have at least the document attributes included with this document with one exception. 
 That exception is the :showtitle: attribute: it is a personal preference whether you want it to display at the top of your pages. 
 However, because the '= Document Title' _is still required,_ it will always display on the Wiki homepage.
+
+Additionally, 
 
 Here are the other document attributes and what they do for us:
 
@@ -42,6 +56,7 @@ the document to automatically appear in the "Staged Needs" section of the index 
 . *Optional*- including or excluding will change your page layout
 .. :showtitle: If this attribute is present, the document title displays at the top. If you remove it, the document title will not display on the page, but the homepage will still show the document title in the clickable list of all documents.
 .. ":page-custom_nesting: law-nesting"  If this element is there (do not include the quotes) then the document will have the nested order listing behavior of Federal Legislation (ie, (a) (1) (A) (i)) 
+.. "sort_number: 000" If this element is at the beginning of a document, with three lines on the line before and after it
 
 == Headers Requirements
 
