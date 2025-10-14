@@ -5,10 +5,18 @@
 <html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
 <head>
     <meta charset="utf-8">
+    <!-- Query the viewport for adaptive displays-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Page ID for search engines. (I think?) -->
     <title>{{page.title}}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="ProjectLiberty2029 is founded by Vector Hasting">
+    <!-- Open Graph for other websites to generate summaries and thumbnails -->
+    <meta property="og:title" content="ProjectLiberty2029" />
+    <meta property="og:description" content="{{ site.description | remove: "<br>" }}" />
+    <meta property="og:image" content="https://projectliberty2029.info/content/media/images/misc/eagleandflag_for_opengraph1.png" />
+    <meta property="og:url" content="https://projectliberty2029.info" />
+    <!-- Stylesheets and javascript for proper display and functioning -->
     <!-- <link rel="stylesheet" href="/css/foundation_PL2029.css">      -->
     <link rel="stylesheet" href="/content/media/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
     <!-- <link rel="stylesheet" href="/css/coderay.css">                -->
