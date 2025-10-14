@@ -23,7 +23,8 @@ envisioning a future that improves for you and me.  +
 As they died to raise us higher, let us live to see us free, +
     -- For Justice Marches On!"_ 
 
-_From <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ 
+_Lyrics by Vector Hasting, from <</content/misc_docs/lyrics/010_battle_hymn_for_fair_and_share.adoc#,Lyrics to The Battle Hymn for Fair And Share.>>_ +
+_Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noopener,nofollow"]_
 
 == Links for The Share
 

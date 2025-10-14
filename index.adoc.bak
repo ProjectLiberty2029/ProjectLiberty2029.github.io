@@ -353,10 +353,10 @@ This is sorted by 10 stages between when this project began in Summer 2025 and J
     {%- endif -%}
   {%- endfor -%}
   
-  {%- comment -%}This last endcomment has some strange characteristic: removing it  causes errors. {%- endcomment  %}
+  {%- comment -%}This last endcomment has some strange characteristic: removing it  causes errors. {%- endcomment  -%}
 
 ++++
-// Something about that strange endcomment is also causing there to be no line, so we add it back here. 
+
 {empty}
 
 ***
