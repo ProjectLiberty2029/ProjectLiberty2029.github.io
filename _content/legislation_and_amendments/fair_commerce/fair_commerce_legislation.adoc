@@ -103,9 +103,9 @@ Sec.
 
 . In General: By enacting the Fair Capitalism Act, Congress intends to cure an exploitation that has corrupted the heart of Capitalism in order that Free and Fair Capitalism may replace the old unfair and exploitative capitalism, and birth a new era of fair prosperity for all Americans. 
 . In Specific: 
-.. Congress understands the cause of unfair business practices in Capitalism has been that fiduciaries have had a duty only to their beneficiaries, and not also to the larger community of stakeholders. 
-.. The lack of a duty to do no harm has led to unfair profits that arise from shifting costs to America, to the People of America, to the Treasury of America, and to the Allies and trading partners of America. 
-.. That shifting of costs cannot be sustained over centuries by any human society. 
+.. Congress understands one cause of unfair business practices in Capitalism has been that fiduciaries have had a duty only to their beneficiaries, and not also to the larger community of stakeholders. 
+.. The lack of a duty to extend good faith and fair dealing to all stakeholders has led to unfair profits that arise from shifting costs to the People of the United States, to the Treasury, to the Nation as a whole, and to the Allies and trading partners of the United States. 
+.. That shifting of costs cannot be sustained over centuries by any human society and if left unchecked shall lead to the ruin of the United States through the breakdown of faith in Free Commerce. 
 .. Therefore the Congress of the United States enacts this Fair Capitalism Act to steer America and the World away from such ruin. 
 . Authority: Congress asserts its authority under the Constitution, Article I, Section 8, Clause 3, and its other authorities, to enumerate a legally binding definition of Fiduciary Duty.
 . Applicability: Wherever in law there is reference to Fiduciary Duty, or to a Fiduciary and their duties, that duty shall be understood to conform to the definition in section 10002 of this chapter in addition to any other definitions elsewhere in law or practice. 
@@ -116,12 +116,11 @@ Sec.
 . A Beneficiary, or a Principal, or an Investor, is any person or entity that entrusts assets of value to a Fiduciary. 
 . A Fiduciary shall have three major duties: 
 .. Duty of Loyalty: A Fiduciary shall place the interests of the Beneficiary above their own interests.
-.. Duty of No Harm: A fiduciary shall not make decisions that harm stakeholder value and shall use all reasonable diligence and prudence to avoid such decisions. 
-.. Duty of Care: A fiduciary shall make decisions that pursue the interests of the Beneficiary and shall do so with all reasonable diligence and prudence so long as they do not violate the fiduciary’s Duty of No Harm, or duty of Loyalty. 
+.. Duty of Fairness: A fiduciary shall not make decisions that violate good faith and fair dealing to stakeholders and shall use all reasonable diligence and prudence to avoid such decisions. 
+.. Duty of Care: A fiduciary shall make decisions that pursue the interests of the Beneficiary and shall do so with all reasonable diligence and prudence so long as they do not violate the fiduciary’s Duty of Loyalty, or duty of Fairness. 
 . A Stakeholder is a person or entity impacted by the effects of decisions made by a Fiduciary where the Fiduciary’s decisions have a cause and effect relationship that could be foreseen by reasonable and prudent analysis at the time of the decision. 
 
-
-=== Section 10003 — Contracts
+=== Section 10003 — Protecting Contracts from Enforcement
 
 . Any contract which existed before the enactment of the Fair Commerce Act which violates the new definition of Fiduciary Duty shall remain in effect, and shall not be subject to enforcement actions under section 10004, subject to the following: 
 .. The contract must have a termination date no later than ten years after the date of enactment of the Fair Commerce Act, 
@@ -133,10 +132,10 @@ Sec.
 ... No enforcement action under section 10004 may begin if the contract is renegotiated to bring it into compliance with section 10002 within five years after enactment of the Fair Commerce Act.
 .. In order to protect the interests of stakeholders, the statue of limitations for such contracts is extended as described in section 10005.
 .. In order to encourage the rewinding of contracts in accordance with these new Fiduciary Duties, damages under section 10004 may be tolled beginning with the date one year after enactment of the Fair Commerce Act. 
-. After enactment of the Fair Commerce Act, no contract that violates section10002 may have any termination date extended through renegotiation or other changes in the contract. 
+. After enactment of the Fair Commerce Act, no contract that violates section 10002 may have any termination date extended through renegotiation or other changes in the contract. 
 . Contracts may extend the Statute of Limitation for Fiduciary liability specified in section 10005 subject to the following restrictions:
 .. Such a date may not exceed fifteen years from the decision date of the fiduciary,
-.. There shall not be separate dates for the protection of Stakeholders and Beneficiaries. 
+.. There shall not be any language with the effect of separating any liability to Duty of Loyalty, Duty of Fairness, and Duty of Care as defined in section 10001.
 
 === Section 10004 — Civil enforcement and private right of action
 
@@ -145,7 +144,6 @@ Sec.
 . Relation to other laws 
 .. The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this chapter shall supersede, restrict, or limit the application of any other title of US law including this title 15. 
 .. Nothing in this chapter authorizes or requires conduct that is prohibited by title 15 or any other title of US law. 
-
 
 === Section 10005 — Statute of Limitations
 
@@ -167,7 +165,7 @@ Sec.
 .. The new rules of Fiduciary Duty shall apply to the production potential damage assessments
 .. Such reports must be made public by the Secretary, 
 .. Such indications of potential damages shall not be admissible in any court of law as an admission by the Fiduciary or related beneficiaries of the actual damage amount under any enforcement action under section 10004, 
-.. Such indications of potential damages may be admissible in any court of law as evidence in assessing whether a Fiduciary has met their responsibility of Duty to No Harm as defined in section 10002 (c) (2). 
+.. Such indications of potential damages may be admissible in any court of law as evidence in assessing whether a Fiduciary has met their responsibility of Duty of Fairness as defined in section 10002 (c) (2). 
 
 === Section 10007 — Separability
 

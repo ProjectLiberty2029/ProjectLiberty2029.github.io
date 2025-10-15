@@ -213,16 +213,17 @@ Not to do so would be to expose the fiduciary to legal jeopardy, because another
 Take an example: 
 
 [#example_01]
-. If a beneficiary invests in a waste disposal company, then one of the issues the company will have is disposing of some items in the waste stream that are toxic. 
-. The fiduciary can seek bids on contracts to take the toxic wastes away. 
-. The fiduciary must do due diligence in understanding the implications of those contracts in order to satisfy the fiduciary's "duty of care" to their investor. 
-. The fiduciary would therefore reasonably suspect that the lowest bidder was necessarily disposing of the toxic waste in an unregulated and probably harmful way. 
-. However, there we find the problem: in keeping with the fiduciary's limited responsibility to only consider the value for the beneficiary, the fiduciary is constrained to do the following: 
-.. They must try to get the lower price from the dodgy disposal vendor, 
-.. They must insure that any liabilities for illegal dumping are borne by the disposal vendor in the contract with that vendor. 
-. As long as the fiduciary can obtain both of those results, then he is compelled to go with the illegally dumping vendor because otherwise he is not getting the best return for his investor. 
+. Suppose a beneficiary invests in a manufacturing company that creates a small amount of toxic waste.
+. The fiduciary can seek bids on contracts to take away the toxic wastes and dispose of them. 
+. The fiduciary must do due diligence in understanding the implications of those contracts in order to satisfy the fiduciary's "duty of care" to their investor. Failure to do so might result in signing a contract that would become a burden for the benficiaries company if, for example, collection of the toxic waste became untimely because the contracted waste disposal company over-promised and could not sustain their commitment. 
+. If the lowest bidder was using a harmful method of disposing of the toxic waste in order to save costs, or if their explanations in their bid for the contract were vague on this point, the fiduciary would reasonably suspect that the lowest bidder was necessarily disposing of the toxic waste in an unregulated and probably harmful way. 
+. In either case, a prudent fiduciary would learn of the business practice of the lowest bidder that is manifestly unfair to some community somewhere that would be impacted by the toxic waste produced by the beneficiary's company. 
+. However, here we find the problem: in keeping with the fiduciary's limited responsibility to only consider the value for the beneficiary, the fiduciary is constrained to do the following: 
+.. They must try to get the lower price from the dodgy disposal vendor because this lower cost is in the interest of the beneficary's profits, if, and only if, 
+.. They must insure that in the contract with the disposal vendor any liabilities for illegal dumping, or lawsuits by stakeholders exposed to the beneficiary's toxic waste will be borne by the disposal vendor. 
+. As long as the fiduciary can obtain both of those results, then he is compelled to go with the harmfully dumping vendor because otherwise he is not getting the best return for his investor. 
 
-The fix is to rethink the scope of fiduciary responsibility.
+The fix we propose is to expand the scope of fiduciary responsibility.
 
 Even though fiduciary responsibility is an ancient legal principle of common law, it is still created by thought and paper. 
 
@@ -242,8 +243,11 @@ Unless we have fiduciaries _also maintain_ the value of _all stakeholders_, we a
 And that is unsustainable. 
 
 It will first become intolerable for the public, but it will eventually topple the few as well. 
-
 For while we live in a world of abundance, it is also a finite sphere. 
+
+These effects have been happening for centuries. 
+
+But now with Climate Change (which fiduciaries argue they had an obligation to conceal from the public) we are reaching the point of mass destruction because of the unfair practices of the past. 
 
 == Who are stakeholders?
 
