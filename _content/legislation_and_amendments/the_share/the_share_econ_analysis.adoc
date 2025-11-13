@@ -7,9 +7,9 @@ sort_number: 040
 :imagesdir: /content/media/images/
 :page-liquid:
 :page-stage: NoShow
-:page-draft_complete: 0%
+:page-draft_complete: 75%
 :page-authors: Vector Hasting
-:page-todos: This is the economic analysis page for The Share. There is a lot of material to link to from here. Set those up. Include graphs. 
+:page-todos: It would be nice to have a 4th data section that has a graph of the Net Share amount. But it seems like that should be compared with something to be in context. The Share itself is in the thousands, but All Income is in the trillions, and Median Income is hard to model... so I'm not sure how to provide the context. It could be just a raw number, but divorced from inflation that's misleading. If someone has suggestions, that would be wonderful. 
 :showtitle:
 
 ++++
@@ -39,15 +39,56 @@ _Performances by link:https://suno.com/["Suno AI", window=read-later,opts="noope
 
 == Overview
 
-This page is a stub. 
+The main analysis is as follows:
 
-There is a great deal of analysis to upload and to link to. 
-That work will be completed shortly. 
+1) What is the Tax Rate  to support the initial Share Amount  of $20,000?
 
-It includes:
-. White papers on the success of Flat Tax systems.
-. White papers on the projected GDP growth and inflation of various Universal Basic Incomes, including a good match to The Share: nearly the same monthly payment and paid for as-you-go. 
-. Various studies that have confirmed the sensible answer that when you give people money, they generally use it to improve their lives (just as you reading this would do). 
-. Spreadsheets and charts that use the projections to predict the future for 100 years to insure the variable tax rate  does in fact stabilize in the 34% range (about where it starts).
-. Spreadsheets and charts that show why we predict 80% of Americans do better under this plan. 
+2) Given that Tax Rate  and Share Amount , for how many Americans is this system better? 
+
+3) What are the economic effects of this policy. 
+
+=== 1) What is the Tax Rate?
+
+link:\content\source_docs\source_docs_legislation_and_amendments\source_docs_the_share\share_tax_rate_2025_11_12_v03.ods[This spreadsheet] contains the essential calculations to model the Tax Rate  and the Adjustment Rate .
+
+The result is a Tax Rate  of 30% with an Adjustment Rate  of 0.25%. 
+
+image::graphs/tax_and_debt_rates.png[Tax and Debt Rates, title="Tax and Debt Rates with The Share"]
+
+Note that the tax rate fluctuation is under 1% (ie, the rate never goes over 31%) while driving the debt to the Target Debt Ratio  of 100% over 30 years.
+
+
+=== 2) How many are better off?
+
+link:\content\source_docs\source_docs_legislation_and_amendments\source_docs_the_share\a_fairandshare_comparecalc_2025_v03.ods[This spreadsheet] contains the methodology for comparing the old tax rates to the new tax rate. 
+
+The result is that the point of crossover for taxpayers from being better off verses worse off is $176,100 per year. 
+This is because that is the point under current law that taxpayers no longer pay social security and medicare taxes. 
+Under the Share, all taxpayers pay the same rate for All Income no matter their income level. 
+
+This income level of $176,100 is at the 80% level of US incomes. 
+
+image::graphs/win-lose_line.png[Tax and Debt Rates, title="Win-Lose Line for The Share"]
+
+Note that under this analysis, the total amount of additional tax paid is never greater than approx $17,000.
+However, this is probably not accurate in practice, because this analysis only considers wage-earners who fall under the Income and Payroll Taxes. 
+Americans who exploit the categorization of their income as capital gains, or dividends, or other favorable tax brackets capped at rates lower than the Income Tax rates will fare correspondingly worse under The Share. 
+
+=== 3) Economic analysis/
+
+The Roosevelt Institute has done a comprehensive modeling of a UBI very similar to this one. 
+
+Their page link:https://rooseveltinstitute.org/publications/macroeconomic-effects-universal-basic-income-ubi/["can be found here.", window=read-later,opts="noopener,nofollow"]
+
+Their report can be link:https://rooseveltinstitute.org/wp-content/uploads/2020/07/RI-Macroeconomic-Effects-of-UBI-201708.pdf[downloaded here.]
+
+The relevant final results are on page 12, and column 12: GDP increase of 2.56% and price level increase (inflation) of 0.56%. 
+
+Note that these numbers are _in addition to baseline_ so that GDP should increase _more than_ 2.56%. 
+Inflation likewise would be whatever the current rate would be plus the 0.56%. 
+
+In the spreadsheets in the previous section, we modeled GDP growth at a _conservative_ 2.56%: in other words we assumed a stagnant economy. 
+
+Actual results are likely to be much better. 
+
 

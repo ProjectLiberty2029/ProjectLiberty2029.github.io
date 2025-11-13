@@ -7,7 +7,7 @@ sort_number: 010
 :imagesdir: /content/media/images/
 :page-liquid:
 :page-stage: 11
-:page-draft_complete: 25%
+:page-draft_complete: 75%
 :page-authors: Vector Hasting
 :page-todos: This is the landing page for The Share. There is a lot of material to link to from here. Set those up. Fix the image links. Have a more concise argument and inspiring argument here in this document. 
 :showtitle:

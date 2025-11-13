@@ -7,7 +7,7 @@ sort_number: 020
 :imagesdir: /content/media/images/
 :page-liquid:
 :page-stage: NoShow
-:page-draft_complete: 25%
+:page-draft_complete: 100%
 :page-authors: Vector Hasting
 :page-todos: 
 :showtitle:

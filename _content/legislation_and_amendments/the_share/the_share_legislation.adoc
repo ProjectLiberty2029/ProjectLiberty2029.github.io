@@ -9,7 +9,7 @@ sort_number: 030
 :page-stage: NoShow
 :page-draft_complete: 100%
 :page-authors: Vector Hasting
-:page-todos: Not broken
+:page-todos: Need to look at Bankruptcy qualifications: we want to direct the bankruptcy trustee to not consider The Share income in the bankruptcy brackets, because otherwise we may get into a world where regular citizens can no longer take advantage of bankruptcy: which has been vital since the founding for allowing people to take the risks of entrepreneurship. 
 :showtitle:
 :page-custom_nesting: law-nesting
 
