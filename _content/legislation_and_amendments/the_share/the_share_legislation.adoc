@@ -158,9 +158,9 @@ Part II — The Share
 ... This amount shall be changed every year according to the definition in Section 12, and 
 ... This amount shall be paid in equal payments to every Share Recipient twice monthly as defined in Section 16, and 
 ... As an example, 
-.... if the Share Rate  is 86.957n%, and the US Gross Real Income for 2030 were to be $26.5 T, then the Share Amount  for 2031 would be  $23,043, and 
-.... In this example, if the Fair Tax Rate  for that year were 34%, then every adult citizen over 18 (with a few exceptions) would receive a net Share Amount  of $15,208.38 (which would be the $23,043 share minus 34% in taxes), and 
-.... In this example, each Share Recipient would receive two checks every month from the IRS for one twenty fourth of the net amount, or two checks a month for $633.68.  
+.... if the Share Rate  is 88.957n%, and the US Gross Real Income for 2030 were to be $26.5 T, then the Share Amount  for 2031 would be  $23,043, and 
+.... In this example, if the Fair Tax Rate  for that year were 28.9%, then every adult citizen over 18 (with a few exceptions) would receive a net Share Amount  of $16,383.57 (which would be the $23,043 share minus 28.9% in taxes), and 
+.... In this example, each Share Recipient would receive two checks every month from the IRS for one twenty fourth of the net amount, or two checks a month for $682.65.  
 ... US Gross Real Income is defined here as all income subject to the tax imposed by this Subchapter A.  
 ... US Gross Real Income may also be referred to as Gross Real Income or GRI. 
 . The Secretary of Commerce shall publish the US Gross Real Income as a line item in their monthly financial reports to the nation.  
@@ -192,7 +192,7 @@ Part II — The Share
 .. Income from an interest in an estate or Trust; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part I, Section 61 (a) (14) (Gross Income defined)]
 .. Cash equivalent of financial instruments conveyed to employees; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 83 (Property transferred in connection with performance of services)]
 .. Government benefits not otherwise exempted; footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 85 (Unemployment compensation), is one example]
-.. 50% of: footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 86 (Social Security and Tier 1 Railroad Retirement Benefits) creates a progressive scale that uses a 50% rule for the taxable base of Social Security Benefits (SSB) and Tier 1 Railroad Retirement Benefits (RRB), but slides that to 0% for those with a benefit under $25,000 (individual) and 85% for those with a benefit over $34,000.  This effectively makes a variable tax rate, not an equal, fair tax rate, which this proposal claims is unfair.  However, because by definition people on SSB or RRB are dealing with the difficulties of old age and end of life, we as a society have over generations afforded them a lower rate of taxation through this section of the tax code.  Therefore, this proposal continues that by fixing the 50% reduction to income from SSB/RRB. For those who used to enjoy the 0% rate, the Share Amount  more than makes up for the tax on that income.  ]
+.. 50% of: footnote:[Originally from Title 26, Subtitle A, Chapter 1, Subchapter B, Part II, Section 86 (Social Security and Tier 1 Railroad Retirement Benefits) creates a progressive scale that uses a 50% rule for the taxable base of Social Security Benefits (SSB) and Tier 1 Railroad Retirement Benefits (RRB), but slides that to 0% for those with a benefit under $25,000 (individual) and 85% for those with a benefit over $34,000.  This effectively makes a variable tax rate, not an equal, fair tax rate, which this proposal claims is unfair.  However, because by definition people on SSB or RRB are dealing with the difficulties of old age and end of life, we as a society have over generations afforded them a lower rate of taxation through this section of the tax code.  Therefore, this proposal continues that by fixing the 50% reduction to income from SSB/RRB. For those who used to enjoy the 0% rate, the Share Amount  more than makes up for the tax on that income.]
 ... Social Security payments;  
 ... Tier 1 Railroad Retirement Benefits;  
 .. Gifts in excess of the amount of The Share Amount  in effect on the date of the gift;  
@@ -213,7 +213,7 @@ Part II — The Share
 .. Tax Grants receipts which are non-taxable as defined by the Tax Grant legislation;  
 .. Employer reimbursements or per-diems to employees for business expenses paid by the employee for work purposes which have no significant element of personal pleasure, recreation or vacation;xv  
 .. Scholarships for study in accredited institutions, whether a degree or certification was obtained or not;  
-.. Employee fringe benefits provided at or in close proximity to the place of work, such as promotional discounts, office food, use of gym equipment, entertainment, temporary housing, child care, etc..; footnote:[S-907; 108th Congress, “Flat Tax Act of 2003;” Section ]
+.. Employee fringe benefits provided at or in close proximity to the place of work, such as promotional discounts, office food, use of gym equipment, entertainment, temporary housing, child care, etc..; footnote:[Originally from S-907; 108th Congress, “Flat Tax Act of 2003.”  ]
 .. Remuneration for services performed outside the United States if such remuneration was taxed by another country or is otherwise excluded from taxation by Subtitle A, Chapter 1, Subchapter N;  
 .. Medical benefits paid for medical services;  
 .. Child support, or Alimony, unless determined by a court of competent jurisdiction to be taxable;  
@@ -307,7 +307,7 @@ Part II — The Share
 .. Subpart A (Nonrefundable Personal Credits), and 
 .. Subpart B (Other Credits), and 
 .. Subpart C (Refundable Credits);
-. Where Tax Credits specify amounts for individuals, or heads of household, or married persons filing jointly, or married persons filing separately, taxpayers shall be due the maximum Tax Credit defined under the assumption that a married couple can be divided into two equal individuals.xviii  
+. Where Tax Credits specify amounts for individuals, or heads of household, or married persons filing jointly, or married persons filing separately, taxpayers shall be due the maximum Tax Credit defined under the assumption that a married couple can be divided into two equal individuals footnote:[There are a dizzying number of possible combinations of qualifying benefits that vary depending on the married or head-of-household status of taxpayers combined with the kind of filing.  The examples provided are based on Release Point 119-4, Section 22.] 
 .. For example, if a Disability Tax Credit lists a maximum benefit of $5,000 for a single disabled individual in a household, but $7,500 in the case of a joint return for two disabled spouses, or $3,750 for a disabled married person filing separately, then the Tax Credit authorized by this Section would be $5,000 for each individual. Therefore a married couple where where both are disabled and filing jointly would have a $10,000 Tax Credit, if each filed separately they would each receive a $5,000 Tax Credit, and if one was disabled and filed separately, the disabled spouse would receive a $5,000 Tax Credit. 
 .. For a further example, if an IRA Tax Credit allowed a $1,000 Tax Credit for a joint return of married persons, but a $1,500 Tax Credit if the spouse filed a single return as a head of household, then the Tax Credit authorized by this Section would allow $1,500 for the spouse whether they file a joint return or a single return.  If both spouses would have qualified for $1,500 if either had filed as head of household, then they may file a joint return with a $3,000 Tax Credit or two separate returns with each receiving a $1,500 Tax Credit.  
 .. Each Tax Credit shall be evaluated using a different method of resolving language that designates different benefits for different classes of the benefit to an individual if language of 
@@ -358,7 +358,7 @@ Part II — The Share
 
 ==== Section 11 — Initial Fair Tax Rate Upon Enactment 
 
-. Upon Enactment, the Fair Tax Rate  for the following two tax-years, shall be 34%.  
+. Upon Enactment, the Fair Tax Rate  for the following two tax-years, shall be 29%.  
 . At the beginning of the third tax-year after Enactment, the Tax Rate  will vary according to economic conditions as defined in the following Section 12.  
 
 ==== Section 12 — Adjustment of the Fair Tax Rate
@@ -373,8 +373,8 @@ Part II — The Share
 ... The US Debt-to-GDP-Ratio shall include both privately held debt and intergovernmental debt for the previous government fiscal year;  
 ... The GDP used for the Debt-to-GDP ratio will be for the matching previous year;  
 ... The Target Debt-to GDP  = 100%;  
-... The Adjustment Rate  = 3%.  
-.. For example, if GDP to Debt ratio on year 2 after [Enactment year] was 110%, then the new adjusted Fair Tax Rate  for year 3 would be 34% plus 3% of 10%, which is 34% plus 0.3%, which is 34.3%.  Likewise, if GDP to Debt ratio on year 10 is 95%, and the Fair Tax Rate  for year 10 was 31%, then the Fair Tax Rate  for year 11 would be 31% minus 3% of 5%, which is 31% minus 0.15%, which is 30.85%.  
+... The Adjustment Rate  = 0.25%.  
+.. For example, if GDP to Debt ratio on year 2 after [Enactment year] was 110%, then the new adjusted Fair Tax Rate  for year 3 would be 29% plus 0.25% of 10%, which is 29% plus 0.025%, which is 29.025%.  Likewise, if GDP to Debt ratio on year 10 is 95%, and the Fair Tax Rate  for year 10 was 28.97%, then the Fair Tax Rate  for year 11 would be 28.97% minus 0.25% of 5%, which is 28.97% minus 0.0125%, which is 28.9575%.  
 . Beginning with the third year after Enactment, the Secretary of the Treasury shall publish the new Fair Tax Rate as soon as practicable, but no later than one quarter before the beginning of every new tax year, using the formula described in this Section 12 (a).  
 
 ==== Section 13 — Exceptions to the Fair Tax Rate
@@ -456,7 +456,7 @@ Sec.
 
 === _SECTION 4:  ADDITIONAL AMENDMENTS_
 
-. _In General.--Title 26 shall be amended as follows:_
+. _In General.--Title 26 shall be amended as follows:_ footnote:[It is widely believed but impossible under current law to substantiate that wealthy individuals and corporations make use of deductions to abuse the tax system while maintaining expensive life-styles and economic powers. By placing a window on extreme uses of deductions (over 2,000 times the Share Amount  would be deductions from corporate net income of over $4,000,000 in the first year, and over 20  will be deductions of $400,000 from individual income in the first year) will allow the public to better know the extent (if any) of the problem.  These income thresholds limit the impact of this to the top 5% of earners.  Once these deduction uses are known, the public can take further action through their representatives.]
 
 _Amendment of Section 32: Earned income_
 
@@ -464,7 +464,7 @@ _Amendment of Section 32: Earned income_
 .. _Change the period “.” in §32 (c) (2) (A) (ii) to:_ “, and”
 .. _Add the following text as paragraph §32 (c) (2) (A) (iii):_
 [.indent]
-“the net amount of any Share Amount  received, after taxes.” 
+“the net amount of any Share Amount  received, after taxes.” footnote:[The earned income credit may still be qualified for by large families with only a single Share Recipient parent.]
 
 _Amendment of Section 40A: Biodiesel and renewable diesel used as fuel_
 
@@ -480,26 +480,26 @@ _Amendment of Section 161: Allowance of deductions_
 [.indent]
 “Any deduction specified in this part and claimed by a corporate taxpayer with publicly traded stock where the value of the deduction is over 2,000 (two-thousand) times the Share Amount  for the year the deduction was claimed shall be reported to the public with: the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters). +
 Any deduction specified in this part and claimed by any taxpayer which is not a natural person and which is not included in the previous sentence where the value of the deduction is over 50 (fifty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters). + 
-Any deduction specified in this part and claimed by any taxpayer who is a natural person where the value of the deduction is over 20 (twenty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the name of the taxpayer and the zip code of the taxpayer’s principal address, and if the taxpayer is not a natural person, the address and zip code of the taxpayer’s name of the taxpayer’s registered agent (if any).”
+Any deduction specified in this part and claimed by any taxpayer who is a natural person where the value of the deduction is over 20 (twenty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the name of the taxpayer and the zip code of the taxpayer’s principal address, and if the taxpayer is not a natural person, the address and zip code of the taxpayer’s name of the taxpayer’s registered agent (if any).” footnote:[Section 161 enables all the tax deductions for corporations in Subtitle A, Chapter 1, Subchapter B, Part VI: Itemized Deductions for Individuals and Corporations.]
 
 _Amendment of Section 183: Activities not engaged in for profit_
 
 . _In General — Section 183 (b) shall have an additional subparagraph following subparagraph (2). The final period (“.”) of subparagraph (2) shall be replaced with_ “, and” _and there shall be a new paragraph (3) which shall read as follows:_ +
 [.indent]
-"(3)	no deduction under this section shall be allowed in excess of twenty (20) times the Share Amount  for the same year that the deduction is claimed.""
+"(3)	no deduction under this section shall be allowed in excess of twenty (20) times the Share Amount  for the same year that the deduction is claimed." footnote:[Currently this section allows for an unlimited deduction for expensive hobbies.  It is theoretically possible to wipe out unlimited amounts of income by creating an S-Corporation to receive a person’s income, then raise horses, race yachts, climb mountains, with all the food and housing expenses required for those things, and deduct all the costs of those activities from taxable income.  This adds a limit to the amount deductible of 10  which is $200,000 in the first year.]
 
 _Amendment of Section 211: Allowance of deductions_
 
 . _In General — Section 211 shall have an additional sentence added to the end of the paragraph that shall read as follows:_ +
 [.indent]
-“Any deduction specified in this part and claimed by a taxpayer which has a value of over 20 (twenty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer and the zip code of the taxpayer’s principal address.”
+“Any deduction specified in this part and claimed by a taxpayer which has a value of over 20 (twenty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer and the zip code of the taxpayer’s principal address.” footnote:[Section 211 enables all the tax deductions for corporations in Subtitle A, Chapter 1, Subchapter B, Part VII: Additional Itemized Deductions for Individuals.  Setting a reporting limit of 20  means only those with the capacity to absorb $400,000 of expenses (in the first year) will face such reporting.  This is over the top 10% of income.]
 
 _Amendment of Section 241: Allowance of special deductions_
 
 . _In General — Section 241 shall have an additional two sentences added to the end of the paragraph that shall read as follows:_ +
 [.indent]
 “Any deduction specified in this part and claimed by a corporate taxpayer with publicly traded stock where the value of the deduction is over 2,000 (two-thousand) times the Share Amount  for the year the deduction was claimed shall be reported to the public with: the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters).  + 
-Any deduction specified in this part and claimed by any taxpayer which is not a natural person and which is not included in the previous sentence where the value of the deduction is over 50 (fifty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters).”
+Any deduction specified in this part and claimed by any taxpayer which is not a natural person and which is not included in the previous sentence where the value of the deduction is over 50 (fifty) times the Share Amount  for the year the deduction was claimed shall be reported to the public with the name of the taxpayer, the address and zip code of the taxpayer’s headquarters or principal place of business, and the name and address of the taxpayer’s registered agent (if any, and if the taxpayer has multiple registered agents, the primary registered agent designated for federal tax matters).” footnote:[Section 241 enables all the tax deductions for corporations in Subtitle A, Chapter 1, Subchapter B, Part VIII: Special Deductions for Corporations.  By placing a window on extreme uses of deductions (over 2,000 times the Share Amount  would be deductions from corporate net income of over $4,000,000 in the first year) will allow the public to better know the extent of abuses (if any) of the tax system.]
 
 === _SECTION 5: AMENDMENT OF TITLE 42, SECTION 401 (a)_ 
 
@@ -545,7 +545,7 @@ Any deduction specified in this part and claimed by any taxpayer which is not a 
 .. _Subchapter B: Part I, Section 67 (2-percent floor on miscellaneous itemized deductions)_ footnote:[Section 67 disallows certain deductions unless they amount to more than 2% of income.  This should be repealed on the grounds that it is a special rule that unfairly singles out people by expenditures, giving favor to those with larger expenses. ]
 .. _Subchapter B: Part I, Section 68 (Overall limitation of itemized deductions)_ footnote:[Section 68 reduces the amount of deductions high-earning people may claim based on the amount of their income. This violates the principle of fairness because it reduces the allowed deductions for people with incomes over $250,000 individually (or approx the top 5% of earners), to only claim 80% of all allowed deductions. ]
 .. _Subchapter B: Part I, Section 86 (Social Security and Tier 1 Railroad Retirement Benefits Deduction, has been moved to Subchapter A, Part I, Section 3 (b) (13) )_ footnote:[See the new Section 3 (b) (13) which grants the 50% income deduction which is the baseline for the old Section 86, and see the endnote for that new provision as well. ]
-.. _Subchapter B: Part V (Deductions for Personal Exemptions, has been set to zero since 2018 and should be removed for simplicity)) footnote:[In the Tax Cuts and Jobs Act of 2018 this deduction was set to zero by action of Subtitle A, Subchapter B, Part V, Section 151 (d) (5) (A): “The term “exemption amount” means zero. In the “Big Beautiful Bill,” the timeframe for this zeroing of the tax exemption was changed to all of time following December 31, 2017. For simplicity, this entire section should be removed from the tax code altogether.]
+.. _Subchapter B: Part V (Deductions for Personal Exemptions, has been set to zero since 2018 and should be removed for simplicity) footnote:[In the Tax Cuts and Jobs Act of 2018 this deduction was set to zero by action of Subtitle A, Subchapter B, Part V, Section 151 (d) (5) (A): “The term “exemption amount” means zero. In the “Big Beautiful Bill,” the timeframe for this zeroing of the tax exemption was changed to all of time following December 31, 2017. For simplicity, this entire section should be removed from the tax code altogether.]
 .. _Subchapter H (relating to banking institutions)._
 .. _Subchapter I (relating to natural resources)._
 .. _Subchapter J (relating to estates, trusts, beneficiaries, and decedents)._

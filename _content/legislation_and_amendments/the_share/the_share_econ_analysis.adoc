@@ -9,7 +9,7 @@ sort_number: 040
 :page-stage: NoShow
 :page-draft_complete: 75%
 :page-authors: Vector Hasting
-:page-todos: It would be nice to have a 4th data section that has a graph of the Net Share amount. But it seems like that should be compared with something to be in context. The Share itself is in the thousands, but All Income is in the trillions, and Median Income is hard to model... so I'm not sure how to provide the context. It could be just a raw number, but divorced from inflation that's misleading. If someone has suggestions, that would be wonderful. 
+:page-todos: We need citations for the 80% level in section 2 and the 2% baseline GDP growth in section 3. And I have a nagging feeling I could do more. If someone has suggestions, that would be wonderful. 
 :showtitle:
 
 ++++
@@ -43,20 +43,21 @@ The main analysis is as follows:
 
 1) What is the Tax Rate  to support the initial Share Amount  of $20,000?
 
-2) Given that Tax Rate  and Share Amount , for how many Americans is this system better? 
+2) For how many Americans is this system better? 
 
-3) What are the economic effects of this policy. 
+3) Showing the growth of the Share Amount  over time as compared with All Income and GDP. 
 
-=== 1) What is the Tax Rate?
+4) What economic analysis has been done for this policy. 
 
-link:\content\source_docs\source_docs_legislation_and_amendments\source_docs_the_share\share_tax_rate_2025_11_12_v03.ods[This spreadsheet] contains the essential calculations to model the Tax Rate  and the Adjustment Rate .
+=== 1) What is the Tax Rate? What happens to the Debt?
 
-The result is a Tax Rate  of 30% with an Adjustment Rate  of 0.25%. 
+link:\content\source_docs\source_docs_legislation_and_amendments\source_docs_the_share\share_tax_rate_2025_11_12_v04.ods[This spreadsheet] contains the essential calculations to model the Tax Rate  and the Adjustment Rate .
 
-image::graphs/tax_and_debt_rates.png[Tax and Debt Rates, title="Tax and Debt Rates with The Share"]
+The result is a Tax Rate  of 29% with an Adjustment Rate  of 0.25%. 
 
-Note that the tax rate fluctuation is under 1% (ie, the rate never goes over 31%) while driving the debt to the Target Debt Ratio  of 100% over 30 years.
+image::graphs/tax_and_debt_rates.png[Tax and Debt Rates, width=70%, title="Tax and Debt Rates with The Share"]
 
+Note that the tax rate fluctuation is under 1% (ie, the rate never goes over 29.4% and never goes under 28.6%) while driving the debt to the Target Debt Ratio  of 100% over 30 years.
 
 === 2) How many are better off?
 
@@ -68,27 +69,34 @@ Under the Share, all taxpayers pay the same rate for All Income no matter their 
 
 This income level of $176,100 is at the 80% level of US incomes. 
 
-image::graphs/win-lose_line.png[Tax and Debt Rates, title="Win-Lose Line for The Share"]
+image::graphs/win-lose_line.png[Win-Lose Line, width=70%, title="Win-Lose Line for The Share"]
 
 Note that under this analysis, the total amount of additional tax paid is never greater than approx $17,000.
 However, this is probably not accurate in practice, because this analysis only considers wage-earners who fall under the Income and Payroll Taxes. 
 Americans who exploit the categorization of their income as capital gains, or dividends, or other favorable tax brackets capped at rates lower than the Income Tax rates will fare correspondingly worse under The Share. 
 
-=== 3) Economic analysis/
+=== 3) Share over time compared with All Income and GDP
+
+The Share is by design a fixed percentage of All Income, which is itself intrinsically a percentage of GDP.
+Though that percentage can vary, it is steadily 77.67% of GDP from 1975 to 2024. footnote:[See the result of analysis on the "BEA_Table_1_12_1975-2024" tab of link:\content\source_docs\source_docs_legislation_and_amendments\source_docs_the_share\share_tax_rate_2025_11_12_v04.ods[the Tax Rate  calculation spreadsheet.]]
+
+Based on these assumptions, we have this graph of the rise of the the Share Amount  as compared with All Incomes and with GDP over the next 74 years. 
+
+image::graphs/share_vs_all_income_vs_gdp.png[Share vs All Income vs GDP, width=70%, title="The Share Amount  Growth vs All Income and GDP"]
+
+=== 4) Economic analysis
 
 The Roosevelt Institute has done a comprehensive modeling of a UBI very similar to this one. 
+Their results are used in the projections above.
 
 Their page link:https://rooseveltinstitute.org/publications/macroeconomic-effects-universal-basic-income-ubi/["can be found here.", window=read-later,opts="noopener,nofollow"]
 
 Their report can be link:https://rooseveltinstitute.org/wp-content/uploads/2020/07/RI-Macroeconomic-Effects-of-UBI-201708.pdf[downloaded here.]
 
-The relevant final results are on page 12, and column 12: GDP increase of 2.56% and price level increase (inflation) of 0.56%. 
+The relevant final results are on page 12, column 12: GDP increase of 2.62% and price level increase (inflation) of 0.56%. 
 
-Note that these numbers are _in addition to baseline_ so that GDP should increase _more than_ 2.56%. 
-Inflation likewise would be whatever the current rate would be plus the 0.56%. 
+Note that these numbers are _in addition to baseline_ so we have modeled GDP as 2.62% plus a 2% baseline growth. 
 
-In the spreadsheets in the previous section, we modeled GDP growth at a _conservative_ 2.56%: in other words we assumed a stagnant economy. 
-
-Actual results are likely to be much better. 
+Inflation likewise would be whatever the background rate would be plus the 0.56%. 
 
 
