@@ -669,10 +669,14 @@ small {
 }
 
 .music-embed {
-  width: 640px;
-  height: 160px;
+  width: 540px;
+  height: 140px;
 }
 
+.youtube-embed {
+  width: 540px;
+  height: 302px;
+}
 /* ======================================================*/
 /* We need these to override Table of Contents colors VH */
 /* Note that setting sectlevel0 is then inherited by levels 1-6 */
@@ -997,8 +1001,13 @@ small {
       text-align: center;
   }
   .music-embed {
-    width: 320px;
-    height: 80px;
+    width: 250px;
+    height: 62px;
+  }
+
+  .youtube-embed {
+  width: 250px;
+  height: 140px;
   }
   .font20_700 {
   font-size: 14px; 
